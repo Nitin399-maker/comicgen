@@ -12,10 +12,6 @@ on:
         description: 'Target date (YYYY-MM-DD)'
         required: false
         default: ''
-      run_mode:
-        description: 'Run mode (daily or backfill)'
-        required: false
-        default: 'daily'
 
 jobs:
   generate-comics:
@@ -30,15 +26,9 @@ jobs:
         with:
           node-version: '18'
       
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-      
       - name: Install dependencies
         run: |
-          npm install rss-parser axios
-          # Add any Python dependencies if needed
+          npm install
       
       - name: Set target date
         id: date
@@ -48,30 +38,20 @@ jobs:
           else
             echo "TARGET_DATE=${{ github.event.inputs.target_date }}" >> $GITHUB_ENV
           fi
-          
-          if [ -z "${{ github.event.inputs.run_mode }}" ]; then
-            echo "RUN_MODE=daily" >> $GITHUB_ENV
-          else
-            echo "RUN_MODE=${{ github.event.inputs.run_mode }}" >> $GITHUB_ENV
-          fi
-      
-      - name: Fetch news articles
-        run: |
-          node scripts/fetch_news.js "$TARGET_DATE" "$RUN_MODE" > input.json
-          echo "Fetched articles:"
-          cat input.json | jq '.fetched_articles | length'
       
       - name: Generate comic specifications
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
-          cat input.json | python comic_bot.py > "data/$TARGET_DATE.json"
+          node scripts/unified_comic_generator.js "$TARGET_DATE"
           echo "Generated comic specs:"
           cat "data/$TARGET_DATE.json" | jq '.items | length'
       
       - name: Generate comic images
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-          # Using OpenRouter with Gemini Nano for RK Laxman/Amul style
         run: |
+          # Generates WebP compressed images using Gemini for RK Laxman/Amul style
           node scripts/generate_comics.js "$TARGET_DATE"
       
       - name: Build static site
@@ -98,7 +78,7 @@ jobs:
           echo "## Daily Comic Generation Complete 🎨" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Date:** $TARGET_DATE" >> $GITHUB_STEP_SUMMARY
-          echo "**Mode:** $RUN_MODE" >> $GITHUB_STEP_SUMMARY
+          echo "**Format:** WebP compressed images" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Comics generated:**" >> $GITHUB_STEP_SUMMARY
           cat "data/$TARGET_DATE.json" | jq -r '.items[] | "- \(.category): \(.news_title)"' >> $GITHUB_STEP_SUMMARY
