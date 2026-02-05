@@ -53,11 +53,12 @@ comicgen/
 ├── images/                  # Generated comic images
 │   ├── 2026-01-28_technology.webp
 │   └── ...
-├── site/                    # Static website
-│   ├── index.html          # Homepage
+├── site/                    # Static website assets
 │   ├── category.html       # Category archives
 │   ├── day.html            # Daily view
-│   └── app.js              # Frontend logic
+│   ├── app.js              # Frontend logic
+│   └── style.css           # Styles
+├── index.html              # Homepage (root level)
 ├── scripts/                 # Pipeline scripts
 │   ├── unified_comic_generator.js  # Fetch news + generate specs
 │   ├── generate_comics.js          # WebP image generation

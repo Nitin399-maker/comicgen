@@ -7,6 +7,7 @@ const __dirname = path.dirname(__filename);
 
 const buildIndexPage = (allData) => {
   const siteDir = path.join(__dirname, '..', 'site');
+  const rootDir = path.join(__dirname, '..');
   const sorted = allData.sort((a, b) => b.date.localeCompare(a.date));
   const latest = sorted[0];
   const allDates = [...new Set(sorted.map(d => d.date))];
@@ -35,7 +36,7 @@ const buildIndexPage = (allData) => {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Daily News Comics</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="site/style.css">
 </head>
 <body>
   <header>
@@ -73,7 +74,7 @@ const buildIndexPage = (allData) => {
               <span class="date-badge">${item.date}</span>
               <span class="category-badge">${item.category}</span>
             </div>
-            <img src="../images/${item.date}_${item.category}_${item.categoryIndex}.webp" alt="${item.comic.caption}" loading="lazy">
+            <img src="images/${item.date}_${item.category}_${item.categoryIndex}.webp" alt="${item.comic.caption}" loading="lazy">
             <div class="caption">${item.comic.caption}</div>
             <h3>${item.news_title.substring(0, 80)}${item.news_title.length > 80 ? '...' : ''}</h3>
             <p class="summary">${item.news_summary.substring(0, 120)}${item.news_summary.length > 120 ? '...' : ''}</p>
@@ -106,12 +107,12 @@ const buildIndexPage = (allData) => {
   <script>
     const comicsData = ${JSON.stringify(comicsData)};
   </script>
-  <script src="app.js"></script>
+  <script src="site/app.js"></script>
 </body>
 </html>`;
   
-  fs.writeFileSync(path.join(siteDir, 'index.html'), html);
-  console.error('Built index.html');
+  fs.writeFileSync(path.join(rootDir, 'index.html'), html);
+  console.error('Built index.html (in root directory)');
 }
 
 const buildCategoryPages = (allData) => {

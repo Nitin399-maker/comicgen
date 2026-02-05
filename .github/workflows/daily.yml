@@ -24,7 +24,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: '20'
       
       - name: Install dependencies
         run: |
@@ -62,15 +62,22 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/ images/ site/
+          git add data/ images/ site/ index.html
           git commit -m "Add comics for $TARGET_DATE" || echo "No changes to commit"
           git push
+      
+      - name: Prepare deployment directory
+        run: |
+          mkdir -p deploy
+          cp index.html deploy/
+          cp -r site deploy/
+          cp -r images deploy/
       
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
+          publish_dir: ./deploy
           publish_branch: gh-pages
       
       - name: Create summary
