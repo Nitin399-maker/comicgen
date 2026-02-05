@@ -84,83 +84,83 @@
     },
     {
       "category": "politics",
-      "news_title": "Kotappakonda temple festival arrangements",
-      "news_url": "https://www.thehindu.com/news/national/andhra-pradesh/kotappakonda-temple-festival-arrangements/article70594201.ece",
+      "news_title": "Concerned that FTA may cut access to medicines in India, rest of the developing world: Médecins Sans Frontières writes to EU",
+      "news_url": "https://www.thehindu.com/sci-tech/health/india-eu-fta-access-to-medicines-medecins-sans-frontieres-letter/article70594689.ece",
       "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "news_summary": "Temple authorities announce elaborate arrangements for Maha Shivaratri festival including helicopter rides, VIP tickets, and free laddus, mixing traditional worship with modern amenities.",
+      "news_summary": "Medical aid group MSF warns that EU-India trade deal could restrict access to affordable generic medicines in developing nations, potentially affecting millions dependent on Indian-made drugs.",
       "comic": {
-        "panel_description": "Split panel showing two contrasting scenes: On left, traditional pilgrims climbing temple steps carrying offerings; on right, a helicopter dropping VIPs with golden tickets while a confused Common Man watches. A laddu stall stands between the scenes.",
-        "caption": "Modern darshan: Where helicopters meet holy steps",
-        "image_prompt": "Indian editorial cartoon style, black ink line art, split composition, temple steps, traditional pilgrims in simple clothes, modern helicopter hovering, bewildered Common Man in dhoti watching, laddu stall, RK Laxman inspired crosshatching, minimal yellow color for VIP tickets, temple dome in background",
-        "negative_prompt": "avoid real politicians, religious symbols, brand names, military vehicles, corporate logos, offensive stereotypes",
-        "layout_notes": "Caption below split panel, Common Man positioned at center bottom as observer, temple architecture spans both scenes for unity"
+        "panel_description": "Split panel showing two contrasting scenes: Left side shows a giant EU bureaucrat with a pen blocking medicine bottles from flowing through a door marked 'India'. Right side shows thin, worried patients in developing nations looking at empty medicine shelves.",
+        "caption": "When free trade agreements aren't so free after all...",
+        "image_prompt": "Editorial cartoon in RK Laxman style, black ink line art with minimal watercolor, showing oversized bureaucrat figure in suit blocking medicine flow, common people waiting anxiously, medicine bottles, traditional Indian architectural elements, newspaper texture background",
+        "negative_prompt": "avoid specific politicians, corporate logos, brand names, medical symbols, graphic illness, specific drug names, religious symbols",
+        "layout_notes": "Caption centered below split panel, bureaucrat figure dominates left panel, smaller worried figures clustered on right, medicine bottles as connecting visual element"
       },
-      "explanation_paragraph": "The cartoon juxtaposes traditional temple pilgrimage with modern VIP conveniences, highlighting the commercialization of religious experiences. The Common Man represents ordinary devotees watching their sacred spaces transform into tourist attractions. The contrast between walking pilgrims and helicopter-riding VIPs satirizes the growing class divide in religious practices.",
+      "explanation_paragraph": "The cartoon illustrates the irony of how 'free' trade agreements can actually restrict access to essential goods. By showing a bureaucrat blocking medicine flow, it highlights how regulations in trade deals can harm vulnerable populations. The contrast between the powerful EU figure and desperate patients emphasizes the human cost of trade policies.",
       "safety_checks": {
         "defamation_risk": "low",
-        "sensitive_topic": "religion",
-        "notes": "Avoids mocking religious beliefs, focuses on administrative aspects and social commentary"
+        "sensitive_topic": "health",
+        "notes": "Avoids naming specific companies or individuals. Uses metaphorical representation rather than direct criticism."
       },
       "tags": [
         "politics",
-        "religion",
-        "social_commentary",
-        "modernization",
-        "class_divide"
+        "healthcare",
+        "international trade",
+        "social justice",
+        "human rights"
       ]
     },
     {
       "category": "politics",
-      "news_title": "Delhi Police arrests Al Falah University's chairman in forgery case",
-      "news_url": "https://www.thehindu.com/news/cities/Delhi/delhi-police-arrests-al-falah-universitys-chairman-in-forgery-case/article70594246.ece",
+      "news_title": "Maoist killed in encounter with security personnel in Chhattisgarh's Bijapur",
+      "news_url": "https://www.thehindu.com/news/national/chhattisgarh/maoist-killed-encounter-with-security-personnel-chhattisgarhs-bijapur/article70594619.ece",
       "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "news_summary": "Delhi Police arrested Al Falah University's chairman following UGC complaint and ED investigation into alleged forgery and irregularities at the private university.",
+      "news_summary": "Government sets March deadline to end Maoist insurgency in Chhattisgarh, with increased encounters and fatalities reported in forest regions.",
       "comic": {
-        "panel_description": "A large paper diploma factory with 'UNIVERSITY' written on it, smoke coming from chimneys shaped like rubber stamps. A Common Man watches as police officers chase floating fake degrees while bureaucrats frantically shred papers inside.",
-        "caption": "Degrees of Separation",
-        "image_prompt": "Indian editorial cartoon style, black ink linework, minimal watercolor, showing university building shaped like diploma printing factory, Common Man in dhoti watching, police officers jumping to catch flying paper degrees, bureaucrats visible through windows shredding documents, RK Laxman style characters with exaggerated expressions, crosshatching texture",
-        "negative_prompt": "real people, specific university logos, actual police uniforms, violent scenes, religious symbols, named individuals, blood, weapons",
-        "layout_notes": "Caption centered below panel, Common Man positioned lower left as observer, factory building dominates center frame, action flows left to right"
+        "panel_description": "A bureaucrat sits at an oversized desk with a giant calendar showing 'March 31' deadline. He's frantically trying to erase a stubborn red dot on India's map while numerous other dots keep appearing. A bemused Common Man watches from the corner.",
+        "caption": "Deadline magic: When bureaucrats think calendars can solve decades-old problems",
+        "image_prompt": "Indian editorial cartoon style, black ink line art, bureaucrat at wooden desk, oversized wall calendar, map of India with red dots, Common Man watching, minimal red color only for dots, RK Laxman inspired clean lines, crosshatching for shadows, newspaper aesthetic",
+        "negative_prompt": "violence, blood, weapons, specific politicians, police uniforms, gore, actual conflict scenes, political symbols, party logos",
+        "layout_notes": "Caption below panel, Common Man positioned bottom right corner, calendar prominent on wall, desk dominates center frame"
       },
-      "explanation_paragraph": "The cartoon transforms serious allegations of university forgery into a metaphorical degree-printing factory, highlighting the commercialization of education. The flying papers represent the attempt to cover up wrongdoing, while the Common Man's presence emphasizes public dismay at educational corruption. The rubber stamp chimneys suggest rubber-stamped approvals and systematic fraud.",
+      "explanation_paragraph": "The cartoon satirizes the government's arbitrary deadline-setting approach to complex social issues. By showing a bureaucrat literally trying to erase insurgency marks from a map while new ones keep appearing, it highlights the futility of solving deep-rooted problems through administrative timeframes. The Common Man's knowing look represents public skepticism of such simplified solutions.",
       "safety_checks": {
         "defamation_risk": "low",
         "sensitive_topic": "politics",
-        "notes": "Avoids specific references to individuals or institutions, uses metaphor rather than direct representation"
+        "notes": "Avoids direct reference to violence or specific incidents. Uses metaphor and general administrative setting."
+      },
+      "tags": [
+        "politics",
+        "bureaucracy",
+        "social_commentary",
+        "government_policy",
+        "deadline_culture"
+      ]
+    },
+    {
+      "category": "politics",
+      "news_title": "CM Nitish Kumar announces opening of colleges in all 534 blocks of Bihar",
+      "news_url": "https://www.thehindu.com/news/national/bihar/cm-nitish-kumar-announces-opening-of-colleges-in-all-534-blocks-of-bihar/article70594541.ece",
+      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "news_summary": "Bihar CM announces plans to open colleges in all 534 blocks by 2026, starting with 213 new colleges in phase one to improve higher education access.",
+      "comic": {
+        "panel_description": "A rickety construction site with a half-built college building made of stacked books instead of bricks. A weary architect holds massive blueprints while students eagerly queue up with admission forms. In the corner, a 'Common Man' character watches while standing next to a milestone marked '1/534'.",
+        "caption": "Build it and they will learn... eventually",
+        "image_prompt": "Indian editorial cartoon style, black ink line art with minimal watercolor, depicting architectural comedy scene with books forming building structure, RK Laxman inspired Common Man watching from corner, clean line work, cross-hatching, newspaper cartoon aesthetic, exaggerated expressions, educational theme",
+        "negative_prompt": "realistic faces, specific politicians, political party symbols, graphic content, corporate logos, photorealism, modern buildings",
+        "layout_notes": "Caption below panel, Common Man positioned lower right corner, building construction dominates center frame, student queue curves from left to form leading line"
+      },
+      "explanation_paragraph": "The cartoon satirizes the ambitious scale of Bihar's educational expansion plan by literally constructing colleges from books, highlighting both the noble intentions and practical challenges. The Common Man's presence beside the '1/534' milestone emphasizes the massive scope of the project. The eager students contrasted with the modest construction progress creates a gentle commentary on the gap between policy announcements and implementation.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "politics",
+        "notes": "Avoids targeting specific individuals or parties, focuses on policy implementation theme"
       },
       "tags": [
         "politics",
         "education",
-        "corruption",
-        "bureaucracy",
-        "law_enforcement"
-      ]
-    },
-    {
-      "category": "politics",
-      "news_title": "Narendra Kumar rejects Jagan’s remarks, seeks deeper probe into TTD issue",
-      "news_url": "https://www.thehindu.com/news/national/andhra-pradesh/narendra-kumar-rejects-jagans-remarks-seeks-deeper-probe-into-ttd-issue/article70592290.ece",
-      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "news_summary": "Political leaders debate over law and order situation in Andhra Pradesh, while also disputing investigation of sacred temple's prasadam quality issues.",
-      "comic": {
-        "panel_description": "Split panel showing two identical government offices. In one, a pompous politician dramatically points to 'Jungle Raj' written on wall while wearing safari suit. In other panel, Common Man peacefully reads newspaper on bench with orderly scene behind him. A temple laddu sits on table between panels.",
-        "caption": "One man's jungle is another man's garden",
-        "image_prompt": "Traditional Indian editorial cartoon style, black ink line art, split panel composition, Common Man character in dhoti, politician character in safari suit, temple prasadam, newspaper, government office setting, RK Laxman inspired hatching technique, minimal watercolor wash, exaggerated expressions",
-        "negative_prompt": "specific politicians, religious symbols, violent imagery, photorealism, modern style, digital art, bright colors, detailed faces, religious iconography",
-        "layout_notes": "Caption centered below split panel, temple laddu as visual bridge between panels, Common Man smaller and humbler than theatrical politician figure"
-      },
-      "explanation_paragraph": "The cartoon juxtaposes political rhetoric with everyday reality through contrasting scenes. While politicians dramatically declare chaos, the Common Man's peaceful experience tells a different story. The temple laddu symbolizes how sacred institutions become political footballs.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "politics",
-        "notes": "Avoids naming specific politicians or religious commentary. Uses metaphor rather than direct criticism."
-      },
-      "tags": [
-        "politics",
-        "governance",
-        "public_institutions",
-        "political_rhetoric",
-        "common_man"
+        "development",
+        "infrastructure",
+        "social_commentary"
       ]
     },
     {
@@ -192,56 +192,56 @@
     },
     {
       "category": "business",
-      "news_title": "Taiwan crucial issue in China-U.S. relations: Xi ",
-      "news_url": "https://economictimes.indiatimes.com/news/international/world-news/chinas-xi-presses-trump-on-taiwan-says-most-important-issue-in-china-u-s-relations/articleshow/127923269.cms",
+      "news_title": "AI Impact Forum: The room you can’t afford to miss ",
+      "news_url": "https://economictimes.indiatimes.com/ai/ai-insights/et-ai-impact-forum-the-room-you-cant-afford-to-miss/articleshow/127903937.cms",
       "news_source": "Economic Times",
-      "news_summary": "During a phone call between US and Chinese leaders, China emphasized Taiwan as the most crucial issue in US-China relations, amid ongoing trade talks and diplomatic meetings.",
+      "news_summary": "A high-level AI business forum limits attendance to senior decision-makers only, emphasizing exclusive participation over mere observation of discussions about India's AI future.",
       "comic": {
-        "panel_description": "A giant seesaw with a business briefcase labeled 'TRADE' on one end and a delicate porcelain vase labeled 'TAIWAN' on the other. A worried Common Man character watches as two giant hands try to balance both ends.",
-        "caption": "Diplomatic balancing act: Handle with care",
-        "image_prompt": "Editorial cartoon style, black ink line art, minimal watercolor, showing large wooden seesaw balancing precariously, briefcase on one end, delicate vase on other, worried common man character in dhoti watching from below, RK Laxman style crosshatching, newspaper aesthetic",
-        "negative_prompt": "realistic faces, Trump, Xi, flags, weapons, military imagery, corporate logos, photorealism",
-        "layout_notes": "Caption centered below, seesaw diagonal across frame, Common Man figure bottom right corner, maintain white space for emphasis"
+        "panel_description": "A grand conference room door labeled 'AI Impact Forum' with a pompous doorman checking credentials. Several anxious business figures in suits queue outside while inside, through a crack in the door, only three people sit in an enormous empty room with hundreds of chairs. The Common Man character peers in curiously from behind a potted plant.",
+        "caption": "Sorry sir, are you important enough to discuss our future?",
+        "image_prompt": "Indian editorial cartoon style, black ink line art with minimal watercolor, showing ornate conference room doorway, stern doorman with clipboard, queue of executives, vast empty room visible through crack in door, RK Laxman's Common Man character observing scene, dhoti-kurta clothing details, business suits, architectural details in background",
+        "negative_prompt": "avoid corporate logos, real people, political figures, religious symbols, modern technology, photorealism, digital art style",
+        "layout_notes": "Caption centered below panel, door positioned center-right, queue extending left, Common Man in lower right corner behind plant, room interior visible through narrow door opening"
       },
-      "explanation_paragraph": "The cartoon illustrates the delicate balance in US-China relations between economic interests and geopolitical tensions. The seesaw metaphor shows how focusing too heavily on trade could upset the sensitive Taiwan situation and vice versa. The Common Man represents global citizens watching nervously as major powers attempt this precarious diplomatic balancing act.",
+      "explanation_paragraph": "The cartoon satirizes the irony of discussing India's AI future in an exclusive, limited forum that shuts out the very people it will impact most. By showing a nearly empty room behind an imposing entrance with strict admission criteria, it highlights the disconnect between elite decision-making and practical implementation. The Common Man's presence reminds viewers that technology decisions affect everyone, not just those deemed important enough to participate.",
       "safety_checks": {
         "defamation_risk": "low",
-        "sensitive_topic": "politics",
-        "notes": "Avoids direct representation of leaders or controversial symbols. Uses metaphor to address sensitive topic."
+        "sensitive_topic": "none",
+        "notes": "Generic business setting, no specific individuals portrayed, safe for general audience"
       },
       "tags": [
         "business",
-        "diplomacy",
-        "international relations",
-        "trade",
-        "geopolitics"
+        "technology",
+        "artificial intelligence",
+        "elitism",
+        "bureaucracy"
       ]
     },
     {
       "category": "business",
-      "news_title": "US-Iran nuclear talks: All you need to know ",
-      "news_url": "https://economictimes.indiatimes.com/news/defence/us-iran-nuclear-talks-what-to-know-as-two-countries-set-for-key-meeting-in-oman/articleshow/127923136.cms",
+      "news_title": "Documents to sell inherited property in India ",
+      "news_url": "https://economictimes.indiatimes.com/wealth/legal/will/i-inherited-property-in-india-what-documents-do-i-need-to-sell-it-and-repatriate-the-money-in-uk/articleshow/127880486.cms",
       "news_source": "Economic Times",
-      "news_summary": "US and Iran resume nuclear talks in Oman, with Trump sending letters to initiate diplomacy while simultaneously maintaining pressure through sanctions and military threats.",
+      "news_summary": "NRI siblings in UK need complex documentation and legal process to sell inherited property in India and transfer funds overseas.",
       "comic": {
-        "panel_description": "Split scene: On left, a dove carrying a letter flies through a window. On right, the same dove wears a helmet and carries missiles. In the middle, a puzzled Common Man scratches his head looking at both versions.",
-        "caption": "When the peace dove needs a backup plan",
-        "image_prompt": "Editorial cartoon in RK Laxman style, black ink line art with minimal color, showing split-panel composition with diplomatic dove and militarized dove, confused common man in center, simple background, cross-hatching technique, newspaper aesthetic",
-        "negative_prompt": "realistic faces, Trump, Khamenei, gore, weapons of mass destruction, religious symbols, flags, specific politicians, photo-realistic style",
-        "layout_notes": "Caption below image, split panel composition with central figure bridging both sides, emphasis on contrast between peaceful and militant imagery"
+        "panel_description": "A bewildered Indian family stands before a mountain of paperwork shaped like the Taj Mahal. A stern bureaucrat sits at a tiny desk at the peak, stamping documents that float down like leaves. A Common Man character watches from the corner, shaking his head.",
+        "caption": "The Great Indian Inheritance Obstacle Course",
+        "image_prompt": "Black ink editorial cartoon, RK Laxman style, showing exaggerated stack of legal documents forming Taj Mahal shape, minimalist background, three frustrated figures in Western clothes at bottom, bureaucrat at top with giant rubber stamp, Common Man in dhoti watching, few touches of red in stamp ink",
+        "negative_prompt": "avoid modern buildings, specific people, government logos, official seals, religious symbols, violent imagery",
+        "layout_notes": "Caption below image, stack of papers dominates center frame, family small at bottom to show scale, Common Man in lower right corner"
       },
-      "explanation_paragraph": "The cartoon highlights the contradictory nature of simultaneous diplomatic outreach and military threats. By depicting a dove transforming from peace messenger to militant actor, it satirizes the mixed messages in current nuclear negotiations. The Common Man's confusion represents public bewilderment at this diplomatic double-speak.",
+      "explanation_paragraph": "The cartoon satirizes the byzantine bureaucracy involved in inheriting and selling property in India as an NRI. By depicting paperwork as a towering monument, it highlights how documentation requirements can overshadow the actual property being inherited. The contrast between the tiny desk and massive paper mountain emphasizes the disproportion between simple goals and complex procedures.",
       "safety_checks": {
         "defamation_risk": "low",
-        "sensitive_topic": "politics",
-        "notes": "Avoids specific political figures and religious imagery. Uses metaphorical representation instead of direct conflict depiction."
+        "sensitive_topic": "none",
+        "notes": "Generic representation of bureaucracy, no specific institutions targeted, safe for general audience"
       },
       "tags": [
         "business",
-        "diplomacy",
-        "nuclear talks",
-        "international relations",
-        "peace"
+        "property",
+        "bureaucracy",
+        "inheritance",
+        "NRI"
       ]
     },
     {
@@ -249,26 +249,26 @@
       "news_title": "Fergus O'Neill moves to Sydney Sixers amid talk over Victoria future ",
       "news_url": "https://www.espncricinfo.com/ci/content/story/1522352.html?ex_cid=OTC-RSS",
       "news_source": "Cricket news from ESPN Cricinfo.com",
-      "news_summary": "Cricket bowler switches teams from Melbourne to Sydney, causing uncertainty about his state cricket loyalty as well. His former team hopes to retain him for state matches.",
+      "news_summary": "Cricket bowler switches teams from Melbourne to Sydney amid speculation about state loyalty. His career move highlights tension between state teams competing for talent.",
       "comic": {
-        "panel_description": "A nervous cricket bowler stands at a crossroads with multiple road signs pointing to different cities. He juggles cricket balls while wearing half a Sydney uniform and half a Melbourne uniform. A confused kangaroo watches from behind a cricket stump.",
-        "caption": "The grass is always greener on the other cricket pitch",
-        "image_prompt": "Indian editorial cartoon style, black ink line art, crossroads scene with cricket player in split uniform, detailed crossroad signposts, confused kangaroo, cricket stumps and balls, RK Laxman style line hatching, minimal watercolor wash, newspaper aesthetic",
-        "negative_prompt": "photorealistic faces, team logos, brand names, specific player likenesses, corporate symbols, stadium names",
-        "layout_notes": "Caption below image, signposts clearly readable, split uniform visible from front view, kangaroo in lower right corner for balance"
+        "panel_description": "A confused cricket bowler stands at a crossroads with multiple road signs pointing to different cities. He juggles cricket balls while wearing half a Sydney uniform and half a Melbourne uniform. A kangaroo in the background holds a contract and looks amused.",
+        "caption": "When bowling down the middle means playing both sides",
+        "image_prompt": "Indian editorial cartoon style, black ink line art, cricket bowler at crossroads, split uniform, confused expression, exaggerated road signs, amused kangaroo in business suit, cricket balls in air, RK Laxman style hatching, minimal watercolor wash, sepia tones",
+        "negative_prompt": "real cricketers, team logos, actual uniforms, photo-realistic faces, cricket grounds, brand names, aggressive poses",
+        "layout_notes": "Caption below image, road signs readable but generic, central figure prominent, kangaroo in lower right corner as observing character"
       },
-      "explanation_paragraph": "The cartoon plays on the classic grass-is-greener metaphor by showing a player literally split between two cricket worlds. The confused kangaroo represents the bewildered Australian cricket community watching talent hop between teams. The multiple road signs suggest the increasingly complex path of modern cricket careers with players juggling multiple teams and formats.",
+      "explanation_paragraph": "The cartoon satirizes the increasingly fluid nature of player loyalty in modern cricket, where state boundaries become blurred by commercial interests. The split uniform visualizes the identity crisis faced by players caught between different teams and opportunities. The amused kangaroo represents the Australian cricket establishment watching talent hop between states.",
       "safety_checks": {
         "defamation_risk": "low",
         "sensitive_topic": "none",
-        "notes": "Generic representation avoids specific player likeness. No controversial elements."
+        "notes": "Generic representation avoids specific player likeness. No controversial elements present."
       },
       "tags": [
         "sports",
         "cricket",
-        "career_choices",
-        "australian_sports",
-        "team_loyalty"
+        "career",
+        "loyalty",
+        "satire"
       ]
     },
     {
@@ -276,26 +276,26 @@
       "news_title": "DC's fourth shot at elusive trophy as RCB look to make winning a habit",
       "news_url": "https://www.espncricinfo.com/ci/content/story/1522303.html?ex_cid=OTC-RSS",
       "news_source": "Cricket news from ESPN Cricinfo.com",
-      "news_summary": "Two women's cricket teams face off in championship final, with one team seeking their first trophy after three failed attempts while the other aims for a winning streak.",
+      "news_summary": "Delhi Capitals and Royal Challengers Bengaluru face off in WPL cricket final. DC seeks first trophy in fourth attempt while RCB aims for continued success.",
       "comic": {
-        "panel_description": "A nervous anthropomorphized trophy stands at wedding altar in cricket whites, repeatedly checking watch. On one side, an eager bride in Delhi Capitals colors keeps getting left at the altar. On other side, a confident bride in RCB colors holds previous trophies while winking.",
-        "caption": "Fourth Time's the Charm?",
-        "image_prompt": "Indian editorial cartoon style, black ink line art with minimal blue and red team colors, anthropomorphized cricket trophy as nervous groom at wedding altar, two cricket uniformed brides, simple background showing cricket stadium, RK Laxman inspired line weight, cross-hatched shading, newspaper print aesthetic",
-        "negative_prompt": "real cricket players, team logos, actual uniforms, wedding violence, religious symbols, corporate branding, photorealism",
-        "layout_notes": "Caption centered below panel, trophy figure central, brides on either side, stadium architecture forming wedding chapel arch above"
+        "panel_description": "A cricket stadium where two anthropomorphized elephants in cricket gear face each other - one wearing a crown and looking confident, the other desperately juggling three runner-up trophies while reaching for a fourth floating above. A bewildered 'common man' spectator watches from the stands.",
+        "caption": "Fourth time's the charm... or is it?",
+        "image_prompt": "Indian editorial cartoon style, black ink line art with minimal color, two anthropomorphized elephants in cricket uniforms on cricket field, one crowned and confident, other juggling trophies, common man spectator in background, RK Laxman style cross-hatching, newspaper quality line work, simple stadium backdrop",
+        "negative_prompt": "team logos, real players, actual team uniforms, photorealistic faces, violence, betting references, corporate branding",
+        "layout_notes": "Caption below panel, common man figure in bottom right corner, trophies drawn with gleaming highlights, stadium architecture simplified to essential lines"
       },
-      "explanation_paragraph": "The cartoon plays on the metaphor of Delhi Capitals as a perpetual bridesmaid, having reached but lost three finals. By portraying the championship trophy as a nervous groom and the teams as competing brides, it highlights the dramatic stakes of the match. The contrast between the experienced winner and hopeful underdog adds situational irony.",
+      "explanation_paragraph": "The cartoon plays on the classic underdog story in sports, using elephants to represent the teams while avoiding direct references. The juggling act symbolizes DC's repeated attempts at victory, while the crowned elephant represents RCB's established success. The common man's bewildered expression captures the fans' emotional investment in this recurring narrative.",
       "safety_checks": {
         "defamation_risk": "low",
         "sensitive_topic": "none",
-        "notes": "Wedding metaphor kept respectful, no religious elements, generic team representations"
+        "notes": "Generic representation of teams as animals avoids personal caricatures. No gambling or controversial elements included."
       },
       "tags": [
         "sports",
         "cricket",
         "WPL",
         "satire",
-        "wedding"
+        "underdog"
       ]
     },
     {
@@ -303,26 +303,26 @@
       "news_title": "Sheffield Shield team news - all the squads as the tournament resumes",
       "news_url": "https://www.espncricinfo.com/ci/content/story/1522252.html?ex_cid=OTC-RSS",
       "news_source": "Cricket news from ESPN Cricinfo.com",
-      "news_summary": "Australian cricket teams shuffle lineups as top players are absent due to T20 World Cup and other commitments, leaving state teams to manage with available talent.",
+      "news_summary": "Australian cricket teams juggle player availability as Sheffield Shield tournament resumes, with many star players absent due to T20 World Cup and other commitments.",
       "comic": {
-        "panel_description": "A cricket field with two distinct sides: one showing a polished professional team in crisp uniforms, while the other shows a ragtag group of substitute players in mismatched gear. A bewildered coach checks his clipboard while a confused spectator scratches his head.",
-        "caption": "When your A-team becomes the B-team becomes the C-team...",
-        "image_prompt": "Indian ink style editorial cartoon, cricket field backdrop, contrasting professional and amateur players, worried coach character, RK Laxman style common man watching, black and white line art with minimal watercolor wash, humorous expressions, newspaper cartoon aesthetic",
-        "negative_prompt": "specific cricket players, team logos, brand names, sports equipment logos, realistic faces, photorealism, digital art style",
-        "layout_notes": "Caption below panel, single frame composition with clear contrast between left and right sides, coach figure centered as focal point"
+        "panel_description": "Inside a cricket stadium locker room, a frazzled team manager stands before an empty row of lockers with a clipboard. A janitor in the corner wears cricket pads and holds a bat while a food vendor puts on wicketkeeping gloves. A 'Now Hiring' sign hangs crookedly on the wall.",
+        "caption": "Right then, who's up for first-class cricket?",
+        "image_prompt": "Indian editorial cartoon style, black ink line art, cricket stadium locker room, exaggerated expressions, frazzled manager character with clipboard, comical janitor and vendor in cricket gear, empty lockers, tilted 'Now Hiring' sign, RK Laxman Common Man style figures, minimal watercolor wash",
+        "negative_prompt": "real cricketers, team logos, brand names, cricket team uniforms with identifiable markings, photorealism, detailed faces",
+        "layout_notes": "Caption centered below panel, single frame composition with focus on manager's desperate expression, background details showing empty lockers"
       },
-      "explanation_paragraph": "The cartoon satirizes the cascading effect of multiple cricket tournaments and commitments pulling players away from domestic competitions. It highlights the absurdity of teams trying to maintain competitive standards while their star players are absent. The contrast between professional and substitute players serves as a metaphor for the scheduling challenges in modern cricket.",
+      "explanation_paragraph": "The cartoon satirizes the scheduling chaos in Australian cricket, where premier domestic competition struggles to field full-strength teams due to concurrent international commitments. By showing everyday workers being recruited to play, it highlights the absurd situation of a prestigious tournament missing its star players. The manager's desperation reflects the real challenges teams face in maintaining competitive squads.",
       "safety_checks": {
         "defamation_risk": "low",
         "sensitive_topic": "none",
-        "notes": "Generic representation of cricket teams, no specific individuals depicted, sports humor appropriate for all audiences"
+        "notes": "Generic characters used, no specific players depicted, humor focused on situation rather than individuals"
       },
       "tags": [
         "sports",
         "cricket",
         "humor",
-        "team management",
-        "scheduling"
+        "workplace",
+        "recruitment"
       ]
     }
   ]
