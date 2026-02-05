@@ -1,0 +1,329 @@
+{
+  "date": "2026-02-05",
+  "items": [
+    {
+      "category": "technology",
+      "news_title": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
+      "news_url": "https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/",
+      "news_source": "TechCrunch",
+      "news_summary": "AI company Anthropic aired Super Bowl ads mocking competitor OpenAI's plan to show ads in ChatGPT, leading to a heated response from OpenAI's CEO.",
+      "comic": {
+        "panel_description": "Split panel showing two chatbots as office workers. Left side: pristine, organized desk with halo. Right side: same desk covered in advertising billboards, popup ads, and sales flyers, with devil horns on the bot.",
+        "caption": "When AI assistants become advertising assistants",
+        "image_prompt": "RK Laxman style black ink line art showing two contrasting office cubicles, simple clean lines, minimal shading, exaggerated expressions, cluttered vs clean desks, newspaper comic aesthetic, common man watching from corner",
+        "negative_prompt": "specific company logos, real people, Sam Altman, ChatGPT interface, computer screens, corporate branding, photo-realism",
+        "layout_notes": "Caption centered below split panel, common man observer in bottom right corner, contrast between clean left and cluttered right sides"
+      },
+      "explanation_paragraph": "The cartoon satirizes the tension between AI companies over advertising integration. By showing the same chatbot assistant in two states - one pure and one corrupted by ads - it highlights fears about commercialization degrading AI services. The common man's bewildered expression represents public confusion over competing AI claims.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Avoids specific companies/individuals, uses generic office setting and characters"
+      },
+      "tags": [
+        "technology",
+        "artificial intelligence",
+        "advertising",
+        "corporate rivalry",
+        "commercialization"
+      ]
+    },
+    {
+      "category": "technology",
+      "news_title": "As it preps Specs for the masses, Snap’s Q4 shows revenue growth but fewer daily users",
+      "news_url": "https://techcrunch.com/2026/02/04/as-it-preps-specs-for-the-masses-snaps-q4-shows-revenue-growth-but-fewer-daily-users/",
+      "news_source": "TechCrunch",
+      "news_summary": "Snap is trying to expand beyond social media advertising into hardware with their AR glasses Specs, while seeing mixed financial results with slightly fewer daily users but higher revenue.",
+      "comic": {
+        "panel_description": "In a busy electronics store, a confused customer wearing comically oversized AR glasses stumbles into a display of traditional mirrors while taking selfies. Meanwhile, a store employee counts stacks of subscription money but looks worriedly at declining user statistics on a tablet.",
+        "caption": "Vision correction: Now accepting monthly payments!",
+        "image_prompt": "Editorial cartoon style, black ink line art with minimal color, showing busy electronics store interior, exaggerated AR glasses design, traditional mirrors falling, worried salesperson counting money, simple composition, clean lines, RK Laxman influence, crosshatching for shadows",
+        "negative_prompt": "Snapchat logo, real people, Evan Spiegel, brand names, violent crashes, broken glass, blood, injury",
+        "layout_notes": "Caption below panel, single frame composition with action centered, money stacks visible in foreground, mirrors in background"
+      },
+      "explanation_paragraph": "The cartoon satirizes Snap's attempt to pivot from social media to hardware while dealing with user decline. The contrast between the customer's clumsy interaction with real mirrors while wearing AR glasses highlights the irony of tech companies chasing new revenue streams at the expense of their core service. The employee counting money while worrying about user statistics represents the company's conflicting metrics.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Avoids specific brand references and keeps physical comedy mild"
+      },
+      "tags": [
+        "technology",
+        "social media",
+        "business",
+        "augmented reality",
+        "subscription economy"
+      ]
+    },
+    {
+      "category": "technology",
+      "news_title": "Mundi Ventures closes on €750M for Kembara, its largest deep tech and climate fund",
+      "news_url": "https://techcrunch.com/2026/02/04/mundi-ventures-closes-on-e750m-for-kembara-its-largest-deep-tech-and-climate-fund/",
+      "news_source": "TechCrunch",
+      "news_summary": "Spanish venture fund raises €750M to support European deep tech and climate startups, aiming to help them survive beyond early stages where many currently fail.",
+      "comic": {
+        "panel_description": "A giant piggy bank wearing a European flag cape stands atop a rickety bridge labeled 'Series B Gap'. Below, tiny startup boats with solar panels and computer chips try crossing a choppy ocean, while some sink. A wise old banker figure drops coins from the piggy bank using a fishing rod.",
+        "caption": "Bridging the funding gap, one euro at a time",
+        "image_prompt": "Editorial cartoon style, black ink line art with minimal blue highlights, giant anthropomorphic piggy bank wearing EU flag cape, standing on bridge, fishing rod in hand, helping small boats cross choppy waters below, RK Laxman style hatching and crosshatching, simple clean lines, newspaper aesthetic",
+        "negative_prompt": "corporate logos, specific people, photorealism, complex backgrounds, political figures, company names, modern style",
+        "layout_notes": "Caption centered below image, bridge spans full width of panel, piggy bank dominant in upper third, boats scattered in lower half"
+      },
+      "explanation_paragraph": "The cartoon plays on the metaphor of Europe's startup funding as a treacherous crossing, with many companies sinking at the Series B stage. The piggy bank represents the new Kembara fund acting as a bridge keeper, helping startups cross the notorious 'valley of death' in funding cycles. The fishing rod suggests a selective approach to choosing which companies to save.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Generic business imagery, no specific companies or individuals referenced"
+      },
+      "tags": [
+        "technology",
+        "venture capital",
+        "startups",
+        "european union",
+        "business"
+      ]
+    },
+    {
+      "category": "politics",
+      "news_title": "Kotappakonda temple festival arrangements",
+      "news_url": "https://www.thehindu.com/news/national/andhra-pradesh/kotappakonda-temple-festival-arrangements/article70594201.ece",
+      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "news_summary": "Temple authorities announce elaborate arrangements for Maha Shivaratri festival including helicopter rides, VIP tickets, and free laddus, mixing traditional worship with modern amenities.",
+      "comic": {
+        "panel_description": "Split panel showing two contrasting scenes: On left, traditional pilgrims climbing temple steps carrying offerings; on right, a helicopter dropping VIPs with golden tickets while a confused Common Man watches. A laddu stall stands between the scenes.",
+        "caption": "Modern darshan: Where helicopters meet holy steps",
+        "image_prompt": "Indian editorial cartoon style, black ink line art, split composition, temple steps, traditional pilgrims in simple clothes, modern helicopter hovering, bewildered Common Man in dhoti watching, laddu stall, RK Laxman inspired crosshatching, minimal yellow color for VIP tickets, temple dome in background",
+        "negative_prompt": "avoid real politicians, religious symbols, brand names, military vehicles, corporate logos, offensive stereotypes",
+        "layout_notes": "Caption below split panel, Common Man positioned at center bottom as observer, temple architecture spans both scenes for unity"
+      },
+      "explanation_paragraph": "The cartoon juxtaposes traditional temple pilgrimage with modern VIP conveniences, highlighting the commercialization of religious experiences. The Common Man represents ordinary devotees watching their sacred spaces transform into tourist attractions. The contrast between walking pilgrims and helicopter-riding VIPs satirizes the growing class divide in religious practices.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "religion",
+        "notes": "Avoids mocking religious beliefs, focuses on administrative aspects and social commentary"
+      },
+      "tags": [
+        "politics",
+        "religion",
+        "social_commentary",
+        "modernization",
+        "class_divide"
+      ]
+    },
+    {
+      "category": "politics",
+      "news_title": "Delhi Police arrests Al Falah University's chairman in forgery case",
+      "news_url": "https://www.thehindu.com/news/cities/Delhi/delhi-police-arrests-al-falah-universitys-chairman-in-forgery-case/article70594246.ece",
+      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "news_summary": "Delhi Police arrested Al Falah University's chairman following UGC complaint and ED investigation into alleged forgery and irregularities at the private university.",
+      "comic": {
+        "panel_description": "A large paper diploma factory with 'UNIVERSITY' written on it, smoke coming from chimneys shaped like rubber stamps. A Common Man watches as police officers chase floating fake degrees while bureaucrats frantically shred papers inside.",
+        "caption": "Degrees of Separation",
+        "image_prompt": "Indian editorial cartoon style, black ink linework, minimal watercolor, showing university building shaped like diploma printing factory, Common Man in dhoti watching, police officers jumping to catch flying paper degrees, bureaucrats visible through windows shredding documents, RK Laxman style characters with exaggerated expressions, crosshatching texture",
+        "negative_prompt": "real people, specific university logos, actual police uniforms, violent scenes, religious symbols, named individuals, blood, weapons",
+        "layout_notes": "Caption centered below panel, Common Man positioned lower left as observer, factory building dominates center frame, action flows left to right"
+      },
+      "explanation_paragraph": "The cartoon transforms serious allegations of university forgery into a metaphorical degree-printing factory, highlighting the commercialization of education. The flying papers represent the attempt to cover up wrongdoing, while the Common Man's presence emphasizes public dismay at educational corruption. The rubber stamp chimneys suggest rubber-stamped approvals and systematic fraud.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "politics",
+        "notes": "Avoids specific references to individuals or institutions, uses metaphor rather than direct representation"
+      },
+      "tags": [
+        "politics",
+        "education",
+        "corruption",
+        "bureaucracy",
+        "law_enforcement"
+      ]
+    },
+    {
+      "category": "politics",
+      "news_title": "Narendra Kumar rejects Jagan’s remarks, seeks deeper probe into TTD issue",
+      "news_url": "https://www.thehindu.com/news/national/andhra-pradesh/narendra-kumar-rejects-jagans-remarks-seeks-deeper-probe-into-ttd-issue/article70592290.ece",
+      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "news_summary": "Political leaders debate over law and order situation in Andhra Pradesh, while also disputing investigation of sacred temple's prasadam quality issues.",
+      "comic": {
+        "panel_description": "Split panel showing two identical government offices. In one, a pompous politician dramatically points to 'Jungle Raj' written on wall while wearing safari suit. In other panel, Common Man peacefully reads newspaper on bench with orderly scene behind him. A temple laddu sits on table between panels.",
+        "caption": "One man's jungle is another man's garden",
+        "image_prompt": "Traditional Indian editorial cartoon style, black ink line art, split panel composition, Common Man character in dhoti, politician character in safari suit, temple prasadam, newspaper, government office setting, RK Laxman inspired hatching technique, minimal watercolor wash, exaggerated expressions",
+        "negative_prompt": "specific politicians, religious symbols, violent imagery, photorealism, modern style, digital art, bright colors, detailed faces, religious iconography",
+        "layout_notes": "Caption centered below split panel, temple laddu as visual bridge between panels, Common Man smaller and humbler than theatrical politician figure"
+      },
+      "explanation_paragraph": "The cartoon juxtaposes political rhetoric with everyday reality through contrasting scenes. While politicians dramatically declare chaos, the Common Man's peaceful experience tells a different story. The temple laddu symbolizes how sacred institutions become political footballs.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "politics",
+        "notes": "Avoids naming specific politicians or religious commentary. Uses metaphor rather than direct criticism."
+      },
+      "tags": [
+        "politics",
+        "governance",
+        "public_institutions",
+        "political_rhetoric",
+        "common_man"
+      ]
+    },
+    {
+      "category": "business",
+      "news_title": "How Anthropic move is just a trailer of AI-pocalypse ",
+      "news_url": "https://economictimes.indiatimes.com/news/company/corporate-trends/from-feature-to-foe-anthropic-move-is-a-trailer-of-ai-pocalypse-saaspocalypse-as-tech-stocks-slump-amid-it-company-fears/articleshow/127904939.cms",
+      "news_source": "Economic Times",
+      "news_summary": "Anthropic's new AI automation tool causes panic in tech stocks as markets realize AI could replace IT services rather than just enhance them. The 'SaaSpocalypse' particularly impacts Indian IT companies.",
+      "comic": {
+        "panel_description": "A giant robot wearing a tie sits at an office desk, casually typing on multiple computers while sweating human IT workers peek nervously from behind cubicle walls. The robot has a name tag reading 'AI'. In the corner, a stock market display shows falling numbers.",
+        "caption": "\"Don't worry, I'm just here to enhance your productivity!\"",
+        "image_prompt": "Editorial cartoon style, black ink line art with minimal color, showing comical office scene with large mechanical robot in business attire, nervous office workers hiding, cubicle office setting, stock market display board, RK Laxman style cross-hatching, simple clean lines, exaggerated expressions",
+        "negative_prompt": "realistic faces, company logos, specific tech brands, photorealistic style, gore, violence, corporate logos, named individuals",
+        "layout_notes": "Caption below panel, stock ticker display visible in upper right corner, emphasize size contrast between robot and hiding workers"
+      },
+      "explanation_paragraph": "The cartoon satirizes the tech industry's previous notion that AI would merely enhance existing business models rather than replace them entirely. The irony is captured in the robot's reassuring statement while clearly taking over the workplace. The nervous workers represent the IT sector's growing realization that AI might eliminate rather than augment their roles.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Generic representation of AI impact on workforce, no specific companies or individuals targeted"
+      },
+      "tags": [
+        "business",
+        "technology",
+        "automation",
+        "artificial intelligence",
+        "workplace"
+      ]
+    },
+    {
+      "category": "business",
+      "news_title": "Taiwan crucial issue in China-U.S. relations: Xi ",
+      "news_url": "https://economictimes.indiatimes.com/news/international/world-news/chinas-xi-presses-trump-on-taiwan-says-most-important-issue-in-china-u-s-relations/articleshow/127923269.cms",
+      "news_source": "Economic Times",
+      "news_summary": "During a phone call between US and Chinese leaders, China emphasized Taiwan as the most crucial issue in US-China relations, amid ongoing trade talks and diplomatic meetings.",
+      "comic": {
+        "panel_description": "A giant seesaw with a business briefcase labeled 'TRADE' on one end and a delicate porcelain vase labeled 'TAIWAN' on the other. A worried Common Man character watches as two giant hands try to balance both ends.",
+        "caption": "Diplomatic balancing act: Handle with care",
+        "image_prompt": "Editorial cartoon style, black ink line art, minimal watercolor, showing large wooden seesaw balancing precariously, briefcase on one end, delicate vase on other, worried common man character in dhoti watching from below, RK Laxman style crosshatching, newspaper aesthetic",
+        "negative_prompt": "realistic faces, Trump, Xi, flags, weapons, military imagery, corporate logos, photorealism",
+        "layout_notes": "Caption centered below, seesaw diagonal across frame, Common Man figure bottom right corner, maintain white space for emphasis"
+      },
+      "explanation_paragraph": "The cartoon illustrates the delicate balance in US-China relations between economic interests and geopolitical tensions. The seesaw metaphor shows how focusing too heavily on trade could upset the sensitive Taiwan situation and vice versa. The Common Man represents global citizens watching nervously as major powers attempt this precarious diplomatic balancing act.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "politics",
+        "notes": "Avoids direct representation of leaders or controversial symbols. Uses metaphor to address sensitive topic."
+      },
+      "tags": [
+        "business",
+        "diplomacy",
+        "international relations",
+        "trade",
+        "geopolitics"
+      ]
+    },
+    {
+      "category": "business",
+      "news_title": "US-Iran nuclear talks: All you need to know ",
+      "news_url": "https://economictimes.indiatimes.com/news/defence/us-iran-nuclear-talks-what-to-know-as-two-countries-set-for-key-meeting-in-oman/articleshow/127923136.cms",
+      "news_source": "Economic Times",
+      "news_summary": "US and Iran resume nuclear talks in Oman, with Trump sending letters to initiate diplomacy while simultaneously maintaining pressure through sanctions and military threats.",
+      "comic": {
+        "panel_description": "Split scene: On left, a dove carrying a letter flies through a window. On right, the same dove wears a helmet and carries missiles. In the middle, a puzzled Common Man scratches his head looking at both versions.",
+        "caption": "When the peace dove needs a backup plan",
+        "image_prompt": "Editorial cartoon in RK Laxman style, black ink line art with minimal color, showing split-panel composition with diplomatic dove and militarized dove, confused common man in center, simple background, cross-hatching technique, newspaper aesthetic",
+        "negative_prompt": "realistic faces, Trump, Khamenei, gore, weapons of mass destruction, religious symbols, flags, specific politicians, photo-realistic style",
+        "layout_notes": "Caption below image, split panel composition with central figure bridging both sides, emphasis on contrast between peaceful and militant imagery"
+      },
+      "explanation_paragraph": "The cartoon highlights the contradictory nature of simultaneous diplomatic outreach and military threats. By depicting a dove transforming from peace messenger to militant actor, it satirizes the mixed messages in current nuclear negotiations. The Common Man's confusion represents public bewilderment at this diplomatic double-speak.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "politics",
+        "notes": "Avoids specific political figures and religious imagery. Uses metaphorical representation instead of direct conflict depiction."
+      },
+      "tags": [
+        "business",
+        "diplomacy",
+        "nuclear talks",
+        "international relations",
+        "peace"
+      ]
+    },
+    {
+      "category": "sports",
+      "news_title": "Fergus O'Neill moves to Sydney Sixers amid talk over Victoria future ",
+      "news_url": "https://www.espncricinfo.com/ci/content/story/1522352.html?ex_cid=OTC-RSS",
+      "news_source": "Cricket news from ESPN Cricinfo.com",
+      "news_summary": "Cricket bowler switches teams from Melbourne to Sydney, causing uncertainty about his state cricket loyalty as well. His former team hopes to retain him for state matches.",
+      "comic": {
+        "panel_description": "A nervous cricket bowler stands at a crossroads with multiple road signs pointing to different cities. He juggles cricket balls while wearing half a Sydney uniform and half a Melbourne uniform. A confused kangaroo watches from behind a cricket stump.",
+        "caption": "The grass is always greener on the other cricket pitch",
+        "image_prompt": "Indian editorial cartoon style, black ink line art, crossroads scene with cricket player in split uniform, detailed crossroad signposts, confused kangaroo, cricket stumps and balls, RK Laxman style line hatching, minimal watercolor wash, newspaper aesthetic",
+        "negative_prompt": "photorealistic faces, team logos, brand names, specific player likenesses, corporate symbols, stadium names",
+        "layout_notes": "Caption below image, signposts clearly readable, split uniform visible from front view, kangaroo in lower right corner for balance"
+      },
+      "explanation_paragraph": "The cartoon plays on the classic grass-is-greener metaphor by showing a player literally split between two cricket worlds. The confused kangaroo represents the bewildered Australian cricket community watching talent hop between teams. The multiple road signs suggest the increasingly complex path of modern cricket careers with players juggling multiple teams and formats.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Generic representation avoids specific player likeness. No controversial elements."
+      },
+      "tags": [
+        "sports",
+        "cricket",
+        "career_choices",
+        "australian_sports",
+        "team_loyalty"
+      ]
+    },
+    {
+      "category": "sports",
+      "news_title": "DC's fourth shot at elusive trophy as RCB look to make winning a habit",
+      "news_url": "https://www.espncricinfo.com/ci/content/story/1522303.html?ex_cid=OTC-RSS",
+      "news_source": "Cricket news from ESPN Cricinfo.com",
+      "news_summary": "Two women's cricket teams face off in championship final, with one team seeking their first trophy after three failed attempts while the other aims for a winning streak.",
+      "comic": {
+        "panel_description": "A nervous anthropomorphized trophy stands at wedding altar in cricket whites, repeatedly checking watch. On one side, an eager bride in Delhi Capitals colors keeps getting left at the altar. On other side, a confident bride in RCB colors holds previous trophies while winking.",
+        "caption": "Fourth Time's the Charm?",
+        "image_prompt": "Indian editorial cartoon style, black ink line art with minimal blue and red team colors, anthropomorphized cricket trophy as nervous groom at wedding altar, two cricket uniformed brides, simple background showing cricket stadium, RK Laxman inspired line weight, cross-hatched shading, newspaper print aesthetic",
+        "negative_prompt": "real cricket players, team logos, actual uniforms, wedding violence, religious symbols, corporate branding, photorealism",
+        "layout_notes": "Caption centered below panel, trophy figure central, brides on either side, stadium architecture forming wedding chapel arch above"
+      },
+      "explanation_paragraph": "The cartoon plays on the metaphor of Delhi Capitals as a perpetual bridesmaid, having reached but lost three finals. By portraying the championship trophy as a nervous groom and the teams as competing brides, it highlights the dramatic stakes of the match. The contrast between the experienced winner and hopeful underdog adds situational irony.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Wedding metaphor kept respectful, no religious elements, generic team representations"
+      },
+      "tags": [
+        "sports",
+        "cricket",
+        "WPL",
+        "satire",
+        "wedding"
+      ]
+    },
+    {
+      "category": "sports",
+      "news_title": "Sheffield Shield team news - all the squads as the tournament resumes",
+      "news_url": "https://www.espncricinfo.com/ci/content/story/1522252.html?ex_cid=OTC-RSS",
+      "news_source": "Cricket news from ESPN Cricinfo.com",
+      "news_summary": "Australian cricket teams shuffle lineups as top players are absent due to T20 World Cup and other commitments, leaving state teams to manage with available talent.",
+      "comic": {
+        "panel_description": "A cricket field with two distinct sides: one showing a polished professional team in crisp uniforms, while the other shows a ragtag group of substitute players in mismatched gear. A bewildered coach checks his clipboard while a confused spectator scratches his head.",
+        "caption": "When your A-team becomes the B-team becomes the C-team...",
+        "image_prompt": "Indian ink style editorial cartoon, cricket field backdrop, contrasting professional and amateur players, worried coach character, RK Laxman style common man watching, black and white line art with minimal watercolor wash, humorous expressions, newspaper cartoon aesthetic",
+        "negative_prompt": "specific cricket players, team logos, brand names, sports equipment logos, realistic faces, photorealism, digital art style",
+        "layout_notes": "Caption below panel, single frame composition with clear contrast between left and right sides, coach figure centered as focal point"
+      },
+      "explanation_paragraph": "The cartoon satirizes the cascading effect of multiple cricket tournaments and commitments pulling players away from domestic competitions. It highlights the absurdity of teams trying to maintain competitive standards while their star players are absent. The contrast between professional and substitute players serves as a metaphor for the scheduling challenges in modern cricket.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Generic representation of cricket teams, no specific individuals depicted, sports humor appropriate for all audiences"
+      },
+      "tags": [
+        "sports",
+        "cricket",
+        "humor",
+        "team management",
+        "scheduling"
+      ]
+    }
+  ]
+}
