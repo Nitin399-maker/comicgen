@@ -1,0 +1,104 @@
+name: Daily Comic Generation
+
+on:
+  schedule:
+    # Run at 6 AM UTC every day
+    - cron: '0 6 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: 'Target date (YYYY-MM-DD)'
+        required: false
+        default: ''
+      run_mode:
+        description: 'Run mode (daily or backfill)'
+        required: false
+        default: 'daily'
+
+jobs:
+  generate-comics:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          npm install rss-parser axios
+          # Add any Python dependencies if needed
+      
+      - name: Set target date
+        id: date
+        run: |
+          if [ -z "${{ github.event.inputs.target_date }}" ]; then
+            echo "TARGET_DATE=$(date +%Y-%m-%d)" >> $GITHUB_ENV
+          else
+            echo "TARGET_DATE=${{ github.event.inputs.target_date }}" >> $GITHUB_ENV
+          fi
+          
+          if [ -z "${{ github.event.inputs.run_mode }}" ]; then
+            echo "RUN_MODE=daily" >> $GITHUB_ENV
+          else
+            echo "RUN_MODE=${{ github.event.inputs.run_mode }}" >> $GITHUB_ENV
+          fi
+      
+      - name: Fetch news articles
+        run: |
+          node scripts/fetch_news.js "$TARGET_DATE" "$RUN_MODE" > input.json
+          echo "Fetched articles:"
+          cat input.json | jq '.fetched_articles | length'
+      
+      - name: Generate comic specifications
+        run: |
+          cat input.json | python comic_bot.py > "data/$TARGET_DATE.json"
+          echo "Generated comic specs:"
+          cat "data/$TARGET_DATE.json" | jq '.items | length'
+      
+      - name: Generate comic images
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          # Using OpenRouter with Gemini Nano for RK Laxman/Amul style
+        run: |
+          node scripts/generate_comics.js "$TARGET_DATE"
+      
+      - name: Build static site
+        run: |
+          node scripts/build_site.js
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/ images/ site/
+          git commit -m "Add comics for $TARGET_DATE" || echo "No changes to commit"
+          git push
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          publish_branch: gh-pages
+      
+      - name: Create summary
+        run: |
+          echo "## Daily Comic Generation Complete 🎨" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** $TARGET_DATE" >> $GITHUB_STEP_SUMMARY
+          echo "**Mode:** $RUN_MODE" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Comics generated:**" >> $GITHUB_STEP_SUMMARY
+          cat "data/$TARGET_DATE.json" | jq -r '.items[] | "- \(.category): \(.news_title)"' >> $GITHUB_STEP_SUMMARY

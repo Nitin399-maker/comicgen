@@ -1,0 +1,460 @@
+/* Daily News Comics Styles - Enhanced */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #2c3e50;
+  --secondary-color: #3498db;
+  --accent-color: #e74c3c;
+  --bg-color: #f5f5f5;
+  --card-bg: #ffffff;
+  --text-color: #333;
+  --light-text: #777;
+  --border-color: #ecf0f1;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+  line-height: 1.6;
+  color: var(--text-color);
+  background: var(--bg-color);
+}
+
+header {
+  background: linear-gradient(135deg, var(--primary-color) 0%, #34495e 100%);
+  color: white;
+  padding: 2.5rem 2rem;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+header p {
+  font-size: 1.1rem;
+  opacity: 0.9;
+}
+
+/* Filters Navigation */
+.filters {
+  max-width: 1200px;
+  margin: 2rem auto 0;
+  padding: 1.5rem;
+  background: var(--card-bg);
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  flex: 1;
+  min-width: 200px;
+}
+
+.filter-group label {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--primary-color);
+}
+
+.filter-group select {
+  padding: 0.75rem 1rem;
+  border: 2px solid var(--border-color);
+  border-radius: 6px;
+  font-size: 1rem;
+  background: white;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.filter-group select:hover {
+  border-color: var(--secondary-color);
+}
+
+.filter-group select:focus {
+  outline: none;
+  border-color: var(--secondary-color);
+  box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+}
+
+.btn-reset {
+  padding: 0.75rem 1.5rem;
+  background: var(--accent-color);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s;
+  align-self: flex-end;
+}
+
+.btn-reset:hover {
+  background: #c0392b;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+main {
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.comics-section h2 {
+  color: var(--primary-color);
+  margin-bottom: 1.5rem;
+  font-size: 1.8rem;
+}
+
+.comics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.comic-card {
+  background: var(--card-bg);
+  border-radius: 12px;
+  padding: 0;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  transition: all 0.3s;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.comic-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+}
+
+.comic-card .badges {
+  display: flex;
+  gap: 0.5rem;
+  padding: 1rem 1rem 0;
+}
+
+.category-badge, .date-badge {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.date-badge {
+  background: #95a5a6;
+  color: white;
+}
+
+.category-badge {
+  background: var(--secondary-color);
+  color: white;
+}
+
+.comic-card img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 0;
+}
+
+.caption {
+  font-style: italic;
+  font-weight: 600;
+  color: var(--primary-color);
+  margin: 1rem 1rem 0.5rem;
+  padding: 0.75rem;
+  background: #fff3cd;
+  border-left: 4px solid #ffc107;
+  border-radius: 4px;
+  font-size: 0.95rem;
+}
+
+.comic-card h3 {
+  font-size: 1.05rem;
+  margin: 0 1rem 0.75rem;
+  color: var(--primary-color);
+  line-height: 1.4;
+}
+
+.summary {
+  font-size: 0.9rem;
+  color: var(--light-text);
+  margin: 0 1rem 1rem;
+  line-height: 1.5;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0 1rem 1rem;
+}
+
+.tag {
+  background: var(--border-color);
+  padding: 0.3rem 0.6rem;
+  border-radius: 12px;
+  font-size: 0.7rem;
+  color: #555;
+  font-weight: 500;
+}
+
+/* No Results */
+.no-results {
+  text-align: center;
+  padding: 4rem 2rem;
+  background: var(--card-bg);
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.no-results p {
+  font-size: 1.2rem;
+  color: var(--light-text);
+  margin-bottom: 1.5rem;
+}
+
+.no-results button {
+  padding: 0.75rem 2rem;
+  background: var(--secondary-color);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.no-results button:hover {
+  background: #2980b9;
+}
+
+/* Modal Styles */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  overflow-y: auto;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.modal-content {
+  background: var(--card-bg);
+  border-radius: 16px;
+  max-width: 900px;
+  width: 100%;
+  max-height: 90vh;
+  overflow-y: auto;
+  position: relative;
+  animation: modalSlideIn 0.3s ease-out;
+}
+
+@keyframes modalSlideIn {
+  from {
+    transform: translateY(-50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.modal-close {
+  position: sticky;
+  top: 0;
+  right: 0;
+  float: right;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #aaa;
+  cursor: pointer;
+  padding: 1rem;
+  z-index: 10;
+  background: var(--card-bg);
+}
+
+.modal-close:hover {
+  color: #000;
+}
+
+.modal-header .badges {
+  padding: 1.5rem;
+  border-bottom: 2px solid var(--border-color);
+}
+
+.modal-image {
+  text-align: center;
+  background: #f8f9fa;
+  padding: 2rem;
+}
+
+.modal-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.caption-large {
+  font-style: italic;
+  font-weight: 700;
+  font-size: 1.3rem;
+  color: var(--primary-color);
+  margin-top: 1.5rem;
+  padding: 1rem 2rem;
+  background: #fff3cd;
+  border-left: 6px solid #ffc107;
+  border-radius: 6px;
+  text-align: left;
+}
+
+.modal-details {
+  padding: 2rem;
+}
+
+.modal-details h2 {
+  color: var(--primary-color);
+  margin-bottom: 1.5rem;
+  font-size: 1.8rem;
+  line-height: 1.3;
+}
+
+.modal-details h3 {
+  color: var(--primary-color);
+  margin: 1.5rem 0 0.75rem;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.news-summary, .explanation, .comic-details, .safety-info {
+  background: #f8f9fa;
+  padding: 1.25rem;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+}
+
+.safety-info p {
+  margin: 0.5rem 0;
+}
+
+.risk-low {
+  color: #27ae60;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.risk-medium {
+  color: #f39c12;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.risk-high {
+  color: #e74c3c;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.source-link {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 2px solid var(--border-color);
+}
+
+.btn-primary {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.75rem 2rem;
+  background: var(--secondary-color);
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: all 0.3s;
+}
+
+.btn-primary:hover {
+  background: #2980b9;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+footer {
+  text-align: center;
+  padding: 3rem 2rem;
+  color: var(--light-text);
+  font-size: 0.9rem;
+  background: var(--card-bg);
+  margin-top: 4rem;
+  box-shadow: 0 -2px 8px rgba(0,0,0,0.05);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  header h1 {
+    font-size: 1.8rem;
+  }
+  
+  .filters {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .filter-group {
+    min-width: 100%;
+  }
+  
+  .btn-reset {
+    align-self: stretch;
+  }
+  
+  .comics-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .modal {
+    padding: 1rem;
+  }
+  
+  .modal-content {
+    max-height: 95vh;
+  }
+  
+  .caption-large {
+    font-size: 1.1rem;
+    padding: 0.75rem 1rem;
+  }
+  
+  .modal-details {
+    padding: 1rem;
+  }
+}

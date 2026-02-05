@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily News Comics</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>📰 Daily News Comics</h1>
+    <p>Satirical editorial cartoons from today's headlines</p>
+  </header>
+  
+  <nav class="filters">
+    <div class="filter-group">
+      <label for="date-filter">📅 Select Date:</label>
+      <select id="date-filter">
+        <option value="all">All Dates</option>
+        <option value="2026-02-04">2026-02-04</option>
+      </select>
+    </div>
+    
+    <div class="filter-group">
+      <label for="category-filter">🏷️ Select Category:</label>
+      <select id="category-filter">
+        <option value="all">All Categories</option>
+        <option value="technology">Technology</option><option value="politics">Politics</option><option value="business">Business</option><option value="sports">Sports</option>
+      </select>
+    </div>
+    
+    <button id="reset-filters" class="btn-reset">Reset Filters</button>
+  </nav>
+  
+  <main>
+    <section class="comics-section">
+      <h2 id="comics-title">All Comics (12)</h2>
+      <div id="comics-grid" class="comics-grid">
+        
+          <article class="comic-card" data-date="2026-02-04" data-category="technology" data-index="0">
+            <div class="badges">
+              <span class="date-badge">2026-02-04</span>
+              <span class="category-badge">technology</span>
+            </div>
+            <img src="../images/2026-02-04_technology_1.webp" alt="The Great Animation Un-cancellation Show" loading="lazy">
+            <div class="caption">The Great Animation Un-cancellation Show</div>
+            <h3>After backlash, Adobe cancels Adobe Animate shutdown and puts app on ‘maintenanc...</h3>
+            <p class="summary">Adobe reverses decision to shut down Animate software after customer backlash, puts it in maintenance mode instead of di...</p>
+            <div class="tags">
+              <span class="tag">technology</span><span class="tag">software</span><span class="tag">corporate</span>
+            </div>
+          </article>
+        
+          <article class="comic-card" data-date="2026-02-04" data-category="technology" data-index="1">
+            <div class="badges">
+              <span class="date-badge">2026-02-04</span>
+              <span class="category-badge">technology</span>
+            </div>
+            <img src="../images/2026-02-04_technology_2.webp" alt="When autopilot meets auto profits" loading="lazy">
+            <div class="caption">When autopilot meets auto profits</div>
+            <h3>Uber appoints new CFO as its AV plans accelerate</h3>
+            <p class="summary">Uber promotes new CFO with autonomous vehicle expertise as company accelerates plans for driverless taxis. They aim to b...</p>
+            <div class="tags">
+              <span class="tag">technology</span><span class="tag">automation</span><span class="tag">transportation</span>
+            </div>
+          </article>
+        
+          <article class="comic-card" data-date="2026-02-04" data-category="technology" data-index="2">
+            <div class="badges">
+              <span class="date-badge">2026-02-04</span>
+              <span class="category-badge">technology</span>
+            </div>
+            <img src="../images/2026-02-04_technology_3.webp" alt="Digital marketplace or digital mandi?" loading="lazy">
+            <div class="caption">Digital marketplace or digital mandi?</div>
+            <h3>SNAK Venture Partners raises $50M fund to back vertical marketplaces</h3>
+            <p class="summary">Two venture capitalists launch a $50M fund called SNAK Ventures to invest in digital marketplaces, focusing on industrie...</p>
+            <div class="tags">
+              <span class="tag">technology</span><span class="tag">venture capital</span><span class="tag">digital transformation</span>
+            </div>
+          </article>
+        
+          <article class="comic-card" data-date="2026-02-04" data-category="politics" data-index="3">
+            <div class="badges">
+              <span class="date-badge">2026-02-04</span>
+              <span class="category-badge">politics</span>
+            </div>
+            <img src="../images/2026-02-04_politics_1.webp" alt="Justice may be blind, but the numbers don't lie" loading="lazy">
+            <div class="caption">Justice may be blind, but the numbers don't lie</div>
+            <h3>HC issues notices to Bar Council of India and A.P. on plea for 33% quota for wom...</h3>
+            <p class="summary">Andhra Pradesh High Court considers petition for 33% quota for women lawyers in Bar Association elections. Court issues ...</p>
+            <div class="tags">
+              <span class="tag">politics</span><span class="tag">gender_equality</span><span class="tag">legal_system</span>
+            </div>
+          </article>
+        
+          <article class="comic-card" data-date="2026-02-04" data-category="politics" data-index="4">
+            <div class="badges">
+              <span class="date-badge">2026-02-04</span>
+              <span class="category-badge">politics</span>
+            </div>
+            <img src="../images/2026-02-04_politics_2.webp" alt="The Electric Bus Rally: Service or Serve?" loading="lazy">
+            <div class="caption">The Electric Bus Rally: Service or Serve?</div>
+            <h3>Electric buses in 23 routes in the city:  Mayor</h3>
+            <p class="summary">Thiruvananthapuram city plans to launch electric buses on 23 routes, though there are disagreements about suburban cover...</p>
+            <div class="tags">
+              <span class="tag">politics</span><span class="tag">public transport</span><span class="tag">bureaucracy</span>
+            </div>
+          </article>
+        
+          <article class="comic-card" data-date="2026-02-04" data-category="politics" data-index="5">
+            <div class="badges">
+              <span class="date-badge">2026-02-04</span>
+              <span class="category-badge">politics</span>
+            </div>
+            <img src="../images/2026-02-04_politics_3.webp" alt="Rights and Regulations: Some things don't need balancing" loading="lazy">
+            <div class="caption">Rights and Regulations: Some things don't need balancing</div>
+            <h3>Maternity leave is a right, can’t be clubbed with regular leave: Kerala HC</h3>
+            <p class="summary">Kerala High Court rules that maternity leave is a fundamental right that cannot be combined with regular leave. Case inv...</p>
+            <div class="tags">
+              <span class="tag">politics</span><span class="tag">women's rights</span><span class="tag">healthcare</span>
+            </div>
+          </article>
+        
+          <article class="comic-card" data-date="2026-02-04" data-category="business" data-index="6">
+            <div class="badges">
+              <span class="date-badge">2026-02-04</span>
+              <span class="category-badge">business</span>
+            </div>
+            <img src="../images/2026-02-04_business_1.webp" alt="Welcome to the board meeting - both artificial and intelligent!" loading="lazy">
+            <div class="caption">Welcome to the board meeting - both artificial and intelligent!</div>
+            <h3>Building in AI this year? This is the room to be in </h3>
+            <p class="summary">A tech article discusses how AI hackathons are becoming serious business venues where real products are developed, rathe...</p>
+            <div class="tags">
+              <span class="tag">business</span><span class="tag">technology</span><span class="tag">artificial intelligence</span>
+            </div>
+          </article>
+        
+          <article class="comic-card" data-date="2026-02-04" data-category="business" data-index="7">
+            <div class="badges">
+              <span class="date-badge">2026-02-04</span>
+              <span class="category-badge">business</span>
+            </div>
+            <img src="../images/2026-02-04_business_2.webp" alt="Time flies, but insurance claims crawl" loading="lazy">
+            <div class="caption">Time flies, but insurance claims crawl</div>
+            <h3>Check claim settlement ratio of health &amp; GI for 2026 </h3>
+            <p class="summary">Insurance companies' claim settlement efficiency for 2024-25 revealed, showing wide variations in how quickly different ...</p>
+            <div class="tags">
+              <span class="tag">business</span><span class="tag">insurance</span><span class="tag">healthcare</span>
+            </div>
+          </article>
+        
+          <article class="comic-card" data-date="2026-02-04" data-category="business" data-index="8">
+            <div class="badges">
+              <span class="date-badge">2026-02-04</span>
+              <span class="category-badge">business</span>
+            </div>
+            <img src="../images/2026-02-04_business_3.webp" alt="Three legs are better than none!" loading="lazy">
+            <div class="caption">Three legs are better than none!</div>
+            <h3>Yumnam Singh takes oath as Manipur Chief Minister </h3>
+            <p class="summary">After a year of President's rule following ethnic tensions, Manipur gets a new Chief Minister with two deputy CMs from d...</p>
+            <div class="tags">
+              <span class="tag">business</span><span class="tag">politics</span><span class="tag">governance</span>
+            </div>
+          </article>
+        
+          <article class="comic-card" data-date="2026-02-04" data-category="sports" data-index="9">
+            <div class="badges">
+              <span class="date-badge">2026-02-04</span>
+              <span class="category-badge">sports</span>
+            </div>
+            <img src="../images/2026-02-04_sports_1.webp" alt="Breaking records? Just another day at youth camp!" loading="lazy">
+            <div class="caption">Breaking records? Just another day at youth camp!</div>
+            <h3>India ace record chase to make Under-19 World Cup final</h3>
+            <p class="summary">India's Under-19 cricket team chases down record target of 311 runs to reach World Cup final, overcoming early dropped c...</p>
+            <div class="tags">
+              <span class="tag">sports</span><span class="tag">cricket</span><span class="tag">youth</span>
+            </div>
+          </article>
+        
+          <article class="comic-card" data-date="2026-02-04" data-category="sports" data-index="10">
+            <div class="badges">
+              <span class="date-badge">2026-02-04</span>
+              <span class="category-badge">sports</span>
+            </div>
+            <img src="../images/2026-02-04_sports_2.webp" alt="When African springs meet Scottish highlands on the pitch" loading="lazy">
+            <div class="caption">When African springs meet Scottish highlands on the pitch</div>
+            <h3>Frylinck, Steenkamp set up Namibia's win against Scotland</h3>
+            <p class="summary">In a T20 World Cup warm-up match, Namibia defeated Scotland by 6 runs in a high-scoring game. Scotland came close but fe...</p>
+            <div class="tags">
+              <span class="tag">sports</span><span class="tag">cricket</span><span class="tag">cultural_contrast</span>
+            </div>
+          </article>
+        
+          <article class="comic-card" data-date="2026-02-04" data-category="sports" data-index="11">
+            <div class="badges">
+              <span class="date-badge">2026-02-04</span>
+              <span class="category-badge">sports</span>
+            </div>
+            <img src="../images/2026-02-04_sports_3.webp" alt="Sometimes the best cricket practice is no practice at all!" loading="lazy">
+            <div class="caption">Sometimes the best cricket practice is no practice at all!</div>
+            <h3>Mandhana and Rodrigues chill out before WPL final </h3>
+            <p class="summary">Two cricket team captains discuss taking breaks and relaxing before a big final match, emphasizing the importance of not...</p>
+            <div class="tags">
+              <span class="tag">sports</span><span class="tag">cricket</span><span class="tag">wellness</span>
+            </div>
+          </article>
+        
+      </div>
+      
+      <div id="no-results" class="no-results" style="display: none;">
+        <p>No comics found for the selected filters.</p>
+        <button onclick="resetFilters()">Reset Filters</button>
+      </div>
+    </section>
+  </main>
+  
+  <!-- Modal for comic details -->
+  <div id="comic-modal" class="modal">
+    <div class="modal-content">
+      <span class="modal-close" onclick="closeModal()">&times;</span>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+  
+  <footer>
+    <p>Generated automatically by Daily News Comic Bot • 12 comics from 1 days</p>
+  </footer>
+  
+  <script>
+    const comicsData = [{"date":"2026-02-04","category":"technology","categoryIndex":1,"news_title":"After backlash, Adobe cancels Adobe Animate shutdown and puts app on ‘maintenance mode’","news_url":"https://techcrunch.com/2026/02/04/after-backlash-adobe-cancels-adobe-animate-shutdown-and-puts-app-on-maintenance-mode/","news_source":"TechCrunch","news_summary":"Adobe reverses decision to shut down Animate software after customer backlash, puts it in maintenance mode instead of discontinuing it in 2026. Company initially planned shutdown to focus on AI.","comic":{"panel_description":"A nervous corporate suit stands at a podium labeled 'Adobe' trying to pull back a paper announcement that reads 'DISCONTINUING ANIMATE' while an angry mob of artists and animators with digital tablets and pencils shake their fists. In the corner, a small AI robot looks confused.","caption":"The Great Animation Un-cancellation Show","image_prompt":"Editorial cartoon style, black ink line art with minimal color, showing corporate executive at podium facing crowd, common man style simplified faces, dramatic expressions, newspaper cartoon aesthetic, clean lines, cross-hatching for shadows, RK Laxman inspired composition","negative_prompt":"Adobe logo, real executives, specific people, blood, violence, corporate logos, photorealistic faces, modern digital art style","layout_notes":"Caption below image, crowd arranged in bottom half, executive elevated on podium stage left, AI robot small in corner stage right"},"explanation_paragraph":"The cartoon satirizes Adobe's hasty reversal on discontinuing Animate after customer outrage. It highlights the disconnect between corporate AI-focused strategies and the actual needs of creative professionals. The visual metaphor of physically trying to pull back an announcement paper represents the company's awkward attempt to undo a poorly received decision.","safety_checks":{"defamation_risk":"low","sensitive_topic":"none","notes":"Avoids specific individuals or corporate representation beyond generic suit figure. Keeps conflict comical rather than threatening."},"tags":["technology","software","corporate","animation","artificial_intelligence"]},{"date":"2026-02-04","category":"technology","categoryIndex":2,"news_title":"Uber appoints new CFO as its AV plans accelerate","news_url":"https://techcrunch.com/2026/02/04/uber-appoints-new-cfo-as-its-av-plans-accelerate/","news_source":"TechCrunch","news_summary":"Uber promotes new CFO with autonomous vehicle expertise as company accelerates plans for driverless taxis. They aim to be world's largest AV trip provider by 2029.","comic":{"panel_description":"A confused elderly passenger sits in back of futuristic self-driving car, while a traditional taxi driver looks on from sidewalk. The autonomous car has comically oversized computer screens and gadgets but is struggling to navigate a simple speed bump. A briefcase-carrying executive in suit proudly points to charts showing upward trends.","caption":"When autopilot meets auto profits","image_prompt":"Indian editorial cartoon style, black ink line art with minimal color, showing exaggerated contrast between high-tech autonomous vehicle and traditional taxi, common man as confused passenger, clean lines, cross-hatched shading, RK Laxman inspired composition, simplified facial expressions, gentle satire","negative_prompt":"realistic faces, corporate logos, specific car brands, accident scenes, photo-realistic style, named individuals, Uber branding","layout_notes":"Single panel horizontal format, caption below, focus on contrast between human element and technology, strategic use of white space to highlight main elements"},"explanation_paragraph":"The cartoon plays on the tension between Uber's ambitious autonomous vehicle plans and the human reality of transportation. By juxtaposing a bewildered passenger with complex technology and an observant traditional driver, it highlights the gap between corporate financial projections and practical implementation. The executive's focus on charts rather than passenger comfort adds a layer of irony about prioritizing profits over service.","safety_checks":{"defamation_risk":"low","sensitive_topic":"none","notes":"Avoids specific corporate criticism, focuses on general technological transition themes"},"tags":["technology","automation","transportation","business","future"]},{"date":"2026-02-04","category":"technology","categoryIndex":3,"news_title":"SNAK Venture Partners raises $50M fund to back vertical marketplaces","news_url":"https://techcrunch.com/2026/02/04/snak-venture-partners-raises-50m-fund-to-back-digitizing-marketplaces/","news_source":"TechCrunch","news_summary":"Two venture capitalists launch a $50M fund called SNAK Ventures to invest in digital marketplaces, focusing on industries that haven't yet embraced technology.","comic":{"panel_description":"A traditional marketplace street vendor sits at a high-tech trading desk with multiple screens, wearing a dhoti but also VR goggles. One screen shows traditional vegetables while others display digital marketplace metrics. A bewildered 'common man' watches from the side.","caption":"Digital marketplace or digital mandi?","image_prompt":"Indian editorial cartoon style, black ink line art, traditional street vendor in dhoti at modern trading desk, multiple computer screens, VR goggles, vegetables on one screen, confused common man watching, RK Laxman style crosshatching, minimal color, simple background","negative_prompt":"avoid corporate logos, specific people, Silicon Valley stereotypes, expensive brands, offensive caricatures","layout_notes":"Caption below image, trading desk central focus, common man on right side observing, screens showing contrast between old and new commerce"},"explanation_paragraph":"The cartoon juxtaposes traditional marketplace commerce with modern digital platforms, highlighting the irony of digitizing age-old trading practices. By placing a traditional vendor in a high-tech setting, it comments on the rapid transformation of commerce while suggesting some fundamentals remain unchanged. The common man's bewilderment represents society's adjustment to this digital evolution.","safety_checks":{"defamation_risk":"low","sensitive_topic":"none","notes":"Generic characters and situations, avoids specific references to companies or individuals"},"tags":["technology","venture capital","digital transformation","commerce","tradition"]},{"date":"2026-02-04","category":"politics","categoryIndex":1,"news_title":"HC issues notices to Bar Council of India and A.P. on plea for 33% quota for women advocates","news_url":"https://www.thehindu.com/news/national/andhra-pradesh/hc-issues-notices-to-bar-council-of-india-and-ap-on-plea-for-33-quota-for-women-advocates/article70592337.ece","news_source":"India Latest News: Top National Headlines Today & Breaking News | The Hindu","news_summary":"Andhra Pradesh High Court considers petition for 33% quota for women lawyers in Bar Association elections. Court issues notices to Bar Council seeking response.","comic":{"panel_description":"A large courtroom scale shows male lawyer figures heavily weighing down one side while female lawyer figures struggle on the other. A blindfolded Lady Justice tries adjusting the scale with her sword while her blindfold slips, revealing one eye peeking at the imbalance.","caption":"Justice may be blind, but the numbers don't lie","image_prompt":"Indian editorial cartoon style, black ink line art, single panel showing Lady Justice with sliding blindfold, large ornate balance scale, simplified lawyer figures in black robes, minimal watercolor wash, cross-hatched shadows, RK Laxman inspired composition, newspaper aesthetic","negative_prompt":"realistic faces, specific people, court logos, violent imagery, modern technology, color photography, detailed backgrounds","layout_notes":"Caption centered below panel, scale dominates center frame, Lady Justice figure on right side, lawyer figures arranged on scale pans left and right"},"explanation_paragraph":"The cartoon uses the iconic symbol of Lady Justice to highlight the current gender imbalance in legal institutions. By showing her peeking through her blindfold, it suggests the system is aware of but slow to address obvious disparities. The tipped scale visualizes the statistical disparity while playing with the double meaning of justice and balance.","safety_checks":{"defamation_risk":"low","sensitive_topic":"politics","notes":"Avoids targeting individuals, uses universal symbols, keeps criticism institutional rather than personal"},"tags":["politics","gender_equality","legal_system","institutional_reform","social_justice"]},{"date":"2026-02-04","category":"politics","categoryIndex":2,"news_title":"Electric buses in 23 routes in the city:  Mayor","news_url":"https://www.thehindu.com/news/national/kerala/electric-buses-in-23-routes-in-the-city-mayor/article70592178.ece","news_source":"India Latest News: Top National Headlines Today & Breaking News | The Hindu","news_summary":"Thiruvananthapuram city plans to launch electric buses on 23 routes, though there are disagreements about suburban coverage. The mayor and transport minister had earlier disputes about service areas.","comic":{"panel_description":"A large electric bus shaped like a ping-pong ball bounces back and forth between two bureaucrat figures in suits, each holding tennis rackets labeled 'City' and 'Suburbs'. A bewildered common man watches from a bus stop bench.","caption":"The Electric Bus Rally: Service or Serve?","image_prompt":"Indian editorial cartoon style, black ink line art with minimal color, showing caricatured bureaucrats in suits playing ping-pong with an electric bus, common man character on bench, bus stop setting, RK Laxman inspired line work, newspaper cartoon aesthetic, slight exaggeration, gentle satire","negative_prompt":"photorealism, specific politicians, real people, government logos, modern digital art style, violence, offensive stereotypes","layout_notes":"Caption below panel, ping-pong action central, common man observing from lower right, bus stop signage subtle in background"},"explanation_paragraph":"The cartoon satirizes the bureaucratic back-and-forth over electric bus route planning by depicting it as a game of ping-pong between officials, while citizens wait for actual service. It highlights how administrative disputes can delay public benefits. The common man's bewildered expression represents public frustration with official indecision.","safety_checks":{"defamation_risk":"low","sensitive_topic":"politics","notes":"Generic bureaucrat figures avoid specific identification. Criticism focuses on system rather than individuals."},"tags":["politics","public transport","bureaucracy","urban planning","environment"]},{"date":"2026-02-04","category":"politics","categoryIndex":3,"news_title":"Maternity leave is a right, can’t be clubbed with regular leave: Kerala HC","news_url":"https://www.thehindu.com/news/national/kerala/maternity-leave-is-a-right-cant-be-clubbed-with-regular-leave-kerala-hc/article70592603.ece","news_source":"India Latest News: Top National Headlines Today & Breaking News | The Hindu","news_summary":"Kerala High Court rules that maternity leave is a fundamental right that cannot be combined with regular leave. Case involves doctor seeking approval for medical and maternity leave exceeding usual limits.","comic":{"panel_description":"Split panel showing two scenes: On left, a pregnant woman doctor in white coat holding medical files faces a stern bureaucrat behind a desk with a giant rubber stamp marked 'DENIED'. On right, Lady Justice (blindfolded with scales) cradles a baby while using her sword to separate a stack of papers labeled 'Maternity Leave' from 'Regular Leave'.","caption":"Rights and Regulations: Some things don't need balancing","image_prompt":"Indian editorial cartoon style, black ink line art with minimal watercolor, split panel composition, bureaucratic office setting, female doctor character, Lady Justice figure, exaggerated expressions, detailed cross-hatching, RK Laxman influence, institutional backdrop, traditional editorial style","negative_prompt":"realistic faces, specific people, hospital scenes, medical procedures, graphic elements, modern office equipment, corporate logos, religious symbols","layout_notes":"Caption centered below split panel, signature in bottom right corner, heavy emphasis on contrast between bureaucratic rigidity and maternal humanity"},"explanation_paragraph":"The cartoon juxtaposes bureaucratic inflexibility with the fundamental nature of maternal rights. By showing Lady Justice actively protecting maternity leave, it emphasizes the court's role in defending essential human rights against administrative obstacles. The split panel format dramatically illustrates the contrast between bureaucratic resistance and judicial wisdom.","safety_checks":{"defamation_risk":"low","sensitive_topic":"politics","notes":"Avoids specific individuals or institutions, uses universal symbols, keeps medical aspects generic"},"tags":["politics","women's rights","healthcare","bureaucracy","justice"]},{"date":"2026-02-04","category":"business","categoryIndex":1,"news_title":"Building in AI this year? This is the room to be in ","news_url":"https://economictimes.indiatimes.com/ai/ai-insights/if-you-are-building-in-ai-this-year-this-is-the-room-to-be-in/articleshow/127906870.cms","news_source":"Economic Times","news_summary":"A tech article discusses how AI hackathons are becoming serious business venues where real products are developed, rather than just experimental spaces for tinkering.","comic":{"panel_description":"A large corporate conference room where suited executives sit around a table with laptops, while robots in business attire pitch presentations. In the corner, a confused-looking common man watches as one robot serves tea while another updates a whiteboard with complex AI algorithms.","caption":"Welcome to the board meeting - both artificial and intelligent!","image_prompt":"Indian editorial cartoon style, black ink line art with minimal color, conference room scene with corporate robots and humans in suits, RK Laxman style common man watching from corner, whimsical expressions, detailed cross-hatching, simple clean lines, vintage newspaper aesthetic","negative_prompt":"realistic faces, specific tech companies, brand logos, complex backgrounds, photorealism, modern tech devices","layout_notes":"Caption below panel, common man positioned in bottom right corner as observer, main action centered on conference table, speech bubbles minimal"},"explanation_paragraph":"The cartoon satirizes the rapid corporatization of AI development by depicting robots literally taking seats at the boardroom table. It plays on the irony of artificial intelligence becoming so mainstream that it's now just another business meeting participant. The common man's bewildered expression represents the public's mix of awe and concern about AI's integration into corporate culture.","safety_checks":{"defamation_risk":"low","sensitive_topic":"none","notes":"Generic business setting, no specific companies or individuals referenced, suitable for general audience"},"tags":["business","technology","artificial intelligence","corporate culture","innovation"]},{"date":"2026-02-04","category":"business","categoryIndex":2,"news_title":"Check claim settlement ratio of health &amp; GI for 2026 ","news_url":"https://economictimes.indiatimes.com/wealth/insure/latest-claim-settlement-ratio-of-health-and-general-insurers-released-by-irda-in-2026-acko-aditya-birla-galaxy-lead-shriram-iffco-tokio-fall-below-90/articleshow/127906061.cms","news_source":"Economic Times","news_summary":"Insurance companies' claim settlement efficiency for 2024-25 revealed, showing wide variations in how quickly different insurers process claims within 3 months.","comic":{"panel_description":"A frustrated Common Man character sits in a hospital waiting room, aging visibly, with a calendar on the wall showing months rapidly flipping by. A smug insurance company clerk behind a glass window is stamping papers in slow motion while playing mobile games.","caption":"Time flies, but insurance claims crawl","image_prompt":"Indian editorial cartoon style, black ink line art, hospital waiting room scene, elderly Common Man character with worried expression, exaggerated calendar pages flying, bureaucratic clerk behind counter, minimal watercolor wash, RK Laxman inspired hatching technique, single panel composition","negative_prompt":"corporate logos, real insurance companies, specific politicians, medical procedures, blood, injuries, corporate branding, photorealism","layout_notes":"Caption below panel, calendar prominent on left wall, clerk's window on right, Common Man centered showing progressive aging through body language"},"explanation_paragraph":"The cartoon satirizes the bureaucratic delays in insurance claim settlements by contrasting the swift passage of time with deliberately slow processing. The visual metaphor of aging while waiting highlights the impact on common citizens. The clerk's casual attitude represents institutional indifference to policyholder struggles.","safety_checks":{"defamation_risk":"low","sensitive_topic":"health","notes":"Avoids targeting specific companies or individuals, uses general bureaucratic critique"},"tags":["business","insurance","healthcare","bureaucracy","consumer_rights"]},{"date":"2026-02-04","category":"business","categoryIndex":3,"news_title":"Yumnam Singh takes oath as Manipur Chief Minister ","news_url":"https://economictimes.indiatimes.com/news/india/yumnam-khemchand-singh-takes-oath-as-manipur-chief-minister/articleshow/127910097.cms","news_source":"Economic Times","news_summary":"After a year of President's rule following ethnic tensions, Manipur gets a new Chief Minister with two deputy CMs from different communities in an attempt to restore stability.","comic":{"panel_description":"A rickety three-legged stool labeled 'Manipur Government', with each leg representing different communities. A concerned Common Man watches as three generic bureaucrats carefully try to balance on it while holding peace doves.","caption":"Three legs are better than none!","image_prompt":"Indian editorial cartoon style, black ink line art with minimal watercolor, showing three-legged wooden stool with 'Manipur Government' text, three worried officials in generic suits balancing precariously, peace doves, Common Man watching from corner, RK Laxman influence, simple background, newspaper aesthetic","negative_prompt":"specific politicians, real people, ethnic markers, violent imagery, weapons, blood, riots, religious symbols, police uniforms, military uniforms","layout_notes":"Caption below image, Common Man in lower right corner, stool central focus, officials balanced on top, doves flying above"},"explanation_paragraph":"The cartoon uses the metaphor of a three-legged stool to represent the delicate power-sharing arrangement between communities in Manipur's new government. The precarious balancing act of the officials symbolizes the fragile nature of peace-building efforts. The Common Man's concerned expression reflects public skepticism while maintaining hope through the peace dove imagery.","safety_checks":{"defamation_risk":"low","sensitive_topic":"politics","notes":"Avoids ethnic references, uses generic characters and symbols, focuses on governance structure rather than conflict"},"tags":["business","politics","governance","peace","northeast"]},{"date":"2026-02-04","category":"sports","categoryIndex":1,"news_title":"India ace record chase to make Under-19 World Cup final","news_url":"https://www.espncricinfo.com/ci/content/story/1522335.html?ex_cid=OTC-RSS","news_source":"Cricket news from ESPN Cricinfo.com","news_summary":"India's Under-19 cricket team chases down record target of 311 runs to reach World Cup final, overcoming early dropped catches and making history.","comic":{"panel_description":"A young cricket batsman stands at crease, appearing small against towering scoreboard showing '311'. Behind him, a mountain peak labeled 'Record Chase' has his team's flag planted halfway up, while teammates form human ladder helping him climb. A bewildered Afghan bowler watches.","caption":"Breaking records? Just another day at youth camp!","image_prompt":"Editorial cartoon style, black ink line art with minimal watercolor, showing cricket ground with exaggerated scoreboard, determined young batsman, mountain metaphor, human pyramid of players, Common Man watching from boundary, RK Laxman influenced simple lines, newspaper illustration aesthetic","negative_prompt":"photorealistic faces, team logos, specific player likenesses, cricket brands, violence, aggressive poses, political symbols","layout_notes":"Caption below panel, mountain metaphor dominates upper third, cricket ground perspective from side angle, Common Man in lower right corner"},"explanation_paragraph":"The cartoon uses the metaphor of mountain climbing to represent breaking the record chase in cricket. The human ladder of teammates represents the collaborative effort, while the small size of the batsman against the scoreboard highlights the seeming impossibility of the task. The casual attitude in the caption underscores how India's youth teams routinely accomplish extraordinary feats.","safety_checks":{"defamation_risk":"low","sensitive_topic":"none","notes":"Generic representation of teams, no individual likenesses, sporting achievement focus"},"tags":["sports","cricket","youth","achievement","teamwork"]},{"date":"2026-02-04","category":"sports","categoryIndex":2,"news_title":"Frylinck, Steenkamp set up Namibia's win against Scotland","news_url":"https://www.espncricinfo.com/ci/content/story/1522329.html?ex_cid=OTC-RSS","news_source":"Cricket news from ESPN Cricinfo.com","news_summary":"In a T20 World Cup warm-up match, Namibia defeated Scotland by 6 runs in a high-scoring game. Scotland came close but fell short chasing 227 despite an impressive 95-run innings.","comic":{"panel_description":"A cricket field where two confused-looking kilted cricketers (representing Scotland) watch helplessly as a desert-dwelling springbok (representing Namibia) gracefully leaps over their wickets while carrying a cricket bat. A scoreboard in the background shows 226 vs 220.","caption":"When African springs meet Scottish highlands on the pitch","image_prompt":"Indian editorial cartoon style, black ink line art with minimal watercolor, showing anthropomorphic springbok in cricket whites jumping over stumps, two bewildered Scottish cricketers in kilts watching, cricket field background, scoreboard, RK Laxman style crosshatching, gentle humor, simple lines","negative_prompt":"photorealistic faces, team logos, actual players, country flags, violent actions, detailed uniforms, brand names","layout_notes":"Caption below panel, scoreboard visible but not dominant in upper right corner, focus on springbok's leap in center"},"explanation_paragraph":"The cartoon plays on the unexpected cricket rivalry between Namibia (represented by their national animal, the springbok) and Scotland (represented by traditional kilts). The absurdity of a desert nation outperforming a cricket-playing British territory is captured through the graceful springbok leaping over the stumps. The bewildered Scottish players represent the surprise of being outplayed in this unlikely matchup.","safety_checks":{"defamation_risk":"low","sensitive_topic":"none","notes":"Uses national stereotypes but in gentle, sporting context. Avoids specific player representation."},"tags":["sports","cricket","cultural_contrast","underdog","international"]},{"date":"2026-02-04","category":"sports","categoryIndex":3,"news_title":"Mandhana and Rodrigues chill out before WPL final ","news_url":"https://www.espncricinfo.com/ci/content/story/1522331.html?ex_cid=OTC-RSS","news_source":"Cricket news from ESPN Cricinfo.com","news_summary":"Two cricket team captains discuss taking breaks and relaxing before a big final match, emphasizing the importance of not overthinking or overtraining.","comic":{"panel_description":"Split panel showing two scenes: Left side shows a tense cricket player practicing obsessively with multiple bats and balls around her. Right side shows a relaxed player on a beach chair with a cricket bat being used as a sunshade, while butterflies land on her.","caption":"Sometimes the best cricket practice is no practice at all!","image_prompt":"Indian editorial cartoon style, black ink line art with minimal watercolor, split panel composition, contrasting stressed vs relaxed female cricket players, Common Man watching from corner, butterflies, cricket equipment scattered about, beach chair, palm trees in background, RK Laxman inspired thick line work","negative_prompt":"real people, actual cricketers, team logos, brand names, photorealism, detailed faces, sports uniforms with text","layout_notes":"Caption centered below split panel, Common Man figure in lower right corner observing both scenes, butterfly motif connecting both panels"},"explanation_paragraph":"The cartoon plays on the irony of high-performance athletes finding success through relaxation rather than intense practice. By contrasting obsessive training with peaceful relaxation, it satirizes the common belief that more practice always equals better results. The butterfly metaphor from the article is visualized literally to emphasize the point about letting go.","safety_checks":{"defamation_risk":"low","sensitive_topic":"none","notes":"Generic representation of athletes, no specific individuals depicted, positive message about mental health in sports"},"tags":["sports","cricket","wellness","work-life-balance","mindfulness"]}];
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>

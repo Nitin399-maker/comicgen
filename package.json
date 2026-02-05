@@ -1,0 +1,32 @@
+{
+  "name": "daily-news-comic-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Automated system for generating satirical editorial comics from daily news",
+  "main": "comic_bot.py",
+  "scripts": {
+    "fetch": "node scripts/fetch_news.js",
+    "generate": "cat input.json | python comic_bot.py",
+    "unified": "node scripts/unified_comic_generator.js",
+    "images": "node scripts/generate_comics.js",
+    "build": "node scripts/build_site.js",
+    "test": "python test_comic_bot.py",
+    "daily": "npm run fetch && npm run generate && npm run images && npm run build",
+    "daily-unified": "npm run unified && npm run build"
+  },
+  "keywords": [
+    "comics",
+    "satire",
+    "news",
+    "automation",
+    "editorial-cartoon"
+  ],
+  "author": "Daily News Comic Bot",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.2.0",
+    "rss-parser": "^3.13.0",
+    "sharp": "^0.34.5"
+  }
+}
