@@ -46,7 +46,7 @@ const CONFIG = {
       ]
     }
   ],
-  articlesPerCategory: 3,
+  articlesPerCategory: 1,
   apiUrl: 'https://llmfoundry.straivedemo.com/openrouter/v1/chat/completions',
   model: process.env.OPENROUTER_MODEL || 'anthropic/claude-3.5-sonnet',
   apiKey: process.env.OPENROUTER_API_KEY
@@ -217,12 +217,23 @@ async function callLLM(prompt) {
 async function generateComicSpec(article, category) {
   console.error(`\n  Generating comic for: ${article.title.substring(0, 50)}...`);
   
+  // Predefined comic characters for consistent style
+  const COMIC_CHARACTERS = `
+PREDEFINED CHARACTERS (use these consistently):
+1. THE COMMON MAN - Middle-aged Indian man in dhoti-kurta, glasses, balding with side hair, bewildered expression (RK Laxman's iconic character)
+2. THE BUREAUCRAT - Portly man in safari suit, thick mustache, smug expression, holding files
+3. THE TECHIE - Young person in casual shirt, messy hair, laptop/phone in hand, confused but optimistic
+4. THE POLITICIAN - Generic figure in white kurta-pajama, folded hands (namaste pose), exaggerated smile
+
+USE ONLY THESE CHARACTERS. Mix and match based on the story context.`;
+  
   const prompt = `Generate a satirical editorial cartoon specification for this news article.
 
 NEWS ARTICLE:
 Title: ${article.title}
 Excerpt: ${article.excerpt}
 Category: ${category}
+${COMIC_CHARACTERS}
 
 Generate a JSON response with this EXACT structure:
 {
@@ -240,10 +251,11 @@ Generate a JSON response with this EXACT structure:
 }
 
 GUIDELINES:
-- Use generic characters (avoid named individuals)
+- MUST use ONLY the 4 predefined characters listed above
+- Select appropriate character(s) based on story context
+- Maintain consistent character design across all comics
 - Focus on situational irony and absurdity
 - Keep it family-friendly and non-offensive
-- Use RK Laxman's "Common Man" approach
 - Include ${category} as first tag
 - Return ONLY valid JSON, no markdown or explanation`;
 

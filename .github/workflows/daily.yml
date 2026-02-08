@@ -2,8 +2,8 @@ name: Daily Comic Generation
 
 on:
   schedule:
-    # Run at 6 AM UTC every day
-    - cron: '0 6 * * *'
+    # Run at 6 AM UTC every Saturday for 2 months (8 weeks)
+    - cron: '0 6 * * 6'
   
   # Allow manual trigger
   workflow_dispatch:

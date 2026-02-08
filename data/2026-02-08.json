@@ -1,4 +1,113 @@
 {
   "date": "2026-02-08",
-  "items": []
+  "items": [
+    {
+      "category": "technology",
+      "news_title": "India has changed its startup rules for deep tech",
+      "news_url": "https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/",
+      "news_source": "TechCrunch",
+      "news_summary": "India extends startup status period to 20 years for deep tech companies and increases revenue threshold to help them succeed. Government introduces funding programs to support long-term tech innovation.",
+      "comic": {
+        "panel_description": "Split panel scene. Left: THE TECHIE sitting at desk with complex blueprints labeled 'Deep Tech Startup - Year 19', looking anxiously at calendar. Right: THE BUREAUCRAT gleefully adding another calendar page marked 'Bonus Year', while THE COMMON MAN watches with raised eyebrow. Multiple clocks on wall showing different time zones.",
+        "caption": "Time is relative... especially in Indian deep tech!",
+        "image_prompt": "Editorial cartoon in RK Laxman style, black ink line art with minimal color, split panel composition showing cramped office interior, young techie character at cluttered desk with blueprints, bureaucrat adding calendar page, common man observing, multiple wall clocks, Indian aesthetic, newspaper cartoon style, cross-hatching technique",
+        "negative_prompt": "avoid photorealism, specific company logos, real people, political figures, modern electronics, corporate branding",
+        "layout_notes": "Caption centered below split panel. Left panel smaller than right to create visual tension. Wall clocks arranged in circular pattern for visual interest."
+      },
+      "explanation_paragraph": "The cartoon plays on the extended timeline now given to deep tech startups, showing the contrast between the anxious innovator and the bureaucratic response to challenges. The multiple clocks represent the different development cycles of various tech sectors, while THE COMMON MAN's bewildered expression captures public perception of these policy changes. The split panel emphasizes the before/after effect of the policy change.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Generic representation of startup culture and bureaucracy, no specific individuals or companies targeted"
+      },
+      "tags": [
+        "technology",
+        "startups",
+        "bureaucracy",
+        "innovation",
+        "policy"
+      ]
+    },
+    {
+      "category": "politics",
+      "news_title": "BJP picked Ritu Tawde as Mumbai Mayor due to Marathi backing for Sena (UBT) and MNS: Raut",
+      "news_url": "https://www.thehindu.com/news/national/maharashtra/bjp-picked-ritu-tawde-as-mumbai-mayor-due-to-marathi-backing-for-sena-ubt-and-mns-raut/article70606968.ece",
+      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "news_summary": "BJP names Marathi candidate Ritu Tawde as Mumbai Mayor, with opposition claiming this choice was forced due to strong Marathi voter support for other parties.",
+      "comic": {
+        "panel_description": "Split panel showing: Left side - THE POLITICIAN nervously measuring wind direction with wet finger while standing at a crossroads with signposts reading 'Marathi votes'. Right side - THE COMMON MAN watching with his typical bewildered expression, holding a newspaper with 'Mayor Election' headline.",
+        "caption": "Testing which way the Marathi wind blows...",
+        "image_prompt": "Indian political cartoon, black ink line art style, split panel composition, traditional RK Laxman aesthetic, crossroads scene, minimal watercolor wash, politician figure checking wind direction, common man observing, street signs in Devanagari and English, newspaper detail, warm muted colors",
+        "negative_prompt": "avoid specific politicians, party symbols, actual people, offensive stereotypes, photo-realism, modern style, bold colors",
+        "layout_notes": "Caption centered below split panel, text on signposts should be clearly readable, Common Man positioned as observer in right panel"
+      },
+      "explanation_paragraph": "The cartoon satirizes political opportunism in Mumbai's mayoral appointment by showing a politician literally 'testing the wind' of voter sentiment. It highlights the irony of party decisions being driven by demographic calculations rather than ideology. The Common Man's bewildered expression represents the public's cynical understanding of political maneuvering.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "politics",
+        "notes": "Avoids specific party criticism, focuses on general political behavior, uses established cartoon characters"
+      },
+      "tags": [
+        "politics",
+        "local_governance",
+        "Mumbai",
+        "elections",
+        "political_satire"
+      ]
+    },
+    {
+      "category": "business",
+      "news_title": "Gaurav Gogoi rubbishes Pak link charge ",
+      "news_url": "https://economictimes.indiatimes.com/news/politics-and-nation/gaurav-rubbishes-pak-link-charge-calls-it-worse-than-c-grade-cinema/articleshow/128064949.cms",
+      "news_source": "Economic Times",
+      "news_summary": "Assam CM accuses Congress leader of Pakistan connections, which the latter dismisses as baseless allegations. The political drama unfolds amid local land dispute claims.",
+      "comic": {
+        "panel_description": "Split panel: Left side shows THE POLITICIAN (as CM) dramatically pointing at a world map with an exaggerated magnifying glass between India and Pakistan. Right side shows another POLITICIAN (as opposition) rolling eyes while THE COMMON MAN reads newspaper with a puzzled expression. A land survey document lies on table.",
+        "caption": "When local land disputes turn into international conspiracy theories",
+        "image_prompt": "Editorial cartoon in RK Laxman style, black ink line art, crosshatching, Indian political satire, two-panel composition, exaggerated facial expressions, newspaper reading scene, traditional Indian political setting, dhoti-kurta characters, magnifying glass prop",
+        "negative_prompt": "avoid realistic portraits, specific politicians, flags, religious symbols, military uniforms, weapons, controversial imagery",
+        "layout_notes": "Caption centered below split panel. Common Man positioned as observer between political drama. Use speech bubbles sparingly."
+      },
+      "explanation_paragraph": "The cartoon satirizes how regional political disputes often escalate into sensational international conspiracy claims. By juxtaposing the dramatic accusations with the Common Man's bewildered reaction, it highlights the absurdity of turning local issues into foreign policy matters. The magnifying glass symbolizes the tendency to blow things out of proportion.",
+      "safety_checks": {
+        "defamation_risk": "medium",
+        "sensitive_topic": "politics",
+        "notes": "Avoid specific likeness to real politicians. Keep focus on general political behavior rather than individuals."
+      },
+      "tags": [
+        "business",
+        "politics",
+        "satire",
+        "regional_news",
+        "political_drama"
+      ]
+    },
+    {
+      "category": "sports",
+      "news_title": "Herculean Bell and Doran's stunner seal thriller for Tasmania",
+      "news_url": "https://www.espncricinfo.com/ci/content/story/1522815.html?ex_cid=OTC-RSS",
+      "news_source": "Cricket news from ESPN Cricinfo.com",
+      "news_summary": "In a tense cricket match, Tasmania beats Western Australia thanks to impressive bowling by Gabe Bell and spectacular wicketkeeping by Jake Doran, leaving WA at bottom of table.",
+      "comic": {
+        "panel_description": "Split panel showing THE COMMON MAN as both bowler and wicketkeeper in cricket whites, attempting to be in two places at once. He's stretching impossibly between bowling action and diving catch position, with bewildered expression. THE BUREAUCRAT stands at boundary line checking statistics in file, looking smug.",
+        "caption": "When you have to be a one-man army in cricket...",
+        "image_prompt": "Editorial cartoon style, black ink line art with minimal watercolor, showing cricket field with exaggerated perspective, THE COMMON MAN character split between bowling and keeping positions in impossible stretch, THE BUREAUCRAT at boundary, RK Laxman style crosshatching, loose energetic linework",
+        "negative_prompt": "avoid realistic cricket players, team logos, actual match footage, specific player likenesses, cricket brand names",
+        "layout_notes": "Caption below panel, cricket field showing foreshortened perspective to emphasize dynamic action, emphasis on character's stretched position"
+      },
+      "explanation_paragraph": "The cartoon satirizes the extraordinary dual performance needed in cricket matches where individual players must excel in multiple roles. By showing THE COMMON MAN literally split between bowling and keeping positions, it humorously exaggerates the pressure on players to be versatile. THE BUREAUCRAT's presence adds commentary on the statistical nature of cricket achievement.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Generic cricket scene, no specific players depicted, uses established character types"
+      },
+      "tags": [
+        "sports",
+        "cricket",
+        "humor",
+        "performance",
+        "teamwork"
+      ]
+    }
+  ]
 }

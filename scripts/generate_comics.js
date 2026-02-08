@@ -16,7 +16,7 @@ const generateImage = async (comicSpec, outputPath) => {
   }
   
   const baseUrl = process.env.OPENROUTER_BASE_URL || 'https://llmfoundry.straivedemo.com/openrouter/v1';
-  const model = process.env.OPENROUTER_MODEL || 'google/gemini-3-pro-image-preview';
+  const model = process.env.OPENROUTER_MODEL || 'google/gemini-2.5-flash-image';
   
 
   console.error(`Using API: ${baseUrl}`);
