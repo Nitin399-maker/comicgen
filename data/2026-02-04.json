@@ -29,60 +29,6 @@
       ]
     },
     {
-      "category": "technology",
-      "news_title": "Uber appoints new CFO as its AV plans accelerate",
-      "news_url": "https://techcrunch.com/2026/02/04/uber-appoints-new-cfo-as-its-av-plans-accelerate/",
-      "news_source": "TechCrunch",
-      "news_summary": "Uber promotes new CFO with autonomous vehicle expertise as company accelerates plans for driverless taxis. They aim to be world's largest AV trip provider by 2029.",
-      "comic": {
-        "panel_description": "A confused elderly passenger sits in back of futuristic self-driving car, while a traditional taxi driver looks on from sidewalk. The autonomous car has comically oversized computer screens and gadgets but is struggling to navigate a simple speed bump. A briefcase-carrying executive in suit proudly points to charts showing upward trends.",
-        "caption": "When autopilot meets auto profits",
-        "image_prompt": "Indian editorial cartoon style, black ink line art with minimal color, showing exaggerated contrast between high-tech autonomous vehicle and traditional taxi, common man as confused passenger, clean lines, cross-hatched shading, RK Laxman inspired composition, simplified facial expressions, gentle satire",
-        "negative_prompt": "realistic faces, corporate logos, specific car brands, accident scenes, photo-realistic style, named individuals, Uber branding",
-        "layout_notes": "Single panel horizontal format, caption below, focus on contrast between human element and technology, strategic use of white space to highlight main elements"
-      },
-      "explanation_paragraph": "The cartoon plays on the tension between Uber's ambitious autonomous vehicle plans and the human reality of transportation. By juxtaposing a bewildered passenger with complex technology and an observant traditional driver, it highlights the gap between corporate financial projections and practical implementation. The executive's focus on charts rather than passenger comfort adds a layer of irony about prioritizing profits over service.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "none",
-        "notes": "Avoids specific corporate criticism, focuses on general technological transition themes"
-      },
-      "tags": [
-        "technology",
-        "automation",
-        "transportation",
-        "business",
-        "future"
-      ]
-    },
-    {
-      "category": "technology",
-      "news_title": "SNAK Venture Partners raises $50M fund to back vertical marketplaces",
-      "news_url": "https://techcrunch.com/2026/02/04/snak-venture-partners-raises-50m-fund-to-back-digitizing-marketplaces/",
-      "news_source": "TechCrunch",
-      "news_summary": "Two venture capitalists launch a $50M fund called SNAK Ventures to invest in digital marketplaces, focusing on industries that haven't yet embraced technology.",
-      "comic": {
-        "panel_description": "A traditional marketplace street vendor sits at a high-tech trading desk with multiple screens, wearing a dhoti but also VR goggles. One screen shows traditional vegetables while others display digital marketplace metrics. A bewildered 'common man' watches from the side.",
-        "caption": "Digital marketplace or digital mandi?",
-        "image_prompt": "Indian editorial cartoon style, black ink line art, traditional street vendor in dhoti at modern trading desk, multiple computer screens, VR goggles, vegetables on one screen, confused common man watching, RK Laxman style crosshatching, minimal color, simple background",
-        "negative_prompt": "avoid corporate logos, specific people, Silicon Valley stereotypes, expensive brands, offensive caricatures",
-        "layout_notes": "Caption below image, trading desk central focus, common man on right side observing, screens showing contrast between old and new commerce"
-      },
-      "explanation_paragraph": "The cartoon juxtaposes traditional marketplace commerce with modern digital platforms, highlighting the irony of digitizing age-old trading practices. By placing a traditional vendor in a high-tech setting, it comments on the rapid transformation of commerce while suggesting some fundamentals remain unchanged. The common man's bewilderment represents society's adjustment to this digital evolution.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "none",
-        "notes": "Generic characters and situations, avoids specific references to companies or individuals"
-      },
-      "tags": [
-        "technology",
-        "venture capital",
-        "digital transformation",
-        "commerce",
-        "tradition"
-      ]
-    },
-    {
       "category": "politics",
       "news_title": "HC issues notices to Bar Council of India and A.P. on plea for 33% quota for women advocates",
       "news_url": "https://www.thehindu.com/news/national/andhra-pradesh/hc-issues-notices-to-bar-council-of-india-and-ap-on-plea-for-33-quota-for-women-advocates/article70592337.ece",
@@ -107,60 +53,6 @@
         "legal_system",
         "institutional_reform",
         "social_justice"
-      ]
-    },
-    {
-      "category": "politics",
-      "news_title": "Electric buses in 23 routes in the city:  Mayor",
-      "news_url": "https://www.thehindu.com/news/national/kerala/electric-buses-in-23-routes-in-the-city-mayor/article70592178.ece",
-      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "news_summary": "Thiruvananthapuram city plans to launch electric buses on 23 routes, though there are disagreements about suburban coverage. The mayor and transport minister had earlier disputes about service areas.",
-      "comic": {
-        "panel_description": "A large electric bus shaped like a ping-pong ball bounces back and forth between two bureaucrat figures in suits, each holding tennis rackets labeled 'City' and 'Suburbs'. A bewildered common man watches from a bus stop bench.",
-        "caption": "The Electric Bus Rally: Service or Serve?",
-        "image_prompt": "Indian editorial cartoon style, black ink line art with minimal color, showing caricatured bureaucrats in suits playing ping-pong with an electric bus, common man character on bench, bus stop setting, RK Laxman inspired line work, newspaper cartoon aesthetic, slight exaggeration, gentle satire",
-        "negative_prompt": "photorealism, specific politicians, real people, government logos, modern digital art style, violence, offensive stereotypes",
-        "layout_notes": "Caption below panel, ping-pong action central, common man observing from lower right, bus stop signage subtle in background"
-      },
-      "explanation_paragraph": "The cartoon satirizes the bureaucratic back-and-forth over electric bus route planning by depicting it as a game of ping-pong between officials, while citizens wait for actual service. It highlights how administrative disputes can delay public benefits. The common man's bewildered expression represents public frustration with official indecision.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "politics",
-        "notes": "Generic bureaucrat figures avoid specific identification. Criticism focuses on system rather than individuals."
-      },
-      "tags": [
-        "politics",
-        "public transport",
-        "bureaucracy",
-        "urban planning",
-        "environment"
-      ]
-    },
-    {
-      "category": "politics",
-      "news_title": "Maternity leave is a right, can’t be clubbed with regular leave: Kerala HC",
-      "news_url": "https://www.thehindu.com/news/national/kerala/maternity-leave-is-a-right-cant-be-clubbed-with-regular-leave-kerala-hc/article70592603.ece",
-      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "news_summary": "Kerala High Court rules that maternity leave is a fundamental right that cannot be combined with regular leave. Case involves doctor seeking approval for medical and maternity leave exceeding usual limits.",
-      "comic": {
-        "panel_description": "Split panel showing two scenes: On left, a pregnant woman doctor in white coat holding medical files faces a stern bureaucrat behind a desk with a giant rubber stamp marked 'DENIED'. On right, Lady Justice (blindfolded with scales) cradles a baby while using her sword to separate a stack of papers labeled 'Maternity Leave' from 'Regular Leave'.",
-        "caption": "Rights and Regulations: Some things don't need balancing",
-        "image_prompt": "Indian editorial cartoon style, black ink line art with minimal watercolor, split panel composition, bureaucratic office setting, female doctor character, Lady Justice figure, exaggerated expressions, detailed cross-hatching, RK Laxman influence, institutional backdrop, traditional editorial style",
-        "negative_prompt": "realistic faces, specific people, hospital scenes, medical procedures, graphic elements, modern office equipment, corporate logos, religious symbols",
-        "layout_notes": "Caption centered below split panel, signature in bottom right corner, heavy emphasis on contrast between bureaucratic rigidity and maternal humanity"
-      },
-      "explanation_paragraph": "The cartoon juxtaposes bureaucratic inflexibility with the fundamental nature of maternal rights. By showing Lady Justice actively protecting maternity leave, it emphasizes the court's role in defending essential human rights against administrative obstacles. The split panel format dramatically illustrates the contrast between bureaucratic resistance and judicial wisdom.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "politics",
-        "notes": "Avoids specific individuals or institutions, uses universal symbols, keeps medical aspects generic"
-      },
-      "tags": [
-        "politics",
-        "women's rights",
-        "healthcare",
-        "bureaucracy",
-        "justice"
       ]
     },
     {
@@ -191,60 +83,6 @@
       ]
     },
     {
-      "category": "business",
-      "news_title": "Check claim settlement ratio of health &amp; GI for 2026 ",
-      "news_url": "https://economictimes.indiatimes.com/wealth/insure/latest-claim-settlement-ratio-of-health-and-general-insurers-released-by-irda-in-2026-acko-aditya-birla-galaxy-lead-shriram-iffco-tokio-fall-below-90/articleshow/127906061.cms",
-      "news_source": "Economic Times",
-      "news_summary": "Insurance companies' claim settlement efficiency for 2024-25 revealed, showing wide variations in how quickly different insurers process claims within 3 months.",
-      "comic": {
-        "panel_description": "A frustrated Common Man character sits in a hospital waiting room, aging visibly, with a calendar on the wall showing months rapidly flipping by. A smug insurance company clerk behind a glass window is stamping papers in slow motion while playing mobile games.",
-        "caption": "Time flies, but insurance claims crawl",
-        "image_prompt": "Indian editorial cartoon style, black ink line art, hospital waiting room scene, elderly Common Man character with worried expression, exaggerated calendar pages flying, bureaucratic clerk behind counter, minimal watercolor wash, RK Laxman inspired hatching technique, single panel composition",
-        "negative_prompt": "corporate logos, real insurance companies, specific politicians, medical procedures, blood, injuries, corporate branding, photorealism",
-        "layout_notes": "Caption below panel, calendar prominent on left wall, clerk's window on right, Common Man centered showing progressive aging through body language"
-      },
-      "explanation_paragraph": "The cartoon satirizes the bureaucratic delays in insurance claim settlements by contrasting the swift passage of time with deliberately slow processing. The visual metaphor of aging while waiting highlights the impact on common citizens. The clerk's casual attitude represents institutional indifference to policyholder struggles.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "health",
-        "notes": "Avoids targeting specific companies or individuals, uses general bureaucratic critique"
-      },
-      "tags": [
-        "business",
-        "insurance",
-        "healthcare",
-        "bureaucracy",
-        "consumer_rights"
-      ]
-    },
-    {
-      "category": "business",
-      "news_title": "Yumnam Singh takes oath as Manipur Chief Minister ",
-      "news_url": "https://economictimes.indiatimes.com/news/india/yumnam-khemchand-singh-takes-oath-as-manipur-chief-minister/articleshow/127910097.cms",
-      "news_source": "Economic Times",
-      "news_summary": "After a year of President's rule following ethnic tensions, Manipur gets a new Chief Minister with two deputy CMs from different communities in an attempt to restore stability.",
-      "comic": {
-        "panel_description": "A rickety three-legged stool labeled 'Manipur Government', with each leg representing different communities. A concerned Common Man watches as three generic bureaucrats carefully try to balance on it while holding peace doves.",
-        "caption": "Three legs are better than none!",
-        "image_prompt": "Indian editorial cartoon style, black ink line art with minimal watercolor, showing three-legged wooden stool with 'Manipur Government' text, three worried officials in generic suits balancing precariously, peace doves, Common Man watching from corner, RK Laxman influence, simple background, newspaper aesthetic",
-        "negative_prompt": "specific politicians, real people, ethnic markers, violent imagery, weapons, blood, riots, religious symbols, police uniforms, military uniforms",
-        "layout_notes": "Caption below image, Common Man in lower right corner, stool central focus, officials balanced on top, doves flying above"
-      },
-      "explanation_paragraph": "The cartoon uses the metaphor of a three-legged stool to represent the delicate power-sharing arrangement between communities in Manipur's new government. The precarious balancing act of the officials symbolizes the fragile nature of peace-building efforts. The Common Man's concerned expression reflects public skepticism while maintaining hope through the peace dove imagery.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "politics",
-        "notes": "Avoids ethnic references, uses generic characters and symbols, focuses on governance structure rather than conflict"
-      },
-      "tags": [
-        "business",
-        "politics",
-        "governance",
-        "peace",
-        "northeast"
-      ]
-    },
-    {
       "category": "sports",
       "news_title": "India ace record chase to make Under-19 World Cup final",
       "news_url": "https://www.espncricinfo.com/ci/content/story/1522335.html?ex_cid=OTC-RSS",
@@ -269,60 +107,6 @@
         "youth",
         "achievement",
         "teamwork"
-      ]
-    },
-    {
-      "category": "sports",
-      "news_title": "Frylinck, Steenkamp set up Namibia's win against Scotland",
-      "news_url": "https://www.espncricinfo.com/ci/content/story/1522329.html?ex_cid=OTC-RSS",
-      "news_source": "Cricket news from ESPN Cricinfo.com",
-      "news_summary": "In a T20 World Cup warm-up match, Namibia defeated Scotland by 6 runs in a high-scoring game. Scotland came close but fell short chasing 227 despite an impressive 95-run innings.",
-      "comic": {
-        "panel_description": "A cricket field where two confused-looking kilted cricketers (representing Scotland) watch helplessly as a desert-dwelling springbok (representing Namibia) gracefully leaps over their wickets while carrying a cricket bat. A scoreboard in the background shows 226 vs 220.",
-        "caption": "When African springs meet Scottish highlands on the pitch",
-        "image_prompt": "Indian editorial cartoon style, black ink line art with minimal watercolor, showing anthropomorphic springbok in cricket whites jumping over stumps, two bewildered Scottish cricketers in kilts watching, cricket field background, scoreboard, RK Laxman style crosshatching, gentle humor, simple lines",
-        "negative_prompt": "photorealistic faces, team logos, actual players, country flags, violent actions, detailed uniforms, brand names",
-        "layout_notes": "Caption below panel, scoreboard visible but not dominant in upper right corner, focus on springbok's leap in center"
-      },
-      "explanation_paragraph": "The cartoon plays on the unexpected cricket rivalry between Namibia (represented by their national animal, the springbok) and Scotland (represented by traditional kilts). The absurdity of a desert nation outperforming a cricket-playing British territory is captured through the graceful springbok leaping over the stumps. The bewildered Scottish players represent the surprise of being outplayed in this unlikely matchup.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "none",
-        "notes": "Uses national stereotypes but in gentle, sporting context. Avoids specific player representation."
-      },
-      "tags": [
-        "sports",
-        "cricket",
-        "cultural_contrast",
-        "underdog",
-        "international"
-      ]
-    },
-    {
-      "category": "sports",
-      "news_title": "Mandhana and Rodrigues chill out before WPL final ",
-      "news_url": "https://www.espncricinfo.com/ci/content/story/1522331.html?ex_cid=OTC-RSS",
-      "news_source": "Cricket news from ESPN Cricinfo.com",
-      "news_summary": "Two cricket team captains discuss taking breaks and relaxing before a big final match, emphasizing the importance of not overthinking or overtraining.",
-      "comic": {
-        "panel_description": "Split panel showing two scenes: Left side shows a tense cricket player practicing obsessively with multiple bats and balls around her. Right side shows a relaxed player on a beach chair with a cricket bat being used as a sunshade, while butterflies land on her.",
-        "caption": "Sometimes the best cricket practice is no practice at all!",
-        "image_prompt": "Indian editorial cartoon style, black ink line art with minimal watercolor, split panel composition, contrasting stressed vs relaxed female cricket players, Common Man watching from corner, butterflies, cricket equipment scattered about, beach chair, palm trees in background, RK Laxman inspired thick line work",
-        "negative_prompt": "real people, actual cricketers, team logos, brand names, photorealism, detailed faces, sports uniforms with text",
-        "layout_notes": "Caption centered below split panel, Common Man figure in lower right corner observing both scenes, butterfly motif connecting both panels"
-      },
-      "explanation_paragraph": "The cartoon plays on the irony of high-performance athletes finding success through relaxation rather than intense practice. By contrasting obsessive training with peaceful relaxation, it satirizes the common belief that more practice always equals better results. The butterfly metaphor from the article is visualized literally to emphasize the point about letting go.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "none",
-        "notes": "Generic representation of athletes, no specific individuals depicted, positive message about mental health in sports"
-      },
-      "tags": [
-        "sports",
-        "cricket",
-        "wellness",
-        "work-life-balance",
-        "mindfulness"
       ]
     }
   ]

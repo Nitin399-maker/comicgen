@@ -29,60 +29,6 @@
       ]
     },
     {
-      "category": "technology",
-      "news_title": "As it preps Specs for the masses, Snap’s Q4 shows revenue growth but fewer daily users",
-      "news_url": "https://techcrunch.com/2026/02/04/as-it-preps-specs-for-the-masses-snaps-q4-shows-revenue-growth-but-fewer-daily-users/",
-      "news_source": "TechCrunch",
-      "news_summary": "Snap is trying to expand beyond social media advertising into hardware with their AR glasses Specs, while seeing mixed financial results with slightly fewer daily users but higher revenue.",
-      "comic": {
-        "panel_description": "In a busy electronics store, a confused customer wearing comically oversized AR glasses stumbles into a display of traditional mirrors while taking selfies. Meanwhile, a store employee counts stacks of subscription money but looks worriedly at declining user statistics on a tablet.",
-        "caption": "Vision correction: Now accepting monthly payments!",
-        "image_prompt": "Editorial cartoon style, black ink line art with minimal color, showing busy electronics store interior, exaggerated AR glasses design, traditional mirrors falling, worried salesperson counting money, simple composition, clean lines, RK Laxman influence, crosshatching for shadows",
-        "negative_prompt": "Snapchat logo, real people, Evan Spiegel, brand names, violent crashes, broken glass, blood, injury",
-        "layout_notes": "Caption below panel, single frame composition with action centered, money stacks visible in foreground, mirrors in background"
-      },
-      "explanation_paragraph": "The cartoon satirizes Snap's attempt to pivot from social media to hardware while dealing with user decline. The contrast between the customer's clumsy interaction with real mirrors while wearing AR glasses highlights the irony of tech companies chasing new revenue streams at the expense of their core service. The employee counting money while worrying about user statistics represents the company's conflicting metrics.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "none",
-        "notes": "Avoids specific brand references and keeps physical comedy mild"
-      },
-      "tags": [
-        "technology",
-        "social media",
-        "business",
-        "augmented reality",
-        "subscription economy"
-      ]
-    },
-    {
-      "category": "technology",
-      "news_title": "Mundi Ventures closes on €750M for Kembara, its largest deep tech and climate fund",
-      "news_url": "https://techcrunch.com/2026/02/04/mundi-ventures-closes-on-e750m-for-kembara-its-largest-deep-tech-and-climate-fund/",
-      "news_source": "TechCrunch",
-      "news_summary": "Spanish venture fund raises €750M to support European deep tech and climate startups, aiming to help them survive beyond early stages where many currently fail.",
-      "comic": {
-        "panel_description": "A giant piggy bank wearing a European flag cape stands atop a rickety bridge labeled 'Series B Gap'. Below, tiny startup boats with solar panels and computer chips try crossing a choppy ocean, while some sink. A wise old banker figure drops coins from the piggy bank using a fishing rod.",
-        "caption": "Bridging the funding gap, one euro at a time",
-        "image_prompt": "Editorial cartoon style, black ink line art with minimal blue highlights, giant anthropomorphic piggy bank wearing EU flag cape, standing on bridge, fishing rod in hand, helping small boats cross choppy waters below, RK Laxman style hatching and crosshatching, simple clean lines, newspaper aesthetic",
-        "negative_prompt": "corporate logos, specific people, photorealism, complex backgrounds, political figures, company names, modern style",
-        "layout_notes": "Caption centered below image, bridge spans full width of panel, piggy bank dominant in upper third, boats scattered in lower half"
-      },
-      "explanation_paragraph": "The cartoon plays on the metaphor of Europe's startup funding as a treacherous crossing, with many companies sinking at the Series B stage. The piggy bank represents the new Kembara fund acting as a bridge keeper, helping startups cross the notorious 'valley of death' in funding cycles. The fishing rod suggests a selective approach to choosing which companies to save.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "none",
-        "notes": "Generic business imagery, no specific companies or individuals referenced"
-      },
-      "tags": [
-        "technology",
-        "venture capital",
-        "startups",
-        "european union",
-        "business"
-      ]
-    },
-    {
       "category": "politics",
       "news_title": "Concerned that FTA may cut access to medicines in India, rest of the developing world: Médecins Sans Frontières writes to EU",
       "news_url": "https://www.thehindu.com/sci-tech/health/india-eu-fta-access-to-medicines-medecins-sans-frontieres-letter/article70594689.ece",
@@ -107,60 +53,6 @@
         "international trade",
         "social justice",
         "human rights"
-      ]
-    },
-    {
-      "category": "politics",
-      "news_title": "Maoist killed in encounter with security personnel in Chhattisgarh's Bijapur",
-      "news_url": "https://www.thehindu.com/news/national/chhattisgarh/maoist-killed-encounter-with-security-personnel-chhattisgarhs-bijapur/article70594619.ece",
-      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "news_summary": "Government sets March deadline to end Maoist insurgency in Chhattisgarh, with increased encounters and fatalities reported in forest regions.",
-      "comic": {
-        "panel_description": "A bureaucrat sits at an oversized desk with a giant calendar showing 'March 31' deadline. He's frantically trying to erase a stubborn red dot on India's map while numerous other dots keep appearing. A bemused Common Man watches from the corner.",
-        "caption": "Deadline magic: When bureaucrats think calendars can solve decades-old problems",
-        "image_prompt": "Indian editorial cartoon style, black ink line art, bureaucrat at wooden desk, oversized wall calendar, map of India with red dots, Common Man watching, minimal red color only for dots, RK Laxman inspired clean lines, crosshatching for shadows, newspaper aesthetic",
-        "negative_prompt": "violence, blood, weapons, specific politicians, police uniforms, gore, actual conflict scenes, political symbols, party logos",
-        "layout_notes": "Caption below panel, Common Man positioned bottom right corner, calendar prominent on wall, desk dominates center frame"
-      },
-      "explanation_paragraph": "The cartoon satirizes the government's arbitrary deadline-setting approach to complex social issues. By showing a bureaucrat literally trying to erase insurgency marks from a map while new ones keep appearing, it highlights the futility of solving deep-rooted problems through administrative timeframes. The Common Man's knowing look represents public skepticism of such simplified solutions.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "politics",
-        "notes": "Avoids direct reference to violence or specific incidents. Uses metaphor and general administrative setting."
-      },
-      "tags": [
-        "politics",
-        "bureaucracy",
-        "social_commentary",
-        "government_policy",
-        "deadline_culture"
-      ]
-    },
-    {
-      "category": "politics",
-      "news_title": "CM Nitish Kumar announces opening of colleges in all 534 blocks of Bihar",
-      "news_url": "https://www.thehindu.com/news/national/bihar/cm-nitish-kumar-announces-opening-of-colleges-in-all-534-blocks-of-bihar/article70594541.ece",
-      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "news_summary": "Bihar CM announces plans to open colleges in all 534 blocks by 2026, starting with 213 new colleges in phase one to improve higher education access.",
-      "comic": {
-        "panel_description": "A rickety construction site with a half-built college building made of stacked books instead of bricks. A weary architect holds massive blueprints while students eagerly queue up with admission forms. In the corner, a 'Common Man' character watches while standing next to a milestone marked '1/534'.",
-        "caption": "Build it and they will learn... eventually",
-        "image_prompt": "Indian editorial cartoon style, black ink line art with minimal watercolor, depicting architectural comedy scene with books forming building structure, RK Laxman inspired Common Man watching from corner, clean line work, cross-hatching, newspaper cartoon aesthetic, exaggerated expressions, educational theme",
-        "negative_prompt": "realistic faces, specific politicians, political party symbols, graphic content, corporate logos, photorealism, modern buildings",
-        "layout_notes": "Caption below panel, Common Man positioned lower right corner, building construction dominates center frame, student queue curves from left to form leading line"
-      },
-      "explanation_paragraph": "The cartoon satirizes the ambitious scale of Bihar's educational expansion plan by literally constructing colleges from books, highlighting both the noble intentions and practical challenges. The Common Man's presence beside the '1/534' milestone emphasizes the massive scope of the project. The eager students contrasted with the modest construction progress creates a gentle commentary on the gap between policy announcements and implementation.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "politics",
-        "notes": "Avoids targeting specific individuals or parties, focuses on policy implementation theme"
-      },
-      "tags": [
-        "politics",
-        "education",
-        "development",
-        "infrastructure",
-        "social_commentary"
       ]
     },
     {
@@ -191,60 +83,6 @@
       ]
     },
     {
-      "category": "business",
-      "news_title": "AI Impact Forum: The room you can’t afford to miss ",
-      "news_url": "https://economictimes.indiatimes.com/ai/ai-insights/et-ai-impact-forum-the-room-you-cant-afford-to-miss/articleshow/127903937.cms",
-      "news_source": "Economic Times",
-      "news_summary": "A high-level AI business forum limits attendance to senior decision-makers only, emphasizing exclusive participation over mere observation of discussions about India's AI future.",
-      "comic": {
-        "panel_description": "A grand conference room door labeled 'AI Impact Forum' with a pompous doorman checking credentials. Several anxious business figures in suits queue outside while inside, through a crack in the door, only three people sit in an enormous empty room with hundreds of chairs. The Common Man character peers in curiously from behind a potted plant.",
-        "caption": "Sorry sir, are you important enough to discuss our future?",
-        "image_prompt": "Indian editorial cartoon style, black ink line art with minimal watercolor, showing ornate conference room doorway, stern doorman with clipboard, queue of executives, vast empty room visible through crack in door, RK Laxman's Common Man character observing scene, dhoti-kurta clothing details, business suits, architectural details in background",
-        "negative_prompt": "avoid corporate logos, real people, political figures, religious symbols, modern technology, photorealism, digital art style",
-        "layout_notes": "Caption centered below panel, door positioned center-right, queue extending left, Common Man in lower right corner behind plant, room interior visible through narrow door opening"
-      },
-      "explanation_paragraph": "The cartoon satirizes the irony of discussing India's AI future in an exclusive, limited forum that shuts out the very people it will impact most. By showing a nearly empty room behind an imposing entrance with strict admission criteria, it highlights the disconnect between elite decision-making and practical implementation. The Common Man's presence reminds viewers that technology decisions affect everyone, not just those deemed important enough to participate.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "none",
-        "notes": "Generic business setting, no specific individuals portrayed, safe for general audience"
-      },
-      "tags": [
-        "business",
-        "technology",
-        "artificial intelligence",
-        "elitism",
-        "bureaucracy"
-      ]
-    },
-    {
-      "category": "business",
-      "news_title": "Documents to sell inherited property in India ",
-      "news_url": "https://economictimes.indiatimes.com/wealth/legal/will/i-inherited-property-in-india-what-documents-do-i-need-to-sell-it-and-repatriate-the-money-in-uk/articleshow/127880486.cms",
-      "news_source": "Economic Times",
-      "news_summary": "NRI siblings in UK need complex documentation and legal process to sell inherited property in India and transfer funds overseas.",
-      "comic": {
-        "panel_description": "A bewildered Indian family stands before a mountain of paperwork shaped like the Taj Mahal. A stern bureaucrat sits at a tiny desk at the peak, stamping documents that float down like leaves. A Common Man character watches from the corner, shaking his head.",
-        "caption": "The Great Indian Inheritance Obstacle Course",
-        "image_prompt": "Black ink editorial cartoon, RK Laxman style, showing exaggerated stack of legal documents forming Taj Mahal shape, minimalist background, three frustrated figures in Western clothes at bottom, bureaucrat at top with giant rubber stamp, Common Man in dhoti watching, few touches of red in stamp ink",
-        "negative_prompt": "avoid modern buildings, specific people, government logos, official seals, religious symbols, violent imagery",
-        "layout_notes": "Caption below image, stack of papers dominates center frame, family small at bottom to show scale, Common Man in lower right corner"
-      },
-      "explanation_paragraph": "The cartoon satirizes the byzantine bureaucracy involved in inheriting and selling property in India as an NRI. By depicting paperwork as a towering monument, it highlights how documentation requirements can overshadow the actual property being inherited. The contrast between the tiny desk and massive paper mountain emphasizes the disproportion between simple goals and complex procedures.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "none",
-        "notes": "Generic representation of bureaucracy, no specific institutions targeted, safe for general audience"
-      },
-      "tags": [
-        "business",
-        "property",
-        "bureaucracy",
-        "inheritance",
-        "NRI"
-      ]
-    },
-    {
       "category": "sports",
       "news_title": "Fergus O'Neill moves to Sydney Sixers amid talk over Victoria future ",
       "news_url": "https://www.espncricinfo.com/ci/content/story/1522352.html?ex_cid=OTC-RSS",
@@ -269,60 +107,6 @@
         "career",
         "loyalty",
         "satire"
-      ]
-    },
-    {
-      "category": "sports",
-      "news_title": "DC's fourth shot at elusive trophy as RCB look to make winning a habit",
-      "news_url": "https://www.espncricinfo.com/ci/content/story/1522303.html?ex_cid=OTC-RSS",
-      "news_source": "Cricket news from ESPN Cricinfo.com",
-      "news_summary": "Delhi Capitals and Royal Challengers Bengaluru face off in WPL cricket final. DC seeks first trophy in fourth attempt while RCB aims for continued success.",
-      "comic": {
-        "panel_description": "A cricket stadium where two anthropomorphized elephants in cricket gear face each other - one wearing a crown and looking confident, the other desperately juggling three runner-up trophies while reaching for a fourth floating above. A bewildered 'common man' spectator watches from the stands.",
-        "caption": "Fourth time's the charm... or is it?",
-        "image_prompt": "Indian editorial cartoon style, black ink line art with minimal color, two anthropomorphized elephants in cricket uniforms on cricket field, one crowned and confident, other juggling trophies, common man spectator in background, RK Laxman style cross-hatching, newspaper quality line work, simple stadium backdrop",
-        "negative_prompt": "team logos, real players, actual team uniforms, photorealistic faces, violence, betting references, corporate branding",
-        "layout_notes": "Caption below panel, common man figure in bottom right corner, trophies drawn with gleaming highlights, stadium architecture simplified to essential lines"
-      },
-      "explanation_paragraph": "The cartoon plays on the classic underdog story in sports, using elephants to represent the teams while avoiding direct references. The juggling act symbolizes DC's repeated attempts at victory, while the crowned elephant represents RCB's established success. The common man's bewildered expression captures the fans' emotional investment in this recurring narrative.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "none",
-        "notes": "Generic representation of teams as animals avoids personal caricatures. No gambling or controversial elements included."
-      },
-      "tags": [
-        "sports",
-        "cricket",
-        "WPL",
-        "satire",
-        "underdog"
-      ]
-    },
-    {
-      "category": "sports",
-      "news_title": "Sheffield Shield team news - all the squads as the tournament resumes",
-      "news_url": "https://www.espncricinfo.com/ci/content/story/1522252.html?ex_cid=OTC-RSS",
-      "news_source": "Cricket news from ESPN Cricinfo.com",
-      "news_summary": "Australian cricket teams juggle player availability as Sheffield Shield tournament resumes, with many star players absent due to T20 World Cup and other commitments.",
-      "comic": {
-        "panel_description": "Inside a cricket stadium locker room, a frazzled team manager stands before an empty row of lockers with a clipboard. A janitor in the corner wears cricket pads and holds a bat while a food vendor puts on wicketkeeping gloves. A 'Now Hiring' sign hangs crookedly on the wall.",
-        "caption": "Right then, who's up for first-class cricket?",
-        "image_prompt": "Indian editorial cartoon style, black ink line art, cricket stadium locker room, exaggerated expressions, frazzled manager character with clipboard, comical janitor and vendor in cricket gear, empty lockers, tilted 'Now Hiring' sign, RK Laxman Common Man style figures, minimal watercolor wash",
-        "negative_prompt": "real cricketers, team logos, brand names, cricket team uniforms with identifiable markings, photorealism, detailed faces",
-        "layout_notes": "Caption centered below panel, single frame composition with focus on manager's desperate expression, background details showing empty lockers"
-      },
-      "explanation_paragraph": "The cartoon satirizes the scheduling chaos in Australian cricket, where premier domestic competition struggles to field full-strength teams due to concurrent international commitments. By showing everyday workers being recruited to play, it highlights the absurd situation of a prestigious tournament missing its star players. The manager's desperation reflects the real challenges teams face in maintaining competitive squads.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "none",
-        "notes": "Generic characters used, no specific players depicted, humor focused on situation rather than individuals"
-      },
-      "tags": [
-        "sports",
-        "cricket",
-        "humor",
-        "workplace",
-        "recruitment"
       ]
     }
   ]

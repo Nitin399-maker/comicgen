@@ -29,60 +29,6 @@
       ]
     },
     {
-      "category": "technology",
-      "news_title": "Reddit looks to AI search as its next big opportunity",
-      "news_url": "https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/",
-      "news_source": "TechCrunch",
-      "news_summary": "Reddit plans to merge traditional and AI search capabilities, seeing it as a major business opportunity. The company aims to monetize search while growing its AI-powered answers feature.",
-      "comic": {
-        "panel_description": "A bewildered Common Man figure stands at a massive library counter. Behind the desk are two librarians: one is a traditional elderly librarian with glasses, while the other is a sleek robot librarian. Both are simultaneously answering his question with completely different responses, creating chaos with flying books and digital displays.",
-        "caption": "When you ask 'Where can I find the truth?'",
-        "image_prompt": "Black ink editorial cartoon style, common man in dhoti looking confused, traditional elderly librarian and robot librarian behind desk, books flying, digital screens floating, library setting, minimalist background, cross-hatching technique, RK Laxman inspired, simple lines, Indian aesthetic, slight sepia tone",
-        "negative_prompt": "realistic faces, Reddit logo, specific people, gore, violence, photorealism, modern technology brands, corporate logos",
-        "layout_notes": "Caption centered below panel, speech bubbles showing contradicting answers from both librarians, Common Man figure placed centrally for impact"
-      },
-      "explanation_paragraph": "The cartoon satirizes the tension between traditional search methods and AI-powered solutions by showing how both approaches might confuse rather than clarify. It plays on the irony of Reddit's attempt to merge two different search paradigms, suggesting that more answers might not always mean better answers. The bewildered Common Man represents users caught between evolving technology and conventional wisdom.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "none",
-        "notes": "Generic characters used, no specific individuals referenced, technology critique remains neutral"
-      },
-      "tags": [
-        "technology",
-        "artificial intelligence",
-        "social media",
-        "digital transformation",
-        "information overload"
-      ]
-    },
-    {
-      "category": "technology",
-      "news_title": "AWS revenue continues to soar as cloud demand remains high",
-      "news_url": "https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/",
-      "news_source": "TechCrunch",
-      "news_summary": "Amazon Web Services (AWS) reports record cloud revenue growth of 24% in Q4 2025, reaching $35.6 billion. Growth driven by AI adoption and enterprise cloud migration.",
-      "comic": {
-        "panel_description": "A massive cloud made of computer servers floats in the sky, raining dollar bills. Below, corporate executives in suits hold up buckets and umbrellas to catch the money. In the corner, a humble IT worker with glasses watches bemusedly while holding a tiny paper cup.",
-        "caption": "Cloud computing: When it rains, it pours profits",
-        "image_prompt": "Black ink editorial cartoon style, minimal watercolor blue, single panel showing giant technological cloud formation made of servers and circuits, raining money, business figures below catching rainfall, humble IT worker in corner, RK Laxman inspired common man perspective, cross-hatching technique, newspaper illustration style",
-        "negative_prompt": "avoid specific tech company logos, real executives, photo-realism, complex backgrounds, dark themes, corporate branding, product placement",
-        "layout_notes": "Caption centered below panel, cloud dominates upper third of frame, figures arranged diagonally across bottom two-thirds, IT worker in lower right corner as observer"
-      },
-      "explanation_paragraph": "The cartoon plays on the literal interpretation of 'cloud computing' by showing it as a money-making weather system. The contrast between eager executives and the bemused IT worker highlights the gap between corporate profit and technical reality. The metaphor of 'raining money' satirizes the enormous revenue growth in cloud services while maintaining a lighthearted perspective on tech industry excess.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "none",
-        "notes": "Generic business satire, no specific individuals or companies targeted directly"
-      },
-      "tags": [
-        "technology",
-        "cloud_computing",
-        "business",
-        "satire",
-        "digital_transformation"
-      ]
-    },
-    {
       "category": "politics",
       "news_title": "Odisha food and crafts mela from February 6 to 8",
       "news_url": "https://www.thehindu.com/news/national/telangana/odisha-food-and-crafts-mela-from-february-6-to-8/article70595696.ece",
@@ -107,60 +53,6 @@
         "arts",
         "tradition",
         "entertainment"
-      ]
-    },
-    {
-      "category": "politics",
-      "news_title": "Supreme Court refuses to entertain Jan Suraaj Party’s plea challenging 2025 Bihar Assembly elections",
-      "news_url": "https://www.thehindu.com/news/national/bihar/supreme-court-refuses-to-entertain-jan-suraaj-partys-plea-challenging-2025-bihar-assembly-elections/article70598903.ece",
-      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "news_summary": "After losing Bihar elections, Jan Suraaj Party challenges results in Supreme Court over government's pre-election cash transfers to women voters. Court dismisses case, questions party's motives.",
-      "comic": {
-        "panel_description": "Split panel showing two scenes: Left side shows a grumpy politician holding an empty election box walking away from a voting booth. Right side shows same politician dramatically pleading before a giant judge's gavel while holding a complaint letter.",
-        "caption": "When Plan A fails, there's always Plan Legal",
-        "image_prompt": "Indian editorial cartoon style, black ink line art with minimal watercolor, split panel composition, exaggerated expressions, common man watching from corner, giant gavel, ballot box, courtroom setting, RK Laxman inspired character design, newspaper texture background",
-        "negative_prompt": "real politicians, specific party symbols, violent imagery, photorealism, modern digital style, text bubbles, campaign posters",
-        "layout_notes": "Caption centered below split panel, common man observer in bottom right corner, balance voting booth scene with courtroom scene"
-      },
-      "explanation_paragraph": "The cartoon satirizes the tendency of losing political parties to challenge electoral outcomes through legal means when direct democracy doesn't favor them. By juxtaposing the election loss with the immediate rush to courts, it highlights the irony of questioning voter benefits after losing public mandate. The common man's presence emphasizes public weariness with such political theatrics.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "politics",
-        "notes": "Uses generic politician character, avoids specific party symbols or leaders, focuses on broader political behavior rather than individuals"
-      },
-      "tags": [
-        "politics",
-        "elections",
-        "judiciary",
-        "democracy",
-        "political_satire"
-      ]
-    },
-    {
-      "category": "politics",
-      "news_title": "Oxygen tank flow meter cap bursts, injures female attendant at medical college hospital in Kerala",
-      "news_url": "https://www.thehindu.com/news/national/kerala/oxygen-tank-flow-meter-cap-bursts-injures-female-attendant-at-medical-college-hospital-in-kerala/article70598974.ece",
-      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-      "news_summary": "At a Kerala hospital, an oxygen tank flow meter cap burst and injured an attendant. This was the second such incident in less than a year.",
-      "comic": {
-        "panel_description": "Split panel showing two scenes: Left side shows a nervous hospital worker with safety manual reading 'Handle with Care' upside down. Right side shows same worker with bandaged head looking at oxygen meter through magnifying glass while wearing an oversized helmet.",
-        "caption": "Safety First... Safety Second... Maybe Third Time's the Charm?",
-        "image_prompt": "Indian editorial cartoon style, black ink line art with minimal watercolor, split panel composition, hospital corridor setting, worried attendant character in uniform, exaggerated safety gear, upside-down manual, bandaged head, comical oversized helmet, oxygen cylinder in background, RK Laxman inspired common man style expressions",
-        "negative_prompt": "realistic faces, gore, medical procedures, actual injuries, hospital logos, brand names, specific people, blood, violent scenes",
-        "layout_notes": "Caption centered below split panel, speech bubbles minimal, emphasis on visual humor through character expressions and props"
-      },
-      "explanation_paragraph": "The cartoon satirizes the recurring safety incidents at the hospital by showing the absurd escalation of protective measures while missing the basic point of proper training. The contrast between the complicated safety gear and the simple act of reading a manual correctly highlights bureaucratic inefficiency in addressing workplace safety issues. The split panel format emphasizes the 'before and after' irony of the situation.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "health",
-        "notes": "Avoids showing actual injury or specific hospital identification. Uses humor to address safety concerns without targeting individuals."
-      },
-      "tags": [
-        "politics",
-        "healthcare",
-        "workplace_safety",
-        "bureaucracy",
-        "public_institutions"
       ]
     },
     {
@@ -191,60 +83,6 @@
       ]
     },
     {
-      "category": "business",
-      "news_title": "Silver tanks Rs 15,000 on MCX, gold below Rs 1.5L ",
-      "news_url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-tanks-rs-15000-gold-slides-to-rs-1-5-lakh-should-investors-buy-the-dip/articleshow/127967946.cms",
-      "news_source": "Economic Times",
-      "news_summary": "Gold and silver prices dropped sharply on Indian markets, with silver falling Rs 15,000 and gold going below Rs 1.5L. Markets are volatile due to global factors and increased trading margins.",
-      "comic": {
-        "panel_description": "A worried middle-class Indian investor stands at a jewelry shop counter, watching silver and gold jewelry items sliding down a tilted glass display case like they're on a playground slide. The shopkeeper tries frantically to catch them. A wall chart showing plummeting prices forms the background.",
-        "caption": "Precious metals taking the slide of their life!",
-        "image_prompt": "Indian editorial cartoon style, black ink line art, worried common man in dhoti watching jewelry sliding down display case, exaggerated expressions, simple background with price chart, RK Laxman inspired line work, minimalist color palette focusing on gold and silver tones, cross-hatching for shadows",
-        "negative_prompt": "avoid specific people, political figures, brand names, religious symbols, luxury items, violence, corporate logos, offensive stereotypes",
-        "layout_notes": "Caption below panel, price chart visible but not dominant, focus on character expressions, sliding jewelry as central visual metaphor"
-      },
-      "explanation_paragraph": "The cartoon uses the metaphor of literally sliding jewelry to represent falling precious metal prices. It captures the anxiety of ordinary investors through the common man's worried expression, while the shopkeeper's futile attempts to catch the sliding items represent market interventions. The tilted display case mirrors the downward trend in pricing charts, creating visual harmony with the news story.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "none",
-        "notes": "Generic characters and situations, no controversial elements, focuses on economic impact on common people"
-      },
-      "tags": [
-        "business",
-        "finance",
-        "commodities",
-        "gold",
-        "silver"
-      ]
-    },
-    {
-      "category": "sports",
-      "news_title": "Hazlewood ruled out of T20 World Cup, Australia wait to name replacement",
-      "news_url": "https://www.espncricinfo.com/ci/content/story/1522456.html?ex_cid=OTC-RSS",
-      "news_source": "Cricket news from ESPN Cricinfo.com",
-      "news_summary": "Australian cricket team faces setback as key bowlers withdraw from T20 World Cup due to injuries, leaving team scrambling for replacements just days before tournament.",
-      "comic": {
-        "panel_description": "Cricket stadium treatment room with two empty beds labeled 'Star Bowlers'. A frazzled team doctor holds a clipboard while a worried cricket coach stares at a bowling machine wrapped in bandages. In background, a calendar shows 'T20 WORLD CUP' with countdown timer.",
-        "caption": "When your bowling attack needs a medical degree",
-        "image_prompt": "Indian editorial cartoon style, black ink line art, cricket stadium medical room, worried coach character in traditional cricket whites, humorous bowling machine with bandages, medicine bottles, thermometer, RK Laxman style common man watching from corner, simple watercolor wash background, cross-hatching texture",
-        "negative_prompt": "real cricketers, team logos, cricket board logos, specific player likenesses, medical gore, syringes, injury details",
-        "layout_notes": "Caption below panel, bowling machine centered, coach and doctor on sides, calendar visible in upper right corner"
-      },
-      "explanation_paragraph": "The cartoon satirizes the Australian cricket team's unfortunate situation where multiple key bowlers are injured before a major tournament. By showing a bowling machine in bandages, it highlights the absurdity of having mechanical replacements for human players. The worried expressions of the coach and doctor emphasize the last-minute crisis management teams face in professional sports.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "none",
-        "notes": "Avoids specific player references, uses general medical imagery without detail"
-      },
-      "tags": [
-        "sports",
-        "cricket",
-        "injuries",
-        "world_cup",
-        "humor"
-      ]
-    },
-    {
       "category": "sports",
       "news_title": "Smriti Mandhana overcomes 'massive flu' to play title-winning innings for RCB",
       "news_url": "https://www.espncricinfo.com/ci/content/story/1522470.html?ex_cid=OTC-RSS",
@@ -269,33 +107,6 @@
         "humor",
         "determination",
         "perseverance"
-      ]
-    },
-    {
-      "category": "sports",
-      "news_title": "DC coach Jonathan Batty: If you keep putting yourself in finals, you will win one",
-      "news_url": "https://www.espncricinfo.com/ci/content/story/1522455.html?ex_cid=OTC-RSS",
-      "news_source": "Cricket news from ESPN Cricinfo.com",
-      "news_summary": "Delhi Capitals cricket team loses their fourth consecutive WPL final despite strong performance. Coach remains optimistic about future victories.",
-      "comic": {
-        "panel_description": "A dejected cricket coach stands beside a tall ladder reaching to a trophy on a high shelf. Each rung of the ladder is labeled 'FINAL'. A determined female cricketer is climbing the ladder but keeps slipping on the last rung. Common Man watches from below with a sympathetic expression.",
-        "caption": "Practice makes perfect... until the final step",
-        "image_prompt": "Indian editorial cartoon style, black ink line art, cross-hatching, ladder reaching to cricket trophy, female cricketer slipping, worried coach, Common Man watching, minimal watercolor wash, newspaper aesthetic, RK Laxman inspired composition",
-        "negative_prompt": "specific player faces, team logos, brand names, photorealism, digital art style, modern equipment, bright colors",
-        "layout_notes": "Caption centered below panel, ladder diagonal from bottom left to upper right, characters arranged triangularly for visual balance"
-      },
-      "explanation_paragraph": "The cartoon satirizes the recurring pattern of a team reaching finals but failing to clinch victory. The ladder metaphor represents the journey to success, with the final rung symbolizing the persistent challenge of winning the championship. The Common Man's presence adds a layer of shared frustration familiar to Indian sports fans.",
-      "safety_checks": {
-        "defamation_risk": "low",
-        "sensitive_topic": "none",
-        "notes": "Generic representation avoids specific player identification. Sports-related frustration depicted respectfully."
-      },
-      "tags": [
-        "sports",
-        "cricket",
-        "perseverance",
-        "irony",
-        "competition"
       ]
     }
   ]
