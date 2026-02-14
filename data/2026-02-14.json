@@ -1,0 +1,113 @@
+{
+  "date": "2026-02-14",
+  "items": [
+    {
+      "category": "technology",
+      "news_title": "Nothing opens its first retail store in India",
+      "news_url": "https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/",
+      "news_source": "TechCrunch",
+      "news_summary": "Nothing, a tech company, opens its first retail store in India with factory-inspired design. The store will sell both Nothing and CMF brand products.",
+      "comic": {
+        "panel_description": "Split panel scene inside a modern store. THE TECHIE stands proudly behind counter with empty display cases labeled 'Nothing'. THE COMMON MAN peers inside empty cases with magnifying glass, extremely confused. Store signage reads 'NOTHING STORE - NOW OPEN!'",
+        "caption": "'Sir, everything you see here is Nothing, that will be ₹50,000'",
+        "image_prompt": "RK Laxman style black ink line drawing of minimalist retail store interior. THE TECHIE wearing startup t-shirt stands confidently behind sleek counter. THE COMMON MAN in traditional dhoti-kurta bends examining empty glass displays with comically large magnifying glass. Clean architectural lines, modern store fixtures, empty display cases. Simple black line art with characteristic Indian editorial cartoon style.",
+        "negative_prompt": "No Carl Pei likeness, no actual Nothing products, no brand logos, no color, no shading, no photos, no realistic renders, no product designs, no smartphones",
+        "layout_notes": "Caption centered below panel. Store signage clearly visible at top. Empty display cases prominent in middle ground. Characters in foreground."
+      },
+      "explanation_paragraph": "The cartoon plays on the literal meaning of the brand name 'Nothing' versus actual products, creating situational comedy through THE COMMON MAN's confusion. It satirizes both modern tech marketing and the contradiction of selling 'Nothing' at premium prices. The empty displays serve as visual metaphor for the abstract brand concept.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Avoids specific product depiction or brand criticism. Generic retail setting keeps focus on concept humor."
+      },
+      "tags": [
+        "technology",
+        "retail",
+        "startups",
+        "consumer-culture",
+        "marketing"
+      ]
+    },
+    {
+      "category": "politics",
+      "news_title": "PM Modi witnesses special IAF aerial show at emergency landing facility in Assam",
+      "news_url": "https://www.thehindu.com/news/national/pm-modi-witnesses-special-iaf-aerial-show-at-emergency-landing-facility-in-assam/article70631460.ece",
+      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "news_summary": "PM Modi inaugurates first Emergency Landing Facility (ELF) in Northeast India, witnesses aerial display of IAF aircraft including Sukhoi-30 MKI and Rafale jets.",
+      "comic": {
+        "panel_description": "Split panel: Left side shows THE POLITICIAN standing proudly next to a tiny toy plane on a road, gesturing grandly. Right side shows THE COMMON MAN walking past, carrying groceries, looking bewildered at actual massive fighter jets landing on the same road behind them. THE BUREAUCRAT stands between panels, smugly checking items off a clipboard.",
+        "caption": "When emergency landings become planned celebrations",
+        "image_prompt": "RK Laxman style split-panel editorial cartoon showing exaggerated contrast between small toy plane demonstration and actual fighter jets landing on road, pure black ink linework, cross-hatching for depth, architectural perspective showing road converging to horizon, detailed aircraft silhouettes in background, characteristic bewildered expression on Common Man",
+        "negative_prompt": "No specific politicians, no photo-realistic aircraft, no military uniforms, no actual PM Modi, no color, no shading, no gradients, no backgrounds, no detailed military equipment",
+        "layout_notes": "Caption centered below split panels, signature in bottom right corner, panels divided by thin vertical line, maintain consistent eye level across both scenes"
+      },
+      "explanation_paragraph": "The cartoon satirizes the transformation of an emergency facility into a ceremonial showpiece, highlighting the irony of planned celebrations at a facility meant for crisis situations. It contrasts the grandiose political presentation with the practical reality of fighter jets landing on public roads. The Common Man's bewilderment represents the average citizen's perspective on such elaborate displays of infrastructure.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "politics",
+        "notes": "Avoids direct representation of specific politicians or military personnel. Uses symbolic representation and general characters only."
+      },
+      "tags": [
+        "politics",
+        "infrastructure",
+        "defense",
+        "northeast_india",
+        "public_spending"
+      ]
+    },
+    {
+      "category": "business",
+      "news_title": "Indians can now go to 56 countries without prior visa ",
+      "news_url": "https://economictimes.indiatimes.com/nri/visit/henley-passport-index-india-recovers-to-75th-position-here-are-the-counties-you-can-travel-to-visa-free-visas-on-arrival-or-e-visas/articleshow/128291035.cms",
+      "news_source": "Economic Times",
+      "news_summary": "India's passport ranking improves to 75th position, allowing visa-free or visa-on-arrival access to 56 countries, up from previous year's 85th rank.",
+      "comic": {
+        "panel_description": "THE COMMON MAN stands in front of a massive world map, holding his Indian passport. He looks bewildered as THE BUREAUCRAT proudly points to tiny dots on the map representing visa-free countries, most of which are barely visible. A comically large magnifying glass dangles from THE COMMON MAN's neck to spot the destinations.",
+        "caption": "Finally free to go... wherever that tiny dot is!",
+        "image_prompt": "RK Laxman style black ink line drawing showing confused Common Man with magnifying glass examining world map while smug Bureaucrat points at microscopic destinations, pure black line art, white background, traditional editorial cartoon style, detailed cross-hatching for depth",
+        "negative_prompt": "color, shading, photos, real people, political figures, flags, modern elements, gradients, gray tones, realistic rendering",
+        "layout_notes": "Caption centered below panel, world map covers back wall, characters in foreground, emphasis on Common Man's bewildered expression and Bureaucrat's proud gesture"
+      },
+      "explanation_paragraph": "The cartoon satirizes the government's celebratory attitude about improved passport access while highlighting that many of the visa-free destinations are lesser-known countries. It plays on the contrast between the bureaucrat's pride and the common citizen's confusion about practically utilizing these new travel opportunities. The magnifying glass symbolizes how hard one must look to find some of these destinations.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Non-controversial topic, focuses on bureaucratic irony rather than criticism"
+      },
+      "tags": [
+        "business",
+        "travel",
+        "passport",
+        "bureaucracy",
+        "international"
+      ]
+    },
+    {
+      "category": "sports",
+      "news_title": "Confident India provide Molineux with tough start",
+      "news_url": "https://www.espncricinfo.com/ci/content/story/1524022.html?ex_cid=OTC-RSS",
+      "news_source": "Cricket news from ESPN Cricinfo.com",
+      "news_summary": "India, the new ODI World Cup champions, face Australia in a multi-format cricket series with new Australian captain Sophie Molineux leading her team.",
+      "comic": {
+        "panel_description": "THE COMMON MAN stands at a cricket pitch boundary, watching THE TECHIE excitedly showing cricket statistics on laptop to a visibly nervous Australian kangaroo (wearing cricket gear). Behind them, multiple cricket balls are arranged to spell 'INDIA'.",
+        "caption": "New champions making old champions hop to new tunes!",
+        "image_prompt": "RK Laxman style black ink line drawing showing THE COMMON MAN in traditional dhoti-kurta standing calmly at cricket boundary rope, while young TECHIE in casual shirt shows laptop screen to anthropomorphized nervous kangaroo in cricket pads and helmet. Cricket balls arranged to spell 'INDIA' in background. Pure black lines on white paper, no shading, simple clean strokes in editorial cartoon style.",
+        "negative_prompt": "No real cricketers, no team logos, no cricket board logos, no colored elements, no shading, no photos, no realistic rendering, no batting violence, no actual match scenes, no team uniforms with branding",
+        "layout_notes": "Caption centered below panel. Cricket balls spelling 'INDIA' should be clearly visible but not dominate. Kangaroo and characters positioned in golden ratio points."
+      },
+      "explanation_paragraph": "The cartoon plays on the power shift in women's cricket with India's recent World Cup victory. Using the iconic Australian symbol of a kangaroo, it shows how traditional cricket powerhouse Australia now appears nervous facing the new champions. The TECHIE showing statistics represents India's rising confidence backed by data, while THE COMMON MAN's calm presence reflects the average Indian fan's quiet satisfaction.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Avoids depicting real players or officials. Uses symbolic representation through kangaroo. No controversial elements."
+      },
+      "tags": [
+        "sports",
+        "cricket",
+        "india",
+        "australia",
+        "satire"
+      ]
+    }
+  ]
+}
