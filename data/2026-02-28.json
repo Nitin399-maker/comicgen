@@ -1,0 +1,113 @@
+{
+  "date": "2026-02-28",
+  "items": [
+    {
+      "category": "technology",
+      "news_title": "India disrupts access to popular developer platform Supabase with blocking order",
+      "news_url": "https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/",
+      "news_source": "TechCrunch",
+      "news_summary": "India blocks access to Supabase, a popular developer platform, causing disruption for tech companies. Government order leads to inconsistent access across networks without clear explanation.",
+      "comic": {
+        "panel_description": "Split panel scene: Left side shows THE TECHIE frantically typing on laptop with broken website error symbols above. Right side shows THE BUREAUCRAT at desk stamping 'BLOCKED' on papers, while THE COMMON MAN peers through a window looking confused at both scenes. Traditional office setting with ceiling fan, files, and chai cup.",
+        "caption": "Digital India: Where websites disappear faster than morning chai",
+        "image_prompt": "RK Laxman style black ink line drawing showing split panel composition. Left: frustrated young techie character at desk with laptop showing error symbols. Right: smug bureaucrat stamping papers. Common man watching through window frame. Simple office furniture, ceiling fan, chai cup details. Clean line work, no shading, pure black on white.",
+        "negative_prompt": "No color, no shading, no grayscale, no photographs, no real people, no logos, no brand names, no complex patterns, no gradients, no crosshatching, no political figures, no actual company names",
+        "layout_notes": "Caption centered below split panel. Error symbols above laptop should be simple geometric shapes. Window frame creates natural panel division. Maintain equal visual weight in both sections."
+      },
+      "explanation_paragraph": "The cartoon juxtaposes India's aspirations as a digital powerhouse with bureaucratic impediments to technology access. The split panel emphasizes the disconnect between tech workers' needs and administrative decisions. The Common Man's bewildered expression represents the public's confusion over arbitrary tech restrictions, while the Bureaucrat's smugness satirizes opaque government orders.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "politics",
+        "notes": "Avoids direct criticism of specific government officials or policies. Uses general symbolism rather than specific references."
+      },
+      "tags": [
+        "technology",
+        "censorship",
+        "bureaucracy",
+        "digital_india",
+        "developers"
+      ]
+    },
+    {
+      "category": "politics",
+      "news_title": "Hospital performs rare robotic surgery on eight-year-old boy in Vellore",
+      "news_url": "https://www.thehindu.com/news/national/tamil-nadu/hospital-performs-rare-robotic-surgery-on-eight-year-old-boy-in-vellore/article70684373.ece",
+      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "news_summary": "A hospital in Vellore successfully performed rare robotic surgery on an 8-year-old boy with remote guidance from New York, marking a breakthrough in pediatric care.",
+      "comic": {
+        "panel_description": "Split panel scene: Left side shows THE COMMON MAN peering through a window at a robotic surgery where THE TECHIE operates joysticks while staring at screens. Right side shows THE BUREAUCRAT proudly presenting a massive electricity bill to the hospital. In background, a traditional doctor's stethoscope hangs forgotten on wall.",
+        "caption": "Robot performs surgery while humans perform jugaad with power backup",
+        "image_prompt": "RK Laxman style black ink line drawing showing split panel hospital scene. Left: Common Man in dhoti watching modern robotic surgery through window, Techie at controls. Right: Smug Bureaucrat holding giant billing paper. Simple clean lines, cross-hatching for depth, architectural hospital details, medical equipment rendered in technical detail. Pure black ink on white, no grayscale.",
+        "negative_prompt": "No color, no shading, no photos, no real people, no medical gore, no actual surgical scenes, no brand names or hospital logos, no medical staff uniforms, no gradients",
+        "layout_notes": "Caption centered below split panel. Common Man positioned as observer bridging both scenes. Keep medical equipment abstract rather than realistic."
+      },
+      "explanation_paragraph": "The cartoon juxtaposes India's technological advancement in healthcare with persistent infrastructure challenges. While sophisticated robotic surgery represents progress, the bureaucratic reality of power issues and costs creates ironic contrast. The Common Man's bewildered expression captures public amazement at this contradiction of ultra-modern capability alongside basic utility struggles.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "health",
+        "notes": "Avoids showing actual surgery or patient. Keeps focus on administrative aspects rather than medical procedures."
+      },
+      "tags": [
+        "politics",
+        "healthcare",
+        "technology",
+        "infrastructure",
+        "bureaucracy"
+      ]
+    },
+    {
+      "category": "business",
+      "news_title": "India’s cheetah revival gets new boost ",
+      "news_url": "https://economictimes.indiatimes.com/news/india/nine-cheetahs-from-botswana-boost-indias-big-cat-revival-drive-at-kuno/articleshow/128875503.cms",
+      "news_source": "Economic Times",
+      "news_summary": "India receives 9 more cheetahs from Botswana, bringing total to 48 as part of ambitious wildlife revival program. Program shows success with 39 cubs born since 2023.",
+      "comic": {
+        "panel_description": "THE BUREAUCRAT stands proudly next to a huge wildlife census chart showing cheetah numbers, while THE COMMON MAN looks confused at a small cheetah cub drawn with spots that look exactly like the bureaucrat's file stamps and official seals. A helicopter carrying a cheetah crate is visible through a window.",
+        "caption": "When government efficiency finally spots success",
+        "image_prompt": "Black ink line art showing bureaucrat in safari suit standing beside large chart with cheetah statistics, common man in dhoti-kurta examining baby cheetah with bureaucratic stamp-like spots. Window shows IAF helicopter silhouette. RK Laxman style crosshatching, clean lines, no shading, pure monochrome treatment. Architectural details show government office setting.",
+        "negative_prompt": "No real people, no actual politicians, no military uniforms, no detailed aircraft, no photographs, no color, no grayscale, no shadows, no brand logos, no detailed faces",
+        "layout_notes": "Caption centered below panel. Chart should be clearly legible. Window perspective on right side. Characters positioned left and center."
+      },
+      "explanation_paragraph": "The cartoon satirizes the Indian bureaucracy's tendency to claim success through statistics and paperwork by drawing a parallel between official stamps and cheetah spots. It playfully suggests that even nature must conform to administrative procedures for success in government programs. The confused Common Man represents public amazement at rare bureaucratic efficiency.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Avoids criticism of specific officials or departments. Uses gentle humor about bureaucratic processes."
+      },
+      "tags": [
+        "business",
+        "wildlife",
+        "bureaucracy",
+        "conservation",
+        "government"
+      ]
+    },
+    {
+      "category": "sports",
+      "news_title": "'It's out of our control' - Santner laments loss as New Zealand are left waiting",
+      "news_url": "https://www.espncricinfo.com/ci/content/story/1526280.html?ex_cid=OTC-RSS",
+      "news_source": "Cricket news from ESPN Cricinfo.com",
+      "news_summary": "New Zealand cricket team loses control of their World Cup fate after defeat to England, must now nervously wait for Pakistan vs Sri Lanka match result.",
+      "comic": {
+        "panel_description": "THE COMMON MAN sits on edge of chair watching cricket on small TV, biting nails nervously. Behind him, THE BUREAUCRAT stands with a large cricket scoreboard, constantly flipping numbers and calculations while looking confused. A cricket ball dangles from string above both their heads, suggesting fate hanging by a thread.",
+        "caption": "When destiny takes a tea break...",
+        "image_prompt": "RK Laxman style black ink line drawing showing anxious Common Man character perched on edge of simple wooden chair, facing small TV set. Behind him, portly Bureaucrat in safari suit struggles with traditional manual cricket scoreboard with numbers askew. Single cricket ball suspended by thin string above their heads. Pure black line art, clean strokes, white background, cross-hatching for minimal shadows.",
+        "negative_prompt": "No real cricket players, team logos, brand names, cricket uniforms, stadium details, color, shading, gradients, photorealistic elements, actual match footage",
+        "layout_notes": "Caption centered below panel. Cricket ball positioned top center. Characters arranged diagonally for dynamic tension. TV small in foreground corner."
+      },
+      "explanation_paragraph": "The cartoon satirizes the powerless situation of waiting for others to determine one's fate. The Common Man represents anxious cricket fans while the bureaucrat's confused calculations mirror the complex net run-rate scenarios. The precariously hanging cricket ball symbolizes how destiny can drop at any moment, making light of the serious sports situation through visual metaphor.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Generic characters only, no specific players or teams depicted. Safe sports humor."
+      },
+      "tags": [
+        "sports",
+        "cricket",
+        "world cup",
+        "suspense",
+        "fate"
+      ]
+    }
+  ]
+}
