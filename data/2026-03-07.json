@@ -1,0 +1,113 @@
+{
+  "date": "2026-03-07",
+  "items": [
+    {
+      "category": "technology",
+      "news_title": "Robinhood’s startup fund stumbles in NYSE debut",
+      "news_url": "https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/",
+      "news_source": "TechCrunch",
+      "news_summary": "Robinhood's new startup investment fund for retail investors launches below target and sees stock price drop on first trading day, while competitor fund rises.",
+      "comic": {
+        "panel_description": "THE TECHIE stands proudly on a sinking paper boat labeled 'RVI', while THE COMMON MAN watches from dock labeled 'NYSE'. The boat is made from folded stock certificates. In background, another boat labeled 'Destiny' soars upward on waves.",
+        "caption": "Some robins shouldn't steal from the rich after all",
+        "image_prompt": "Black ink line art editorial cartoon in RK Laxman style showing young techie character balancing precariously on sinking origami-style paper boat, while traditional common man character observes from wooden dock. Simple parallel line shading for water texture. Clean, confident strokes with consistent line weight. Background shows simplified cityscape silhouette.",
+        "negative_prompt": "No color, no gradients, no photographs, no company logos, no real people, no celebrities, no shading beyond simple parallel lines, no detailed textures, no product branding",
+        "layout_notes": "Caption centered below panel. Dock positioned left side, sinking boat center, rising boat right background. Water line at bottom third of frame."
+      },
+      "explanation_paragraph": "The cartoon satirizes Robinhood's ambitious attempt to democratize startup investing falling short of expectations. The contrast between the sinking 'RVI' boat and soaring 'Destiny' boat represents the stark difference in market reception between the two similar funds. The common man watching from shore symbolizes retail investors' hesitation to jump aboard.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Avoids direct criticism of individuals or companies. Uses metaphor rather than specific representations."
+      },
+      "tags": [
+        "technology",
+        "finance",
+        "investing",
+        "startup",
+        "wallstreet"
+      ]
+    },
+    {
+      "category": "politics",
+      "news_title": "Sensitise government officials on rights of persons with disabilities, orders Madras High Court",
+      "news_url": "https://www.thehindu.com/news/national/tamil-nadu/sensitise-government-officials-on-rights-of-persons-with-disabilities-orders-madras-high-court/article70714659.ece",
+      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "news_summary": "Madras High Court orders sensitivity training for officials after they denied a qualified engineer with disabilities a job, emphasizing assessment with assistive devices rather than outright rejection.",
+      "comic": {
+        "panel_description": "Split panel scene. Left side shows THE BUREAUCRAT behind desk dismissively waving away THE COMMON MAN in a wheelchair holding engineering degree. Right side shows same BUREAUCRAT sitting in sensitivity training wearing VR goggles and assistive devices while attempting basic tasks, sweating profusely. THE POLITICIAN stands nearby with namaste pose and forced smile.",
+        "caption": "Finally learning to walk in someone else's shoes... literally",
+        "image_prompt": "RK Laxman style split-panel editorial cartoon, pure black ink line art showing bureaucrat's transformation from dismissive to empathetic through exaggerated situation. Strong clean lines, cross-hatching for depth, white background. Emphasize bureaucrat's expressions - from smug to uncomfortable. Simple architectural details of government office. Classic Indian cartoon style with emphasis on facial expressions and body language.",
+        "negative_prompt": "No color, no shading, no photos, no real people, no gradients, no medical details, no offensive stereotypes, no complex backgrounds, no modern technology except simple VR device",
+        "layout_notes": "Caption centered below split panel. Left panel smaller (1/3), right panel larger (2/3) to emphasize transformation. Clear dividing line between panels."
+      },
+      "explanation_paragraph": "The cartoon satirizes the bureaucratic mindset of outright rejection without understanding disabilities through role reversal. By placing the dismissive bureaucrat in a situation where he must experience limitations firsthand, it highlights the court's emphasis on empathy and proper assessment. The contrast between panels illustrates the transformation from ignorance to awareness that the court seeks to achieve through mandatory sensitivity training.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "politics",
+        "notes": "Treats disability awareness respectfully while targeting bureaucratic insensitivity. Avoids stereotyping disabilities."
+      },
+      "tags": [
+        "politics",
+        "disability_rights",
+        "bureaucracy",
+        "social_justice",
+        "court_order"
+      ]
+    },
+    {
+      "category": "business",
+      "news_title": "War zones add new risks for airline pilots ",
+      "news_url": "https://economictimes.indiatimes.com/news/defence/airline-pilots-navigate-drones-missiles-and-mounting-stress-as-war-spreads/articleshow/129198943.cms",
+      "news_source": "Economic Times",
+      "news_summary": "Commercial airline pilots face increased risks from conflicts, missiles and drones in airspace, especially in Middle East routes, forcing challenging adaptations.",
+      "comic": {
+        "panel_description": "Split panel: Left side shows THE TECHIE as airline pilot in cockpit, anxiously looking at radar screen showing multiple blips. Right side shows THE COMMON MAN as passenger, peacefully sleeping with eye mask, unaware of chaos. THE BUREAUCRAT stands between panels with a rulebook labeled 'Aviation Safety'.",
+        "caption": "Just another day at the office... 35,000 feet up",
+        "image_prompt": "RK Laxman style black ink line drawing showing split panel composition. Left panel: detailed cockpit interior with worried pilot. Right panel: airplane cabin section with sleeping passenger. Center: bureaucrat figure with rulebook. Simple clean lines, no shading, pure black and white treatment. Newspaper editorial cartoon style with emphasis on facial expressions.",
+        "negative_prompt": "No color, no shading, no real people, no military imagery, no weapons, no actual missiles or drones, no airline logos, no violence, no political figures, no realistic aircraft details",
+        "layout_notes": "Caption centered below split panel. Panels divided by thin vertical line. Characters sized proportionally with emphasis on facial expressions. Simple background elements."
+      },
+      "explanation_paragraph": "The cartoon juxtaposes the increasing complexity and danger faced by civilian pilots with the blissful ignorance of passengers. The bureaucrat with outdated safety rules represents how regulatory frameworks struggle to keep pace with new threats. The contrast between the pilot's stress and passenger's peace highlights the hidden challenges of modern aviation.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "war",
+        "notes": "Avoids direct depiction of conflict or weapons. Uses metaphor and suggestion rather than explicit imagery. Generic characters only."
+      },
+      "tags": [
+        "business",
+        "aviation",
+        "safety",
+        "conflict",
+        "technology"
+      ]
+    },
+    {
+      "category": "sports",
+      "news_title": "Mixed-soil pitch set to offer minimal turn and good bounce for India-NZ final",
+      "news_url": "https://www.espncricinfo.com/ci/content/story/1527085.html?ex_cid=OTC-RSS",
+      "news_source": "Cricket news from ESPN Cricinfo.com",
+      "news_summary": "The T20 World Cup final between India and New Zealand will be played on a mixed-soil pitch expected to offer minimal turn but good bounce, aiming for high-scoring matches.",
+      "comic": {
+        "panel_description": "Split panel showing THE COMMON MAN scratching his head while looking at a complex diagram of soil types, while THE BUREAUCRAT proudly stands next to a cricket pitch with a measuring tape and clipboard, measuring bounce height with exaggerated precision. A cricket ball comically bounces higher than the stadium in background.",
+        "caption": "When pitch preparation becomes rocket science",
+        "image_prompt": "RK Laxman style black ink line drawing showing bewildered Common Man studying soil diagram while Bureaucrat measures cricket pitch with absurdly precise instruments. Exaggerated ball bounce trajectory shown with dotted lines. Clean white background, consistent line weight, architectural detail of stadium in background. Traditional crosshatching for depth. No shading or color.",
+        "negative_prompt": "No color, no photos, no real people, no players, no team logos, no brands, no gradients, no grayscale, no celebrities, no complex backgrounds, no detailed crowd scenes",
+        "layout_notes": "Caption centered below panel. Soil diagram clearly visible in left portion. Bureaucrat and measuring devices prominent in right portion. Stadium outline subtle in background."
+      },
+      "explanation_paragraph": "The cartoon satirizes the over-scientific approach to cricket pitch preparation, where soil mixing has become as complex as a laboratory experiment. It pokes fun at the bureaucratic precision in sports administration, while the Common Man represents confused cricket fans who just want to enjoy the game. The absurdly high bounce illustrates the sometimes overthought nature of pitch analysis.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "No controversial elements. Focuses on general cricket administration humor."
+      },
+      "tags": [
+        "sports",
+        "cricket",
+        "bureaucracy",
+        "humor",
+        "T20WorldCup"
+      ]
+    }
+  ]
+}
