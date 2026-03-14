@@ -1,0 +1,113 @@
+{
+  "date": "2026-03-14",
+  "items": [
+    {
+      "category": "technology",
+      "news_title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+      "news_url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+      "news_source": "TechCrunch",
+      "news_summary": "Elon Musk's AI company xAI is starting over after most co-founders left, struggling to compete in AI coding tools market. Company undergoing major restructuring and rehiring.",
+      "comic": {
+        "panel_description": "THE TECHIE stands at a desk frantically rebuilding a house of cards labeled 'xAI', while THE BUREAUCRAT watches smugly. Cards scattered on floor show 'Co-founder' text. THE COMMON MAN peeks through window with bewildered expression.",
+        "caption": "When your artificial intelligence needs natural rebuilding",
+        "image_prompt": "Black ink line art editorial cartoon showing young techie in casual shirt desperately stacking cards at desk, portly bureaucrat in safari suit watching with arms crossed, common man in dhoti-kurta and glasses peering through window. House of cards partially collapsed. Clean lines, no shading, RK Laxman style architectural perspective, detailed facial expressions, scattered cards on floor, desk cluttered with papers.",
+        "negative_prompt": "Elon Musk likeness, company logos, specific AI imagery, computers, color, shading, grayscale, photographs, realistic renderings, celebrity likenesses, modern technology",
+        "layout_notes": "Caption centered below panel. House of cards central focus, characters arranged triangle composition. Window placement upper right corner."
+      },
+      "explanation_paragraph": "The cartoon satirizes the irony of an artificial intelligence company repeatedly failing at its own construction, symbolized by the precarious house of cards. The bureaucrat's smug observation represents established tech companies watching the struggle, while the common man's bewilderment reflects public confusion about AI companies' constant restructuring.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Avoids direct representation of individuals or companies. Uses metaphor rather than specific criticism."
+      },
+      "tags": [
+        "technology",
+        "artificial_intelligence",
+        "startup_culture",
+        "corporate_restructuring",
+        "silicon_valley"
+      ]
+    },
+    {
+      "category": "politics",
+      "news_title": "Telangana Civil Supplies Minister to meet with LPG Distributors Association on March 14",
+      "news_url": "https://www.thehindu.com/news/cities/Hyderabad/telangana-civil-supplies-minister-to-meet-with-lpg-distributors-association-on-march-14/article70742387.ece",
+      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "news_summary": "Telangana government cracks down on LPG hoarding and black marketing, sets up toll-free number for public complaints.",
+      "comic": {
+        "panel_description": "Split panel scene. Left side shows THE BUREAUCRAT at a desk with multiple LPG cylinders hidden behind him, talking on phone. Right side shows THE COMMON MAN standing outside his kitchen with empty cylinder, trying to dial 1967 on an old landline phone. THE BUREAUCRAT's speech bubble reads 'No shortage, sir!'",
+        "caption": "Cylinder of trust: One number to gas them all",
+        "image_prompt": "RK Laxman style pure black ink line art showing split panel composition. Left panel: bureaucrat at wooden desk, multiple gas cylinders poorly hidden behind curtain, speaking confidently on rotary phone. Right panel: common man in simple kitchen, frustrated expression, empty cylinder beside him, dialing old phone. Strong confident linework, cross-hatching for minimal shadows, simple architectural details, classic editorial style.",
+        "negative_prompt": "color, photos, realistic faces, named politicians, government logos, brand names, cylinder company logos, gradients, watercolors, grayscale, violence",
+        "layout_notes": "Caption centered below split panels. Speech bubble clear and readable. Equal panel sizes with thin dividing line."
+      },
+      "explanation_paragraph": "The cartoon juxtaposes the official denial of LPG shortage against the ground reality faced by common citizens. By showing the bureaucrat literally sitting on hoarded cylinders while denying shortage, it highlights the irony of setting up complaint systems while being part of the problem. The old landline phone in common man's hand suggests the futility of the grievance system.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "politics",
+        "notes": "Avoids targeting specific officials or distributors. Focuses on systemic issues rather than individuals."
+      },
+      "tags": [
+        "politics",
+        "bureaucracy",
+        "public services",
+        "corruption",
+        "common man"
+      ]
+    },
+    {
+      "category": "business",
+      "news_title": "Iran: Strait of Hormuz open, some ships passing ",
+      "news_url": "https://economictimes.indiatimes.com/news/international/world-news/iran-has-not-closed-the-strait-of-hormuz-some-ships-are-passing-iran-supreme-leaders-representative-in-india/articleshow/129556042.cms",
+      "news_source": "Economic Times",
+      "news_summary": "Iran keeps Strait of Hormuz technically open during conflict with US/Israel, but ship movement is limited. Rising oil prices affect global economy as tensions continue.",
+      "comic": {
+        "panel_description": "THE COMMON MAN stands at a gas station, staring at sky-high price display. THE BUREAUCRAT smugly points to a tiny model ship passing through a narrow water channel made of paper files on his desk, while oil tankers wait in long queue behind it.",
+        "caption": "See? The strait is open... technically speaking!",
+        "image_prompt": "RK Laxman style black ink line drawing showing split panel - left side has common man at gas station with exaggerated price display, right side has bureaucrat at desk with paper-file strait and toy boats, pure line art, no shading, clean precise strokes, architectural perspective, detailed facial expressions, crisp uniform line weight",
+        "negative_prompt": "avoid: real people, named politicians, military imagery, weapons, violence, colored elements, shading, photos, logos, brand names, realistic ships, gradients",
+        "layout_notes": "Split panel composition, caption centered below, signature in bottom right corner, text must be clearly readable"
+      },
+      "explanation_paragraph": "The cartoon satirizes the diplomatic doublespeak around the Strait of Hormuz crisis. By juxtaposing the bureaucrat's technical claim that the strait remains 'open' with the common man's experience of high fuel prices, it highlights the gap between official statements and ground reality. The paper-made strait metaphor mocks the fragility of global trade routes.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "politics",
+        "notes": "Avoids direct reference to conflict parties or military aspects, focuses on economic impact"
+      },
+      "tags": [
+        "business",
+        "oil",
+        "diplomacy",
+        "global trade",
+        "bureaucracy"
+      ]
+    },
+    {
+      "category": "sports",
+      "news_title": "Agha calls for 'sportsman spirit' after controversial dismissal",
+      "news_url": "https://www.espncricinfo.com/ci/content/story/1527899.html?ex_cid=OTC-RSS",
+      "news_source": "Cricket news from ESPN Cricinfo.com",
+      "news_summary": "During a cricket match, a controversial run-out leads to heated exchange between players. One player later calls for 'sportsman spirit' while defending his angry reaction.",
+      "comic": {
+        "panel_description": "Two THE COMMON MAN characters in cricket gear facing each other on a cricket pitch. One angrily throws his gloves while the other holds up a cricket ball with an exaggerated innocent expression. In the background, THE BUREAUCRAT in an umpire's coat raises his finger while consulting a thick rulebook.",
+        "caption": "Spirit of Cricket meets Letter of Law",
+        "image_prompt": "RK Laxman style black ink line drawing showing cricket field scene with two common men in cricket uniforms confronting each other, one throwing gloves in anger, other holding ball innocently, bureaucrat-umpire in background consulting rulebook with raised finger. Pure black lines on white background, no shading, consistent line weight throughout. Simple ground line indicating cricket pitch.",
+        "negative_prompt": "Avoid specific player likenesses, team logos, cricket board emblems, colored uniforms, shading, actual cricket stadium details, violent gestures, offensive expressions",
+        "layout_notes": "Caption centered below single panel. Keep composition balanced with three figures forming triangle. Clear space around thrown gloves for visual impact."
+      },
+      "explanation_paragraph": "The cartoon juxtaposes the formal rules of cricket with its celebrated 'spirit of the game' tradition. By depicting the bureaucrat-umpire consulting a rulebook while two players argue, it highlights the tension between technical correctness and sportsmanship. The thrown gloves symbolize the emotional human element that often clashes with strict rule interpretation.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Avoids specific player reference, focuses on general sporting ethics debate"
+      },
+      "tags": [
+        "sports",
+        "cricket",
+        "sportsmanship",
+        "rules",
+        "controversy"
+      ]
+    }
+  ]
+}
