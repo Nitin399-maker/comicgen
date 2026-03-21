@@ -1,0 +1,113 @@
+{
+  "date": "2026-03-21",
+  "items": [
+    {
+      "category": "technology",
+      "news_title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+      "news_url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "news_source": "TechCrunch",
+      "news_summary": "AI company Anthropic and Pentagon disagree over military AI use terms, with conflicting claims about what was actually discussed during negotiations.",
+      "comic": {
+        "panel_description": "Split panel scene. Left side shows THE TECHIE and THE BUREAUCRAT shaking hands warmly in front of a computer. Right side shows them pointing fingers at each other angrily, with speech bubbles full of technical jargon and '!?#@' symbols. THE COMMON MAN stands in the middle looking bewildered between both scenes.",
+        "caption": "When AI negotiations turn into artificial disagreements",
+        "image_prompt": "RK Laxman style split-panel editorial cartoon in pure black ink linework. Left panel: Techie character with laptop and Bureaucrat in safari suit shake hands professionally. Right panel: Same characters argue with exaggerated gestures and anger symbols. Common Man in middle looks confused. Simple office background with basic computer shapes. Bold clean strokes, no shading, pure black on white.",
+        "negative_prompt": "No color, no shading, no real people, no Pentagon building, no military imagery, no company logos, no actual AI visualizations, no gradients, no photographs, no detailed tech",
+        "layout_notes": "Caption centered below split panel. Speech bubbles should be minimal and symbolic rather than containing text. Common Man figure bridges both panels."
+      },
+      "explanation_paragraph": "The cartoon satirizes the stark contrast between the initially cordial negotiations and the subsequent public disagreement between Anthropic and the Pentagon. By placing The Common Man between both scenes, it highlights the absurdity of how quickly technical discussions can devolve into public accusations. The split panel format emphasizes how two parties can have completely different recollections of the same meetings.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "politics",
+        "notes": "Avoids specific military imagery or named individuals. Uses symbolic representation of conflict rather than actual accusations."
+      },
+      "tags": [
+        "technology",
+        "artificial_intelligence",
+        "government",
+        "negotiations",
+        "miscommunication"
+      ]
+    },
+    {
+      "category": "politics",
+      "news_title": "Businessman loses ₹15.4 crore in digital arrest scam",
+      "news_url": "https://www.thehindu.com/news/national/karnataka/businessman-loses-154-crore-in-digital-arrest-scam/article70768435.ece",
+      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "news_summary": "81-year-old businessman loses ₹15.4 crore to scammers posing as CBI and RBI officials through intimidation tactics and fake documents.",
+      "comic": {
+        "panel_description": "Split panel: Left side shows THE COMMON MAN (as elderly victim) huddled fearfully at desk with phone, while ghostly figures of fake officials loom behind. Right side shows THE BUREAUCRAT smugly looking at smartphone showing digital payment app, while THE TECHIE stands puzzled looking at complex cybercrime flowchart.",
+        "caption": "Digital Age: When robbers don't need masks, just smartphones",
+        "image_prompt": "RK Laxman style Indian editorial cartoon showing split panel composition. Left panel: elderly common man character trembling at desk with landline phone, haunted by looming bureaucratic figures in background. Right panel: smug bureaucrat checking smartphone while confused techie studies cybercrime flowchart on wall. Pure black ink linework only, clean continuous strokes, crosshatching for shadows, white background, no grayscale.",
+        "negative_prompt": "No color, no shading, no real people, no actual phones/devices shown in detail, no bank logos, no violent imagery, no actual criminal acts shown, no specific officials or departments referenced",
+        "layout_notes": "Caption centered below split panel. Left panel slightly larger to emphasize victim's predicament. Right panel shows institutional ineffectiveness."
+      },
+      "explanation_paragraph": "The cartoon juxtaposes traditional crime with modern cyber scams, highlighting how digital technology has made elderly citizens more vulnerable. The contrast between the fearful victim and indifferent bureaucracy emphasizes systematic failures in protecting citizens. The techie's confusion represents how even tech-savvy professionals struggle to keep up with evolving cyber crimes.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "politics",
+        "notes": "Avoids showing actual criminal acts or specific officials. Focuses on systemic issues rather than individuals."
+      },
+      "tags": [
+        "politics",
+        "cybercrime",
+        "elderly",
+        "technology",
+        "bureaucracy"
+      ]
+    },
+    {
+      "category": "business",
+      "news_title": "Iran denies US claim on crude sanctions relief ",
+      "news_url": "https://economictimes.indiatimes.com/news/international/world-news/iran-denies-us-claim-on-crude-sanctions-relief-oil-jitters-rise-amid-west-asia-crisis/articleshow/129713866.cms",
+      "news_source": "Economic Times",
+      "news_summary": "US eases sanctions on Iranian oil currently at sea, but Iran claims it has no surplus oil available, contradicting US Treasury's market stabilization attempt.",
+      "comic": {
+        "panel_description": "Split panel scene: Left side shows THE BUREAUCRAT standing proudly next to a large empty oil barrel labeled 'IRANIAN OIL', holding a document marked 'SANCTIONS RELIEF'. Right side shows THE COMMON MAN scratching his head while looking at the empty barrel, with a thought bubble containing question marks.",
+        "caption": "When you unlock a door but find an empty room",
+        "image_prompt": "RK Laxman style black ink line drawing showing split panel composition. Left: Bureaucrat in safari suit with proud expression beside large empty oil barrel. Right: Common Man in dhoti-kurta looking confused at empty barrel. Simple clean lines, no shading, stark black and white contrast. Barrel detailed with basic line work. Thought bubble with question marks above Common Man's head. Pure monochrome ink style.",
+        "negative_prompt": "No photographs, no real politicians, no flags, no oil company logos, no color, no gradients, no shading, no grayscale, no realistic portraits, no detailed backgrounds",
+        "layout_notes": "Caption centered below split panel. Barrel serves as central dividing element between panels. Clear white space around figures for readability."
+      },
+      "explanation_paragraph": "The cartoon satirizes the contradictory messaging between US sanctions relief and Iran's denial of available oil. The empty barrel metaphorically represents the futility of easing sanctions on non-existent surplus oil. The contrast between the bureaucrat's confidence and the common man's confusion highlights the disconnect between policy announcements and ground reality.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "politics",
+        "notes": "Avoids direct criticism of specific countries or leaders. Uses metaphor rather than direct representation of conflict."
+      },
+      "tags": [
+        "business",
+        "oil",
+        "sanctions",
+        "international trade",
+        "policy"
+      ]
+    },
+    {
+      "category": "sports",
+      "news_title": "King's T20I return highlights Australia's selection crunch",
+      "news_url": "https://www.espncricinfo.com/ci/content/story/1528593.html?ex_cid=OTC-RSS",
+      "news_source": "Cricket news from ESPN Cricinfo.com",
+      "news_summary": "Australian cricket team faces selection dilemma as spinner Alana King performs well but may still be left out of World Cup team despite taking crucial wickets.",
+      "comic": {
+        "panel_description": "Cricket field setting with THE COMMON MAN as cricket selector sitting on chair with multiple spinning cricket balls juggling above his head. THE BUREAUCRAT stands nearby with a cricket team sheet, looking perplexed at the chaos. A cricket pitch visible in background.",
+        "caption": "When having too many good players becomes a headache",
+        "image_prompt": "Black ink line art showing confused Common Man character in dhoti-kurta seated on simple chair, multiple spinning cricket balls floating above his head in juggling pattern. Bureaucrat in safari suit holds papers, expressing confusion. Simple cricket pitch lines visible in background. RK Laxman style precise line work, no shading, pure black on white.",
+        "negative_prompt": "Avoid real cricketers, team logos, cricket uniforms with branding, actual cricket matches, color, shading, photographs, realistic faces, named individuals, team names",
+        "layout_notes": "Caption centered below panel. Cricket balls arranged in circular pattern above Common Man's head. Composition balanced between two figures with cricket pitch as minimal background element."
+      },
+      "explanation_paragraph": "The cartoon satirizes the peculiar problem of having too many talented players to choose from - a situation that creates its own kind of stress. By showing the Common Man juggling multiple spinning balls, it represents the selectors' dilemma of managing multiple skilled spinners. The Bureaucrat's confusion adds to the irony of what should be a good problem to have turning into a complicated selection puzzle.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Generic representation avoids referencing specific players or team management. Sports-themed humor is universally acceptable."
+      },
+      "tags": [
+        "sports",
+        "cricket",
+        "selection-dilemma",
+        "irony",
+        "team-management"
+      ]
+    }
+  ]
+}
