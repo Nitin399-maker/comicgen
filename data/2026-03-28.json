@@ -1,0 +1,113 @@
+{
+  "date": "2026-03-28",
+  "items": [
+    {
+      "category": "technology",
+      "news_title": "Whoop has LeBron – now it wants your mom",
+      "news_url": "https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/",
+      "news_source": "TechCrunch",
+      "news_summary": "Whoop fitness wearable company wants to expand from athlete-focused device to mainstream health monitor that could predict medical emergencies. Company aims to target regular consumers.",
+      "comic": {
+        "panel_description": "Split panel scene. Left: THE TECHIE enthusiastically demonstrating a wrist device to THE COMMON MAN's elderly mother (drawn as typical Indian grandmother in sari). Right: Same grandmother vigorously doing yoga poses while THE COMMON MAN stares at multiple smartwatch alerts in panic. Multiple exclamation marks float above devices.",
+        "caption": "When mom's fitness band becomes son's anxiety band",
+        "image_prompt": "RK Laxman style pure black ink line art showing split panel composition. Left panel with young techie in casual wear enthusiastically pointing to wrist device while talking to elderly Indian woman in traditional sari. Right panel showing same woman in advanced yoga pose while her bewildered son in dhoti-kurta stares at multiple floating notification symbols above wrist device. Simple clean lines, no shading, white background, consistent stroke weight throughout.",
+        "negative_prompt": "No color, no shading, no real people or celebrities, no brand logos or names, no medical emergencies, no actual Whoop devices or branding, no gradients or grayscale, no photorealistic elements",
+        "layout_notes": "Split panel horizontal format with clear dividing line. Caption centered below both panels. Notification symbols drawn as simple exclamation marks and basic shapes."
+      },
+      "explanation_paragraph": "The cartoon satirizes the ironic role reversal where health monitoring devices meant to provide peace of mind end up causing anxiety for family members. It plays on the universal theme of children becoming overprotective of parents, while the elderly themselves remain carefree. The contrast between the techie's enthusiasm and the common man's panic highlights the gap between intended and actual use of health tech.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "health",
+        "notes": "Avoids specific medical conditions or emergencies. Keeps focus on general wellness monitoring without stigmatization."
+      },
+      "tags": [
+        "technology",
+        "health_tech",
+        "wearables",
+        "family_dynamics",
+        "generational_gap"
+      ]
+    },
+    {
+      "category": "politics",
+      "news_title": "Assembly Elections LIVE: ECI publishes second supplementary voter list in Bengal",
+      "news_url": "https://www.thehindu.com/elections/assembly-elections-kerala-assam-tamil-nadu-west-bengal-puducherry-2026-live/article70795253.ece",
+      "news_source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "news_summary": "Election Commission publishes second voter list in Bengal but faces criticism for lack of transparency about deletions and additions to the electoral rolls.",
+      "comic": {
+        "panel_description": "Split panel scene: Left side shows THE BUREAUCRAT at a desk buried under massive stacks of voter lists, frantically hiding papers under other papers. Right side shows THE COMMON MAN trying to peer through a magnifying glass at a completely blank 'transparency report' while THE POLITICIAN stands behind him with an exaggerated innocent smile.",
+        "caption": "'Transparency' in electoral rolls: Now you see it, now you don't!",
+        "image_prompt": "RK Laxman style black ink line drawing showing split panel composition. Left panel: bureaucrat at cluttered desk with towering paper stacks. Right panel: common man with magnifying glass examining blank paper, politician behind him. Strong confident linework, cross-hatching for depth, no shading or color, pure black and white treatment, architectural perspective showing government office setting, detailed facial expressions showing confusion and false innocence.",
+        "negative_prompt": "No color, no grayscale, no photos, no specific politicians, no party symbols, no actual voter lists or documents, no computers, no modern elements, no shading or gradients",
+        "layout_notes": "Caption centered below split panel. Maintain equal panel sizes. Strong border lines separating panels. Signature space bottom right."
+      },
+      "explanation_paragraph": "The cartoon satirizes the Election Commission's lack of transparency in voter list management by contrasting official claims of openness with actual opacity. The bureaucrat's paper-shuffling represents intentional obfuscation, while the common man's futile attempt to read a blank transparency report highlights the absurdity. The politician's presence suggests official complicity in maintaining this opacity.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "politics",
+        "notes": "Avoids naming specific officials or parties. Uses symbolic representation only."
+      },
+      "tags": [
+        "politics",
+        "elections",
+        "bureaucracy",
+        "transparency",
+        "voter_rights"
+      ]
+    },
+    {
+      "category": "business",
+      "news_title": "PM to inaugurate Rs 891 cr rail projects in Gujarat ",
+      "news_url": "https://economictimes.indiatimes.com/industry/transportation/railways/pm-modi-to-inaugurate-rs-891-crore-rail-projects-in-gujarat-on-march-31/articleshow/129859783.cms",
+      "news_source": "Economic Times",
+      "news_summary": "PM Modi to inaugurate railway projects worth Rs 891 crore in Gujarat, including new train lines and track doubling to improve connectivity and boost economic development.",
+      "comic": {
+        "panel_description": "Split panel showing: Left side - THE POLITICIAN grandly cutting ribbon on tiny toy train track. Right side - THE COMMON MAN waiting at dilapidated station platform checking his watch, while THE BUREAUCRAT sits comfortably in a chair nearby reading newspaper with headline '891 Crore Projects'.",
+        "caption": "Development on track... some assembly required",
+        "image_prompt": "RK Laxman style split-panel editorial cartoon in pure black ink line art. Left panel shows politician in white kurta ceremonially cutting ribbon on miniature railway track. Right panel shows common man in dhoti-kurta standing tired at basic platform while bureaucrat in safari suit reads paper comfortably. Architectural details of railway station in background. Clean line work, no shading, stark black and white contrast only.",
+        "negative_prompt": "No specific politicians, no Modi likeness, no color, no shading, no grayscale, no photorealism, no modern elements, no logos or branding, no detailed faces",
+        "layout_notes": "Caption centered below split panel. Left panel 40% width, right panel 60% width. Station architecture as background element."
+      },
+      "explanation_paragraph": "The cartoon contrasts the grandiose inauguration ceremonies with ground realities faced by common citizens. The juxtaposition of the toy train track inauguration against the actual waiting passenger highlights the gap between announcements and implementation. The bureaucrat's comfortable indifference adds commentary on administrative priorities.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "politics",
+        "notes": "Avoids direct criticism of individuals, focuses on general administrative inefficiency theme"
+      },
+      "tags": [
+        "business",
+        "infrastructure",
+        "railways",
+        "bureaucracy",
+        "development"
+      ]
+    },
+    {
+      "category": "sports",
+      "news_title": "Dhoni 'likely to miss first two weeks' of IPL 2026 because of calf strain",
+      "news_url": "https://www.espncricinfo.com/ci/content/story/1529493.html?ex_cid=OTC-RSS",
+      "news_source": "Cricket news from ESPN Cricinfo.com",
+      "news_summary": "Cricket star MS Dhoni will miss first two weeks of IPL 2026 due to calf injury, affecting Chennai Super Kings' campaign start.",
+      "comic": {
+        "panel_description": "Split panel: Left side shows THE COMMON MAN in hospital waiting room reading newspaper with 'IPL 2026' headline. Right side shows him looking at empty cricket stadium with single bandaged calf muscle sitting on player's bench wearing CSK jersey number 7.",
+        "caption": "When even the calf becomes celebrity patient",
+        "image_prompt": "RK Laxman style black ink line drawing with characteristic loose yet precise strokes. Split panel layout. Left: Common Man on waiting room chair with newspaper. Right: Empty cricket stadium section with anthropomorphized bandaged calf muscle wearing tiny CSK jersey on player bench. Common Man peering through stadium entrance. Pure black lines on white background, cross-hatching for depth, no grayscale.",
+        "negative_prompt": "No Dhoni likeness, no CSK logo, no photorealism, no color, no shading, no grayscale, no portraits, no actual players, no team branding, no sponsors, no realistic stadium details",
+        "layout_notes": "Caption centered below split panel. Stadium architecture simplified to essential lines. Focus on Common Man's bewildered expression and bandaged calf as main elements."
+      },
+      "explanation_paragraph": "The cartoon satirizes the outsized attention given to cricket stars' injuries in Indian media. By anthropomorphizing the calf muscle itself as a VIP patient, it comments on how even minor physical ailments of cricket celebrities become national news. The Common Man's presence highlights the average fan's bemusement at the extensive coverage of such sports injuries.",
+      "safety_checks": {
+        "defamation_risk": "low",
+        "sensitive_topic": "none",
+        "notes": "Avoids direct portrayal of any real person. Uses symbolic representation only."
+      },
+      "tags": [
+        "sports",
+        "cricket",
+        "IPL",
+        "satire",
+        "injury"
+      ]
+    }
+  ]
+}
